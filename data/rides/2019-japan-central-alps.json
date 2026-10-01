@@ -5419,10 +5419,6 @@
    },
    "photos": [
     {
-     "src": "photos/img-2409.jpg",
-     "cap": "The breakfast room at Ryokan Sugimoto"
-    },
-    {
      "src": "photos/img-2411.jpg",
      "cap": "Breakfast at Ryokan Sugimoto"
     },
@@ -5441,10 +5437,6 @@
     {
      "src": "photos/img-2450.jpg",
      "cap": "A tatami hall at Yakushi Onsen Hatago"
-    },
-    {
-     "src": "photos/img-2458.jpg",
-     "cap": "The lantern-lit way to the baths"
     },
     {
      "src": "photos/hatago-river.jpg",
@@ -5472,7 +5464,7 @@
    ],
    "lodging": {
     "name": "Naraya Ryokan, Nozawa Onsen",
-    "url": "http://nozawa-naraya.com/"
+    "url": "https://nozawa-naraya.jp/"
    },
    "photos": [
     {
@@ -5515,10 +5507,6 @@
     "url": "http://ikkyu.co.jp/"
    },
    "photos": [
-    {
-     "src": "photos/img-2505.jpg",
-     "cap": "Morning in Nozawa Onsen"
-    },
     {
      "src": "photos/img-2510.jpg",
      "cap": "Onsen eggs for sale in Nozawa"
@@ -5612,7 +5600,7 @@
    ],
    "lodging": {
     "name": "Hotel Yumoto Kissho, Naruko Onsen",
-    "url": "https://www.hotespa.net/hotels/kissho"
+    "url": "https://dormy-hotels.com/resort/hotels/kissho/"
    },
    "photos": [
     {
@@ -5647,8 +5635,7 @@
     "A nice bit of technical riding on the Zao Echo Line around Mt. Zao, then the Bandai-Azuma Lake Line and Urabandai before things get more relaxed."
    ],
    "lodging": {
-    "name": "Tokiwasure, Inawashiro",
-    "url": "http://www.tokiwasure.com/"
+    "name": "Tokiwasure, Inawashiro"
    },
    "photos": [
     {
