@@ -1,0 +1,312 @@
+{
+ "countries": [
+  {
+   "slug": "usa",
+   "name": "United States",
+   "short": "USA",
+   "resources": []
+  },
+  {
+   "slug": "canada",
+   "name": "Canada",
+   "short": "Canada",
+   "resources": []
+  },
+  {
+   "slug": "norway",
+   "name": "Norway",
+   "short": "Norway",
+   "resources": [
+    {
+     "label": "Riding in Norway — 10 Things to Know",
+     "note": "Video",
+     "url": "https://youtu.be/jnT5sKEm0xw"
+    }
+   ]
+  },
+  {
+   "slug": "sweden",
+   "name": "Sweden",
+   "short": "Sweden",
+   "resources": []
+  },
+  {
+   "slug": "japan",
+   "name": "Japan",
+   "short": "Japan",
+   "resources": [
+    {
+     "label": "Ninja Tours",
+     "note": "Tour operator",
+     "url": "https://www.ninjatours.com/"
+    }
+   ]
+  },
+  {
+   "slug": "portugal",
+   "name": "Portugal",
+   "short": "Portugal",
+   "resources": [
+    {
+     "label": "Portugal Motorcycle Tours",
+     "note": "Tour operator",
+     "url": "https://portugalmotorcycletours.com/"
+    }
+   ]
+  },
+  {
+   "slug": "spain",
+   "name": "Spain",
+   "short": "Spain",
+   "resources": []
+  },
+  {
+   "slug": "australia",
+   "name": "Australia",
+   "short": "Australia",
+   "resources": []
+  }
+ ],
+ "trips": [
+  {
+   "year": 2026,
+   "title": "Japan Central Alps by Ninja Tours",
+   "countries": [
+    "japan"
+   ],
+   "days": 14,
+   "dates": "Oct 4–17, 2026",
+   "status": "upcoming",
+   "links": [
+    {
+     "kind": "page",
+     "url": "/japan/"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "title": "Northern California & Southern Oregon",
+   "countries": [
+    "usa"
+   ],
+   "days": 7,
+   "dates": "Oct 4–12, 2025",
+   "miles": "~1,100",
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2025-norcal-oregon/"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "title": "Las Vegas to California",
+   "countries": [
+    "usa"
+   ],
+   "days": 4,
+   "links": []
+  },
+  {
+   "year": 2025,
+   "title": "Japan Central Alps",
+   "countries": [
+    "japan"
+   ],
+   "days": 8,
+   "links": []
+  },
+  {
+   "year": 2024,
+   "title": "Portugal",
+   "countries": [
+    "portugal"
+   ],
+   "days": 9,
+   "links": [
+    {
+     "kind": "pdf",
+     "url": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:802417a8-d099-4c4d-85f0-cedbb38bf4dc"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "title": "Sweden",
+   "countries": [
+    "sweden"
+   ],
+   "links": []
+  },
+  {
+   "year": 2024,
+   "title": "Spain",
+   "countries": [
+    "spain"
+   ],
+   "days": 4,
+   "links": []
+  },
+  {
+   "year": 2024,
+   "title": "Atlantic Canada",
+   "countries": [
+    "canada"
+   ],
+   "days": 10,
+   "links": []
+  },
+  {
+   "year": 2024,
+   "title": "Las Vegas to Joshua Tree",
+   "countries": [
+    "usa"
+   ],
+   "days": 3,
+   "links": []
+  },
+  {
+   "year": 2024,
+   "title": "Oregon",
+   "countries": [
+    "usa"
+   ],
+   "days": 6,
+   "links": []
+  },
+  {
+   "year": 2024,
+   "title": "Nor'easter",
+   "countries": [
+    "usa"
+   ],
+   "days": 6,
+   "links": []
+  },
+  {
+   "year": 2024,
+   "title": "Las Vegas, Utah & Arizona",
+   "countries": [
+    "usa"
+   ],
+   "days": 6,
+   "links": []
+  },
+  {
+   "year": 2023,
+   "title": "Norway",
+   "countries": [
+    "norway"
+   ],
+   "days": 10,
+   "links": []
+  },
+  {
+   "year": 2023,
+   "title": "Las Vegas to Phoenix, Arizona",
+   "countries": [
+    "usa"
+   ],
+   "days": 6,
+   "links": []
+  },
+  {
+   "year": 2022,
+   "title": "Las Vegas, Utah & Arizona",
+   "countries": [
+    "usa"
+   ],
+   "days": 6,
+   "links": []
+  },
+  {
+   "year": 2022,
+   "title": "Nashville, TN to Dallas, TX",
+   "countries": [
+    "usa"
+   ],
+   "days": 4,
+   "links": []
+  },
+  {
+   "year": 2022,
+   "title": "Las Vegas to Napa Valley",
+   "countries": [
+    "usa"
+   ],
+   "days": 6,
+   "links": []
+  },
+  {
+   "year": 2021,
+   "title": "Western USA",
+   "countries": [
+    "usa"
+   ],
+   "days": 35,
+   "duration": "5 weeks",
+   "links": []
+  },
+  {
+   "year": 2019,
+   "title": "Japan Central Alps",
+   "countries": [
+    "japan"
+   ],
+   "days": 10,
+   "links": []
+  },
+  {
+   "year": 2019,
+   "title": "Sydney",
+   "countries": [
+    "australia"
+   ],
+   "days": 3,
+   "links": []
+  },
+  {
+   "year": 2019,
+   "title": "Knoxville, TN to Virginia",
+   "countries": [
+    "usa"
+   ],
+   "links": []
+  },
+  {
+   "year": 2018,
+   "title": "Norway & Sweden",
+   "countries": [
+    "norway",
+    "sweden"
+   ],
+   "days": 15,
+   "links": []
+  },
+  {
+   "year": 2018,
+   "title": "Chicago, IL to Wisconsin",
+   "countries": [
+    "usa"
+   ],
+   "links": []
+  },
+  {
+   "year": 2017,
+   "title": "Norway",
+   "countries": [
+    "norway"
+   ],
+   "days": 6,
+   "links": []
+  }
+ ],
+ "future": [
+  {
+   "title": "European Alps",
+   "note": "Dream it. Live it."
+  }
+ ]
+}
