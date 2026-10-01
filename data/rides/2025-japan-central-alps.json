@@ -3432,11 +3432,19 @@
    "photos": [
     {
      "src": "photos/img-9883.jpg",
-     "cap": "Morning in Matsunoyama"
+     "cap": "Matsunoyama ski slope"
     },
     {
      "src": "photos/img-2531.jpg",
      "cap": "The Agano River at Kanose"
+    },
+    {
+     "src": "photos/img-2575.jpg",
+     "cap": "The lobby at Fukusen"
+    },
+    {
+     "src": "photos/kanose-dinner.jpg",
+     "cap": "Dinner at Kanose"
     },
     {
      "src": "photos/img-2559.jpg",
@@ -3478,24 +3486,12 @@
      "cap": "Breakfast at Fukusen"
     },
     {
-     "src": "photos/img-9985.jpg",
-     "cap": "Breakfast at Fukusen"
-    },
-    {
-     "src": "photos/img-2575.jpg",
-     "cap": "The lobby at Fukusen"
-    },
-    {
-     "src": "photos/img-2576.jpg",
-     "cap": "The lobby at Fukusen"
+     "src": "photos/img-2610.jpg",
+     "cap": "Yusuitei Isagoya, Yunohama Onsen"
     },
     {
      "src": "photos/img-0029.jpg",
      "cap": "Grilled beef and vegetables at Isagoya, Yunohama"
-    },
-    {
-     "src": "photos/img-2610.jpg",
-     "cap": "Yusuitei Isagoya, Yunohama Onsen"
     }
    ]
   },
