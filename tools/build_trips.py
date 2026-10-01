@@ -49,7 +49,7 @@ def day_html(i, d):
         out.append('<p class="side-k">Watch for</p><ul class="sights watch">' + ''.join(
             f'<li><b>{e(n)}.</b> {e(t)}</li>' for n, t in d['dangers']) + '</ul>')
     if d.get('photos'):
-        out.append('<div class="photos">' + ''.join(
+        out.append(f'<div class="photos" style="--n:{min(len(d["photos"]), 4)}">' + ''.join(
             f'<figure><a href="{e(ph["src"])}" target="_blank" rel="noopener"><img src="{e(ph["src"])}" alt="{e(ph["cap"])}" loading="lazy"></a>'
             f'<figcaption>{e(ph["cap"])}</figcaption></figure>' for ph in d['photos']) + '</div>')
     if not any(d.get(x) for x in ('prose', 'legs', 'road', 'highlights', 'via', 'sights', 'tips', 'golf', 'photos')):
