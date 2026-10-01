@@ -22,6 +22,10 @@ ORDER = [c['slug'] for c in data['countries']]
 trips = sorted(data['trips'], key=lambda t: -t['year'])
 e = html.escape
 
+
+def href(s):
+    return C[s].get('href') or f'/{s}/'
+
 FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
          '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
          '<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700'
@@ -42,7 +46,7 @@ LABEL = {'page': 'Trip page', 'pdf': 'Itinerary (PDF)'}
 
 def page(title, desc, current, body):
     nav = ''.join(
-        f'<a href="/{s}/"{" aria-current=page" if s == current else ""}>{e(C[s]["short"])}</a>' for s in ORDER)
+        f'<a href="{href(s)}"{" aria-current=page" if s == current else ""}>{e(C[s]["short"])}</a>' for s in ORDER)
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,7 +86,7 @@ def ride_li(t, here=None):
     meta = [x for x in [t.get('dates'), days_txt(t), (t.get('miles') + ' mi') if t.get('miles') else None] if x]
     others = [s for s in t['countries'] if s != here]
     if others:
-        meta.append(' · '.join(f'<a href="/{s}/">{e(C[s]["name"])}</a>' for s in others) if here else
+        meta.append(' · '.join(f'<a href="{href(s)}">{e(C[s]["name"])}</a>' for s in others) if here else
                     ' & '.join(e(C[s]['name']) for s in t['countries']))
     btns = ''.join(
         f'<a class="lk{" primary" if l["kind"] == "page" else ""}" href="{e(l["url"])}"'
@@ -127,7 +131,7 @@ for f in maps['world']:
         continue
     p = f'<path d="{f["d"]}"><title>{e(f["name"])}</title></path>'
     if f['slug']:
-        p = f'<a href="/{f["slug"]}/" aria-label="{e(C[f["slug"]]["name"])}">{p}</a>'
+        p = f'<a href="{href(f["slug"])}" aria-label="{e(C[f["slug"]]["name"])}">{p}</a>'
     world.append(p)
 
 cards = []
@@ -136,7 +140,7 @@ for s in ORDER:
     ys = sorted({t['year'] for t in ts})
     span = f'{ys[0]}–{ys[-1]}' if len(ys) > 1 else str(ys[0])
     n = len(ts)
-    cards.append(f'<a class="ccard" href="/{s}/">{silhouette(s, "")}<h3>{e(C[s]["name"])}</h3>'
+    cards.append(f'<a class="ccard" href="{href(s)}">{silhouette(s, "")}<h3>{e(C[s]["name"])}</h3>'
                  f'<p>{n} ride{"s" if n != 1 else ""} · {span}</p></a>')
 
 fut = ''.join(f'<div class="future"><p class="kicker">Future plan</p><h3>{e(x["title"])}</h3><p>{e(x["note"])}</p></div>'

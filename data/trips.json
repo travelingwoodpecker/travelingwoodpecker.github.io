@@ -40,7 +40,8 @@
      "note": "Tour operator",
      "url": "https://www.ninjatours.com/"
     }
-   ]
+   ],
+   "href": "https://classes-list.github.io/japan/"
   },
   {
    "slug": "portugal",
@@ -80,7 +81,7 @@
    "links": [
     {
      "kind": "page",
-     "url": "/japan/"
+     "url": "https://classes-list.github.io/japan/"
     }
    ]
   },
