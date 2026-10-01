@@ -32,10 +32,7 @@ FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
          '&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Sans:wght@400;500;600'
          '&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">')
 
-LOGO = ('<svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="#2F5D4E"/>'
-        '<path d="M9 21c2-6 6-10 11-11l4-2-1 4c-1 5-5 9-11 10l-3 1z" fill="#F6F5F1"/>'
-        '<path d="M20 10l3-1" stroke="#8A6414" stroke-width="2" stroke-linecap="round"/>'
-        '<circle cx="19.5" cy="12.5" r="1.1" fill="#191A17"/></svg>')
+LOGO = '<img src="/assets/logo-mark.png" alt="" width="34" height="34">'
 
 ICON = {
     'page': '<svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg>',
@@ -55,6 +52,7 @@ def page(title, desc, current, body):
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
 <meta name="theme-color" content="#2F5D4E">
+<link rel="icon" type="image/png" href="/assets/favicon.png">
 {FONTS}
 <link rel="stylesheet" href="/assets/site.css">
 </head>
@@ -147,11 +145,12 @@ fut = ''.join(f'<div class="future"><p class="kicker">Future plan</p><h3>{e(x["t
               for x in data.get('future', []))
 
 home_body = f'''<main class="wrap">
-<section class="hero">
-<p class="kicker">Motorcycle logbook · {min(years)}–{max(t["year"] for t in trips)}</p>
+<section class="hero hero-split home-hero">
+<div><p class="kicker">Motorcycle logbook · {min(years)}–{max(t["year"] for t in trips)}</p>
 <h1>Traveling Woodpecker</h1>
 <p class="dek">Every ride, country by country: the routes, the roads and the places in between.</p>
-<dl class="stats">{stat("Countries", len(ORDER))}{stat("Rides", len(done))}{stat("Days on the road", f"{known_days(done)}+")}{stat("Years", len(set(years)))}</dl>
+<dl class="stats">{stat("Countries", len(ORDER))}{stat("Rides", len(done))}{stat("Days on the road", f"{known_days(done)}+")}{stat("Years", len(set(years)))}</dl></div>
+<img class="home-logo" src="/assets/logo-520.png" alt="Traveling Woodpecker logo: a woodpecker riding a dirt bike" width="520" height="511">
 </section>
 <section class="section" aria-labelledby="map-h">
 <div class="section-head"><h2 id="map-h">Where I've ridden</h2><p class="section-note">Click a country to see its rides.</p></div>

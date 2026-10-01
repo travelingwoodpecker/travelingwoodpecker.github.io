@@ -1,0 +1,66 @@
+{
+ "slug": "2024-las-vegas-utah-arizona",
+ "country": "usa",
+ "year": 2024,
+ "title": "Las Vegas, Utah & Arizona",
+ "kicker": "March 22–25, 2024 · Motorcycle ride",
+ "dek": "Three nights and four days: up I-15 to Mesquite, south to red-rock Sedona, west to Kingman, and back to Las Vegas.",
+ "stats": [
+  [
+   "4",
+   "riding days"
+  ],
+  [
+   "3",
+   "nights"
+  ],
+  [
+   "3",
+   "states"
+  ]
+ ],
+ "route": [
+  "Las Vegas, NV",
+  "Mesquite, NV",
+  "Sedona, AZ",
+  "Kingman, AZ",
+  "Las Vegas, NV"
+ ],
+ "overnights": [
+  "Mesquite, NV",
+  "Sedona, AZ",
+  "Kingman, AZ"
+ ],
+ "days": [
+  {
+   "label": "Day 1",
+   "date": "Fri, Mar 22",
+   "from": "Las Vegas, NV",
+   "to": "Mesquite, NV",
+   "lodging": {
+    "name": "Eureka Casino Resort, Mesquite"
+   }
+  },
+  {
+   "label": "Day 2",
+   "date": "Sat, Mar 23",
+   "from": "Mesquite, NV",
+   "to": "Sedona, AZ",
+   "lodging": {
+    "name": "Orchards Inn, Sedona"
+   }
+  },
+  {
+   "label": "Day 3",
+   "date": "Sun, Mar 24",
+   "from": "Sedona, AZ",
+   "to": "Kingman, AZ"
+  },
+  {
+   "label": "Day 4",
+   "date": "Mon, Mar 25",
+   "from": "Kingman, AZ",
+   "to": "Las Vegas, NV"
+  }
+ ]
+}

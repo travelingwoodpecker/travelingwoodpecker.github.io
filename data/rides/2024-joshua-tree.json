@@ -1,0 +1,117 @@
+{
+ "slug": "2024-joshua-tree",
+ "country": "usa",
+ "year": 2024,
+ "title": "Las Vegas to Joshua Tree",
+ "kicker": "2024 · Three-day motorcycle ride",
+ "dek": "Route 66 country and the Mojave on the way to Joshua Tree National Park, a night in the Coachella Valley, then east to the Colorado River at Blythe before the ride home.",
+ "stats": [
+  [
+   "3",
+   "riding days"
+  ],
+  [
+   "2",
+   "states"
+  ]
+ ],
+ "route": [
+  "Las Vegas, NV",
+  "Seven Magic Mountains",
+  "Primm, NV",
+  "Amboy, CA",
+  "Joshua Tree, CA",
+  "Indio, CA",
+  "Blythe, CA",
+  "Las Vegas, NV"
+ ],
+ "overnights": [
+  "Las Vegas, NV",
+  "Indio, CA",
+  "Blythe, CA"
+ ],
+ "days": [
+  {
+   "label": "Arrive",
+   "date": "Friday",
+   "title": "Las Vegas, NV",
+   "lodging": {
+    "name": "Tru by Hilton Las Vegas Airport",
+    "addr": "6862 Gilespie Street, Las Vegas, NV 89119",
+    "note": "~$180/room"
+   }
+  },
+  {
+   "label": "Day 1",
+   "date": "Saturday",
+   "from": "Las Vegas, NV",
+   "to": "Indio, CA",
+   "legs": [
+    [
+     "Las Vegas → Primm",
+     "44 mi · 41 min"
+    ],
+    [
+     "Primm → Amboy",
+     "91 mi · 1 hr 32 min"
+    ]
+   ],
+   "prose": [
+    "Breakfast at Primm & Proper inside the Primm Valley Resort & Casino. The avocado toast is good: poached egg, tomatoes and wild greens on country-grilled bread.",
+    "Past Primm, Roy’s Motel & Cafe in Amboy is a defunct 1940s diner, motel and (expensive) gas station on old Route 66."
+   ],
+   "stops": [
+    [
+     "Seven Magic Mountains",
+     "https://sevenmagicmountains.com/"
+    ],
+    [
+     "The Lotto Store at Primm",
+     "https://www.primmvalleyresorts.com/casino/the-lotto-store/"
+    ],
+    [
+     "Whiskey Pete’s",
+     "https://primmvalleyresorts.com/hotel/whiskey-petes/"
+    ],
+    [
+     "Roy’s Motel & Cafe, Amboy",
+     "https://visitamboy.com/"
+    ]
+   ],
+   "lodging": {
+    "name": "Signature Inn Indio I-10",
+    "addr": "84096 Indio Springs Drive, Indio, CA 92203",
+    "note": "~$170/room"
+   }
+  },
+  {
+   "label": "Day 2",
+   "date": "Sunday",
+   "from": "Indio, CA",
+   "to": "Blythe, CA",
+   "lodging": {
+    "name": "Hampton Inn & Suites Blythe",
+    "addr": "2011 East Donlon Street, Blythe, CA 92225",
+    "note": "~$165/room"
+   }
+  },
+  {
+   "label": "Day 3",
+   "date": "Monday",
+   "from": "Blythe, CA",
+   "to": "Las Vegas, NV",
+   "prose": [
+    "Back to Las Vegas to return the bikes."
+   ],
+   "lodging": {
+    "name": "Tru by Hilton Las Vegas Airport",
+    "addr": "6862 Gilespie Street, Las Vegas, NV 89119",
+    "note": "~$180/room"
+   }
+  }
+ ],
+ "marks": [
+  "Joshua Tree, CA",
+  "Amboy, CA"
+ ]
+}

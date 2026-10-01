@@ -1,0 +1,486 @@
+{
+ "slug": "2025-norcal-oregon",
+ "country": "usa",
+ "year": 2025,
+ "title": "Northern California & Southern Oregon",
+ "kicker": "October 4–12, 2025 · Motorcycle tour",
+ "dek": "A ~1,100-mile loop from the Golden Gate up the redwood coast, across southern Oregon, down past Mount Shasta and Lassen, and home through Napa and Sonoma wine country.",
+ "stats": [
+  [
+   "~1,100",
+   "miles"
+  ],
+  [
+   "7",
+   "riding days"
+  ],
+  [
+   "2",
+   "states"
+  ],
+  [
+   "2",
+   "rounds of golf"
+  ]
+ ],
+ "route": [
+  "San Francisco",
+  "Bodega Bay",
+  "Ukiah",
+  "Willits",
+  "Eureka",
+  "Crescent City",
+  "Grants Pass",
+  "Medford",
+  "Klamath Falls",
+  "Mount Shasta",
+  "Burney Falls",
+  "Lassen Volcanic NP",
+  "Redding",
+  "Red Bluff",
+  "Clearlake",
+  "Calistoga",
+  "Sonoma",
+  "Napa",
+  "San Francisco"
+ ],
+ "overnights": [
+  "Ukiah",
+  "Crescent City",
+  "Klamath Falls",
+  "Red Bluff",
+  "Sonoma",
+  "Napa",
+  "San Francisco"
+ ],
+ "marks": [
+  "Mount Shasta",
+  "Lassen Volcanic NP"
+ ],
+ "days": [
+  {
+   "label": "Day 1",
+   "date": "Sat, Oct 4",
+   "from": "San Francisco",
+   "to": "Ukiah, CA",
+   "dist": "~150 mi · 4 hrs",
+   "prose": [
+    "Scenic ride via US-101 and CA-1 north, mixing coastal beauty, redwoods and small towns."
+   ],
+   "sights": [
+    [
+     "Golden Gate Bridge",
+     "North Vista Point photos"
+    ],
+    [
+     "Marin Headlands",
+     "bridge and coast views; winding roads"
+    ],
+    [
+     "Stinson Beach",
+     "beach and lagoon stop"
+    ],
+    [
+     "Point Reyes National Seashore",
+     "cliffs and waves; optional lighthouse detour (~20 mi)"
+    ],
+    [
+     "Tomales Bay",
+     "bay views and oyster farms"
+    ],
+    [
+     "Bodega Bay",
+     "harbor, seafood, “The Birds” film site; exhilarating CA-1 curves"
+    ],
+    [
+     "Bodega Dunes",
+     "windswept trails"
+    ],
+    [
+     "Sebastopol",
+     "orchards and farm stands via CA-12 E"
+    ],
+    [
+     "Santa Rosa Historic District",
+     "tree-lined streets"
+    ],
+    [
+     "Kendall-Jackson Wine Estate & Gardens",
+     "tasting and gardens (~7 mi from Santa Rosa)"
+    ],
+    [
+     "US-101 N",
+     "through Mendocino vineyards"
+    ],
+    [
+     "Hendy Woods State Park",
+     "redwood detour on CA-128"
+    ],
+    [
+     "Ukiah Valley",
+     "Mayacamas Mountains at sunset"
+    ]
+   ],
+   "tips": "Early morning or late afternoon for golden light and less fog. CA-1 is tight and thrilling but watch for fog and wind; US-101 is faster and straighter. Plan one or two stops (Stinson Beach, Bodega Bay, Kendall-Jackson) on the ~3 hr 53 min ride. Fuel at Bodega — stations are sparse on CA-1.",
+   "weather": "Coast (SF, Stinson, Bodega) 60–70°F (15–21°C), warming to 70–80°F (21–27°C) inland. Partly cloudy with morning coastal fog (visibility under 100 ft possible) clearing by afternoon; 10–20% chance of light showers. Winds 5–15 mph, stronger on the coast. Nights 45–55°F (7–13°C). Start after 9 AM to avoid fog.",
+   "dangers": [
+    [
+     "Coastal fog on CA-1",
+     "Dense morning fog near Stinson Beach and Point Reyes reduces visibility; use low beams and fog lights and slow down. Avoid a pre-9 AM start if foggy (check Caltrans QuickMap)."
+    ],
+    [
+     "Tight curves, wet pavement",
+     "CA-1’s sharp turns (e.g. near Bodega) get slick from fog and drizzle; stay focused and avoid gravel shoulders. US-101 is straighter but watch the vineyard winds."
+    ],
+    [
+     "Construction",
+     "Northbound US-101 reduced to one lane ~2–3 mi north of SR-271 (Mendocino Co.) around the clock — expect delays. One-way traffic control near Arnold possible 7 AM–5 PM."
+    ],
+    [
+     "Wildlife",
+     "Deer are active in Marin and Sonoma at dawn and dusk (e.g. Hendy Woods); slow down in forested areas."
+    ],
+    [
+     "Fuel",
+     "Sparse stations on CA-1; fill up in SF or Sausalito."
+    ]
+   ],
+   "lodging": {
+    "name": "Hampton Inn Ukiah",
+    "addr": "1160 Airport Park Blvd, Ukiah, CA 95482",
+    "note": "~$130–$180/night",
+    "desc": "Clean, modern, motorcycle-friendly parking. Free breakfast, Wi-Fi, pool. Near US-101 and downtown."
+   },
+   "dining": [
+    [
+     "Oco Time",
+     "111 W Church St · ~1.5 mi",
+     "Japanese and sushi; cozy, fresh rolls like the Mendocino, and tempura. Open until ~9 PM."
+    ],
+    [
+     "Ukiah Brewing Company",
+     "102 S State St · ~1.3 mi",
+     "Alternative: pub fare, burgers, beers."
+    ]
+   ]
+  },
+  {
+   "label": "Day 2",
+   "date": "Sun, Oct 5",
+   "from": "Ukiah",
+   "to": "Crescent City, CA",
+   "dist": "~240 mi · 4.5 hrs",
+   "prose": [
+    "The Redwood Highway (US-101 north) through forests, coast and towns."
+   ],
+   "sights": [
+    [
+     "Ukiah wine country",
+     "vineyards and oaks"
+    ],
+    [
+     "Willits",
+     "“Gateway to the Redwoods”"
+    ],
+    [
+     "Laytonville",
+     "redwood canopy"
+    ],
+    [
+     "Avenue of the Giants",
+     "31 mi through Humboldt Redwoods SP; Founders Grove, Rockefeller Loop"
+    ],
+    [
+     "Garberville / Scotia",
+     "Eel River views"
+    ],
+    [
+     "Eureka",
+     "Victorian town; Old Town marina detour"
+    ],
+    [
+     "Arcata Bay / Humboldt Lagoons",
+     "wetlands, ocean vistas; elk at Elk Prairie"
+    ],
+    [
+     "Prairie Creek Redwoods State Park",
+     "meadows and redwoods"
+    ],
+    [
+     "Del Norte Coast Redwoods State Park",
+     "ocean pullouts"
+    ],
+    [
+     "Trees of Mystery, Klamath",
+     "Paul Bunyan statue and gondola"
+    ],
+    [
+     "Battery Point Lighthouse",
+     "sunset tides"
+    ]
+   ],
+   "tips": "4–5 hours without stops; plan 6–8 with sights. Tight curves in the redwoods and along the coast; fog and wet roads are common in the morning. Fuel in Ukiah, Willits or Eureka (scarce in the redwoods). Watch for elk and deer.",
+   "dangers": [
+    [
+     "Fog and rain in the redwoods",
+     "Morning fog and drizzle on US-101 near Eureka and Del Norte; use fog lights and consider delaying the start to 10 AM. Fallen leaves and needles make curves slick."
+    ],
+    [
+     "Fuel",
+     "Limited between Garberville and Eureka — fill early. Check for debris in the redwoods."
+    ]
+   ],
+   "lodging": {
+    "name": "Lighthouse Inn",
+    "addr": "681 Hwy 101 S, Crescent City, CA 95531",
+    "note": "~$110–$160/night",
+    "desc": "Cozy coastal vibe, ocean views, free breakfast and Wi-Fi. Spacious lot for bikes."
+   },
+   "dining": [
+    [
+     "Chart Room Restaurant",
+     "130 Anchor Way · ~0.5 mi",
+     "Seafood with harbor views — crab and clams. Open until ~8 PM."
+    ],
+    [
+     "SeaQuake Brewing",
+     "400 Front St · ~1 mi",
+     "Alternative: pizzas and beers."
+    ]
+   ]
+  },
+  {
+   "label": "Day 3",
+   "date": "Mon, Oct 6",
+   "from": "Crescent City",
+   "to": "Klamath Falls, OR",
+   "dist": "~200 mi · 4 hrs",
+   "prose": [
+    "US-199 (the Redwood Highway) to Grants Pass, OR-238 through the Applegate Valley to Medford, then OR-140 to Klamath Falls."
+   ],
+   "sights": [
+    [
+     "Jedediah Smith Redwoods SP",
+     "Stout Grove detour on Howland Hill Rd"
+    ],
+    [
+     "Smith River",
+     "turquoise water and cliffs; Patrick Creek Overlook"
+    ],
+    [
+     "Collier Tunnel",
+     "winding and narrow"
+    ],
+    [
+     "Applegate Valley",
+     "vineyards and orchards; Applegate Lake stop"
+    ],
+    [
+     "Oregon Caves National Monument",
+     "optional OR-46 detour (~20 mi) to marble caves"
+    ],
+    [
+     "Fish Lake / Lake of the Woods",
+     "mountain lakes on OR-140"
+    ],
+    [
+     "Crater Lake National Park",
+     "optional, ~70 mi round trip; Rim Drive vistas"
+    ]
+   ],
+   "tips": "3.5–4 hours base; 5–7 with detours. Curvy and twisty on US-199 and OR-46; low traffic on OR-238. Fuel in Grants Pass or Medford. Bring layers for the coastal chill and inland warmth.",
+   "dangers": [
+    [
+     "Fog and wet roads",
+     "Morning fog on US-199 (Jedediah Smith); careful on curves and in the tunnel. OR-46 (Caves detour) is narrow and slick when wet — skip it if raining."
+    ],
+    [
+     "Twisty sections, wildlife",
+     "Tight turns on US-199 and OR-46 — watch for gravel and debris. Deer and elk around Applegate and Lake of the Woods at dawn and dusk. OR-140 width-restricted to 14 ft near Klamath Falls for construction."
+    ]
+   ],
+   "lodging": {
+    "name": "Holiday Inn Express & Suites Klamath Falls",
+    "addr": "2430 S 6th St, Klamath Falls, OR 97601",
+    "note": "~$120–$170/night",
+    "desc": "Modern, central, secure parking. Free breakfast, pool, Wi-Fi. Near OR-140 and downtown."
+   },
+   "dining": [
+    [
+     "Thai Orchid",
+     "900 Main St · ~2 mi",
+     "Thai — pad Thai and curry. Open until ~9 PM."
+    ],
+    [
+     "The Pikey",
+     "610 Main St · ~2 mi",
+     "Alternative: burgers, tacos, beers."
+    ]
+   ]
+  },
+  {
+   "label": "Day 4",
+   "date": "Tue, Oct 7",
+   "from": "Klamath Falls",
+   "to": "Red Bluff, CA",
+   "dist": "~250 mi · 4.5 hrs",
+   "prose": [
+    "US-97 south to Mount Shasta, CA-89 south and CA-44 through Lassen Volcanic National Park to Redding, then I-5 south to Red Bluff."
+   ],
+   "sights": [
+    [
+     "Upper Klamath Lake",
+     "wetlands and pelicans"
+    ],
+    [
+     "Klamath Basin grasslands",
+     "open vistas"
+    ],
+    [
+     "Mount Shasta",
+     "vista point near Weed; optional CA-89 detour via McCloud for river and falls"
+    ],
+    [
+     "Burney Falls",
+     "129-ft cascade in the state park"
+    ],
+    [
+     "Hat Creek Valley",
+     "lava fields and Lassen Peak views"
+    ],
+    [
+     "Lassen Volcanic NP",
+     "Manzanita Lake, Sulphur Works, Bumpass Hell, Kings Creek / Summit Lake"
+    ],
+    [
+     "Shingletown",
+     "oak woodlands"
+    ],
+    [
+     "Redding",
+     "Sacramento River and Sundial Bridge"
+    ],
+    [
+     "Red Bluff",
+     "Victorian charm on the river"
+    ]
+   ],
+   "tips": "6–8 hours with stops. Thrilling CA-89 switchbacks; bring layers for the elevation swings. Fuel in Klamath Falls, Weed, Burney or Redding.",
+   "weather": "Klamath Falls and Mount Shasta 65–80°F (18–27°C), partly cloudy, 5–10% rain; morning fog near the lake clears. Lassen highs 60–75°F (15–24°C), 10–15% chance of showers at elevation. Red Bluff 70–85°F (21–29°C), sunny. Winds 5–15 mph. Lows 40–60°F (4–15°C).",
+   "dangers": [
+    [
+     "Elevation weather",
+     "Sudden changes in Lassen (CA-89); light rain or snow possible at the peaks — check NPS road status (usually open in October, but early snow can close it)."
+    ],
+    [
+     "Wildlife and curves",
+     "Deer and bears around Lassen and Burney; slow down in forests. CA-89 and CA-44 descents are tight; watch gravel shoulders at dawn and dusk."
+    ],
+    [
+     "Heat",
+     "85°F+ in Red Bluff — hydrate. I-5 is straightforward but crosswinds are possible."
+    ]
+   ],
+   "lodging": {
+    "name": "Hampton Inn & Suites Red Bluff",
+    "addr": "520 Adobe Rd, Red Bluff, CA 96080",
+    "note": "~$116–$180/night",
+    "desc": "Highly rated, clean and modern. Breakfast, Wi-Fi, pool. Near I-5 and the river."
+   },
+   "dining": [
+    [
+     "The Brickyard",
+     "543 Main St · ~1.2 mi",
+     "BBQ — tri-tip and ribs. Open until ~8 PM."
+    ],
+    [
+     "Los Gordos Taqueria",
+     "708 Washington St · ~1 mi",
+     "Alternative: Mexican tacos."
+    ]
+   ]
+  },
+  {
+   "label": "Day 5",
+   "date": "Wed, Oct 8",
+   "from": "Red Bluff",
+   "to": "Sonoma, CA",
+   "dist": "~180 mi · 3.5 hrs",
+   "prose": [
+    "I-5 south to Williams, CA-20 west to Clearlake, CA-53 and CA-29 south to Calistoga, then CA-12 west to Sonoma."
+   ],
+   "sights": [
+    [
+     "Sacramento Valley farms",
+     "almond and rice fields, Sierra views"
+    ],
+    [
+     "CA-20 to Clear Lake",
+     "rolling hills and oaks; Mount Konocti volcano"
+    ],
+    [
+     "CA-53",
+     "lake views and Lower Lake towns"
+    ],
+    [
+     "Napa Valley on CA-29",
+     "vineyards, Mayacamas Mountains, balloons, Calistoga springs"
+    ],
+    [
+     "CA-12",
+     "oak hills and horse ranches to Sonoma Plaza"
+    ]
+   ],
+   "tips": "Balances straight I-5 cruising with CA-20 and CA-12 curves. Go early for fewer tourists. Watch for winery traffic and cyclists on CA-29 and CA-12.",
+   "weather": "Red Bluff and Williams 70–85°F (21–29°C), sunny. Clearlake and Sonoma 65–80°F (18–27°C), partly cloudy with 5–10% showers; morning fog near Calistoga clears. Winds 5–15 mph (crosswinds on I-5). Lows 45–60°F (7–15°C). Perfect wine-country weather.",
+   "dangers": [
+    [
+     "Crosswinds and traffic",
+     "Open I-5 stretches are gusty (15–20 mph) — lean in. Heavy tourist traffic on CA-29 and CA-12 (winery pullouts, cyclists), especially afternoons."
+    ],
+    [
+     "Curves and roadwork",
+     "Moderate twists on CA-20 and CA-12 near Clear Lake and Sonoma; gravel possible if damp. Utility work on CA-20 at Clearlake Oaks and night paving on CA-29 west of Lower Lake."
+    ],
+    [
+     "Wildlife",
+     "Deer on CA-20 and CA-12 at dawn and dusk."
+    ]
+   ],
+   "lodging": {
+    "name": "Sonoma Hotel",
+    "addr": "Sonoma, CA",
+    "desc": "Historic, central to the plaza."
+   },
+   "golf": [
+    "Eagle Vines Golf Club",
+    "3:00 PM tee time"
+   ]
+  },
+  {
+   "label": "Day 6",
+   "date": "Thu, Oct 9",
+   "from": "Sonoma",
+   "to": "Napa",
+   "dist": "Short hop · ~27 min",
+   "lodging": {
+    "name": "Hawthorn Suites by Wyndham Napa Valley",
+    "addr": "314 Soscol Avenue, Napa, CA 94559"
+   },
+   "golf": [
+    "Chardonnay Golf Club",
+    "1:39 PM tee time"
+   ]
+  },
+  {
+   "label": "Day 7",
+   "date": "Fri, Oct 10",
+   "from": "Napa",
+   "to": "San Francisco",
+   "dist": "Bike return",
+   "lodging": {
+    "name": "1 Hotel San Francisco"
+   }
+  }
+ ]
+}

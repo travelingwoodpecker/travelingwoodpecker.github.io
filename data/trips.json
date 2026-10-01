@@ -108,7 +108,14 @@
     "usa"
    ],
    "days": 4,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2025-las-vegas-california/"
+    }
+   ],
+   "dates": "Mar 28–31, 2025",
+   "miles": "~1,232"
   },
   {
    "year": 2025,
@@ -166,7 +173,12 @@
     "usa"
    ],
    "days": 3,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2024-joshua-tree/"
+    }
+   ]
   },
   {
    "year": 2024,
@@ -175,7 +187,13 @@
     "usa"
    ],
    "days": 6,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2024-oregon/"
+    }
+   ],
+   "miles": "~1,079"
   },
   {
    "year": 2024,
@@ -184,7 +202,13 @@
     "usa"
    ],
    "days": 6,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2024-noreaster/"
+    }
+   ],
+   "miles": "~1,075"
   },
   {
    "year": 2024,
@@ -192,8 +216,14 @@
    "countries": [
     "usa"
    ],
-   "days": 6,
-   "links": []
+   "days": 4,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2024-las-vegas-utah-arizona/"
+    }
+   ],
+   "dates": "Mar 22–25, 2024"
   },
   {
    "year": 2023,
@@ -211,7 +241,14 @@
     "usa"
    ],
    "days": 6,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2023-las-vegas-phoenix/"
+    }
+   ],
+   "dates": "Dec 26–31, 2023",
+   "miles": "1,615"
   },
   {
    "year": 2022,
@@ -220,7 +257,14 @@
     "usa"
    ],
    "days": 6,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2022-utah-arizona/"
+    }
+   ],
+   "dates": "Oct 8–14, 2022",
+   "miles": "~1,650"
   },
   {
    "year": 2022,
@@ -229,7 +273,13 @@
     "usa"
    ],
    "days": 4,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2022-nashville-dallas/"
+    }
+   ],
+   "miles": "~902"
   },
   {
    "year": 2022,
@@ -248,7 +298,13 @@
    ],
    "days": 35,
    "duration": "5 weeks",
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2021-western-usa/"
+    }
+   ],
+   "miles": "~5,523"
   },
   {
    "year": 2019,
@@ -274,7 +330,13 @@
    "countries": [
     "usa"
    ],
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2019-knoxville-virginia/"
+    }
+   ],
+   "miles": "~672"
   },
   {
    "year": 2018,
@@ -292,7 +354,13 @@
    "countries": [
     "usa"
    ],
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2018-chicago-wisconsin/"
+    }
+   ],
+   "miles": "~316"
   },
   {
    "year": 2017,

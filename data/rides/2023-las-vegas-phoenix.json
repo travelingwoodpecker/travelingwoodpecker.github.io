@@ -1,0 +1,174 @@
+{
+ "slug": "2023-las-vegas-phoenix",
+ "country": "usa",
+ "year": 2023,
+ "title": "Las Vegas to Phoenix, Arizona",
+ "kicker": "December 26–31, 2023 · Motorcycle ride",
+ "dek": "Six days and 1,615 miles between Christmas and New Year: the Mojave and Joshua Tree, Route 66 to Kingman, Sedona’s red rock, the Salt River Canyon and the Mogollon Rim, ending in the Valley of the Sun.",
+ "stats": [
+  [
+   "1,615",
+   "miles"
+  ],
+  [
+   "6",
+   "riding days"
+  ],
+  [
+   "3",
+   "states"
+  ]
+ ],
+ "route": [
+  "Las Vegas, NV",
+  "Primm, NV",
+  "Amboy, CA",
+  "Joshua Tree, CA",
+  "Indio, CA",
+  "Kingman, AZ",
+  "Sedona, AZ",
+  "Tortilla Flat, AZ",
+  "Globe, AZ",
+  "Show Low, AZ",
+  "Flagstaff, AZ",
+  "Sedona, AZ",
+  "Payson, AZ",
+  "Mesa, AZ"
+ ],
+ "overnights": [
+  "Indio, CA",
+  "Kingman, AZ",
+  "Sedona, AZ",
+  "Globe, AZ",
+  "Flagstaff, AZ",
+  "Mesa, AZ"
+ ],
+ "days": [
+  {
+   "label": "Day 1",
+   "date": "Tue, Dec 26",
+   "from": "Las Vegas, NV",
+   "to": "Indio, CA",
+   "legs": [
+    [
+     "Las Vegas → Primm",
+     "44 mi · 41 min"
+    ],
+    [
+     "Primm → Amboy",
+     "91 mi · 1 hr 32 min"
+    ],
+    [
+     "Amboy → Joshua Tree",
+     "64 mi · 1 hr 6 min"
+    ]
+   ],
+   "prose": [
+    "Breakfast at Primm & Proper inside the Primm Valley Resort & Casino. The avocado toast, with poached egg, tomatoes and wild greens on country-grilled bread, is hard to beat.",
+    "No trip through the Mojave is complete without Roy’s Motel & Cafe in Amboy. The 1940s diner no longer serves hot food, but there’s Route 66 Root Beer and snacks to hold you until Joshua Tree. The pumps work, at some of the highest gas prices on Route 66.",
+    "At the gateway to Joshua Tree National Park, the Joshua Tree Saloon does food, beer on tap and live music."
+   ],
+   "highlights": [
+    [
+     "Must do",
+     "Hike Hidden Valley, an easy one-mile loop among the rock walls, with succulents and wildflowers in late winter and spring."
+    ],
+    [
+     "Must see",
+     "Keys View, over 5,000 feet up, looks across the Coachella Valley to Palm Springs, Indio and the San Andreas Fault, and on a clear day to Signal Mountain in Mexico."
+    ]
+   ],
+   "stops": [
+    [
+     "Primm & Proper",
+     "https://primmvalleyresorts.com/primm-valley-restaurants/primm-and-proper/"
+    ],
+    [
+     "Seven Magic Mountains",
+     "https://sevenmagicmountains.com/"
+    ],
+    [
+     "Roy’s Motel & Cafe, Amboy",
+     "https://visitamboy.com/"
+    ],
+    [
+     "Mojave National Preserve",
+     "https://www.nps.gov/moja/index.htm"
+    ],
+    [
+     "Amboy Crater",
+     "https://www.blm.gov/visit/amboy-crater-national-natural-landmark"
+    ],
+    [
+     "Joshua Tree Saloon",
+     "https://www.joshuatreesaloon.com/"
+    ]
+   ],
+   "lodging": {
+    "name": "Hampton Inn, Indio"
+   }
+  },
+  {
+   "label": "Day 2",
+   "date": "Wed, Dec 27",
+   "from": "Indio, CA",
+   "to": "Kingman, AZ",
+   "lodging": {
+    "name": "Best Western Plus A Wayfarer’s Inn, Kingman"
+   }
+  },
+  {
+   "label": "Day 3",
+   "date": "Thu, Dec 28",
+   "from": "Kingman, AZ",
+   "to": "Sedona, AZ",
+   "lodging": {
+    "name": "Holiday Inn Express Sedona–Oak Creek"
+   }
+  },
+  {
+   "label": "Day 4",
+   "date": "Fri, Dec 29",
+   "from": "Sedona, AZ",
+   "to": "Globe, AZ",
+   "road": [
+    "Tortilla Flat & the Apache Trail",
+    "Desert mountains and Canyon Lake. Route 88 leads to Tortilla Flat; it was repaved in recent years, a huge improvement. Many turn back there, but the next 8 miles of good pavement are worth riding, and adventure bikes can carry on along the packed gravel toward Roosevelt for high canyon walls."
+   ],
+   "lodging": {
+    "name": "Best Western Copper Hills Inn, Globe"
+   }
+  },
+  {
+   "label": "Day 5",
+   "date": "Sat, Dec 30",
+   "from": "Globe, AZ",
+   "to": "Flagstaff, AZ",
+   "road": [
+    "US-60, Globe to Show Low",
+    "One of the best lesser-known rides in Arizona: down through the Salt River Canyon on a varied mix of turns, with hairpins near the river and good pull-offs for the views. There are few towns or gas stations, so fuel up when you can."
+   ],
+   "lodging": {
+    "name": "Drury Inn & Suites Flagstaff"
+   }
+  },
+  {
+   "label": "Day 6",
+   "date": "Sun, Dec 31",
+   "from": "Flagstaff, AZ",
+   "to": "Mesa, AZ",
+   "road": [
+    "AZ-89A through Oak Creek Canyon",
+    "South from Flagstaff’s forests into Sedona, turn after turn, with cliff overlooks and red-rock views. Many riders say southbound is the direction to ride it. Then the Beeline Highway, AZ-87, down to the Valley."
+   ],
+   "lodging": {
+    "name": "Holiday Inn & Suites Phoenix–Mesa–Chandler"
+   }
+  }
+ ],
+ "marks": [
+  "Joshua Tree, CA",
+  "Tortilla Flat, AZ",
+  "Show Low, AZ"
+ ]
+}

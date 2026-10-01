@@ -1,0 +1,82 @@
+{
+ "slug": "2025-las-vegas-california",
+ "country": "usa",
+ "year": 2025,
+ "title": "Las Vegas to California",
+ "kicker": "March 28–31, 2025 · Motorcycle ride",
+ "dek": "A four-day loop out of Las Vegas: across the Mojave to the high desert, over to the Central Coast at San Luis Obispo, up the Owens Valley under the Sierra, and back to Nevada.",
+ "stats": [
+  [
+   "~1,232",
+   "miles"
+  ],
+  [
+   "4",
+   "riding days"
+  ],
+  [
+   "2",
+   "states"
+  ]
+ ],
+ "route": [
+  "Las Vegas, NV",
+  "Victorville, CA",
+  "San Luis Obispo, CA",
+  "Big Pine, CA",
+  "Las Vegas, NV"
+ ],
+ "overnights": [
+  "Las Vegas, NV",
+  "Victorville, CA",
+  "San Luis Obispo, CA",
+  "Big Pine, CA"
+ ],
+ "days": [
+  {
+   "label": "Arrive",
+   "date": "Thu, Mar 27",
+   "title": "Las Vegas, NV",
+   "lodging": {
+    "name": "DoubleTree by Hilton, Las Vegas Airport"
+   }
+  },
+  {
+   "label": "Day 1",
+   "date": "Fri, Mar 28",
+   "from": "Las Vegas, NV",
+   "to": "Victorville, CA",
+   "lodging": {
+    "name": "Holiday Inn, Victorville"
+   }
+  },
+  {
+   "label": "Day 2",
+   "date": "Sat, Mar 29",
+   "from": "Victorville, CA",
+   "to": "San Luis Obispo, CA",
+   "lodging": {
+    "name": "Avenue Inn, San Luis Obispo"
+   }
+  },
+  {
+   "label": "Day 3",
+   "date": "Sun, Mar 30",
+   "from": "San Luis Obispo, CA",
+   "to": "Big Pine, CA",
+   "lodging": {
+    "name": "Bristlecone Motel, Big Pine"
+   }
+  },
+  {
+   "label": "Day 4",
+   "date": "Mon, Mar 31",
+   "from": "Big Pine, CA",
+   "to": "Las Vegas, NV",
+   "lodging": {
+    "name": "Tru by Hilton, Las Vegas Airport"
+   }
+  }
+ ],
+ "marks": []
+}

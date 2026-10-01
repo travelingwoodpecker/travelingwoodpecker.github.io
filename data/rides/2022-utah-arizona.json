@@ -1,0 +1,210 @@
+{
+ "slug": "2022-utah-arizona",
+ "country": "usa",
+ "year": 2022,
+ "title": "Las Vegas, Utah & Arizona",
+ "kicker": "October 8–14, 2022 · Motorcycle tour",
+ "dek": "Six days and about 1,650 miles through southern Utah’s parks and back roads, from Kolob Terrace to Bull Creek Pass, Moki Dugway to Hell’s Backbone country, with the Grand Canyon’s North Rim and Zion to finish. We all agreed it was one of the best motorcycle trips ever.",
+ "stats": [
+  [
+   "~1,650",
+   "miles"
+  ],
+  [
+   "6",
+   "riding days"
+  ],
+  [
+   "3",
+   "states"
+  ],
+  [
+   "4",
+   "national parks"
+  ]
+ ],
+ "route": [
+  "St. George, UT",
+  "Virgin, UT",
+  "Cedar Breaks",
+  "Panguitch, UT",
+  "Bryce Canyon",
+  "Torrey, UT",
+  "Notom, UT",
+  "Hanksville, UT",
+  "Moab, UT",
+  "Bluff, UT",
+  "Valley of the Gods",
+  "Ticaboo, UT",
+  "Hanksville, UT",
+  "Torrey, UT",
+  "Boulder, UT",
+  "Kodachrome Basin",
+  "Kanab, UT",
+  "Grand Canyon North Rim",
+  "Kanab, UT",
+  "Zion",
+  "St. George, UT",
+  "Valley of Fire",
+  "Las Vegas, NV"
+ ],
+ "overnights": [
+  "St. George, UT",
+  "Torrey, UT",
+  "Moab, UT",
+  "Bluff, UT",
+  "Boulder, UT",
+  "Kanab, UT",
+  "Las Vegas, NV"
+ ],
+ "facts": [
+  [
+   "National parks",
+   "Bryce Canyon, Capitol Reef, Grand Canyon, Zion"
+  ],
+  [
+   "National recreation area",
+   "Glen Canyon"
+  ],
+  [
+   "Monuments & forests",
+   "Grand Staircase–Escalante, Cedar Breaks, Lake Powell, Dixie National Forest, Manti–La Sal National Forest"
+  ],
+  [
+   "State parks",
+   "Goosenecks, Kodachrome Basin, Valley of Fire, Lake Mead"
+  ]
+ ],
+ "days": [
+  {
+   "label": "Arrive",
+   "date": "Sat, Oct 8",
+   "title": "St. George, UT",
+   "prose": [
+    "Conveniently on St. George Boulevard with easy access from I-15. Basic, adequate rooms, a cozy lobby for a late-night meeting and breakfast, and a welcoming front desk happy to share local knowledge. Café Sabor, a decent Mexican restaurant, is right next door."
+   ],
+   "lodging": {
+    "name": "Aiden by Best Western",
+    "addr": "316 E. St. George Blvd, St. George, UT"
+   }
+  },
+  {
+   "label": "Day 1",
+   "date": "Sun, Oct 9",
+   "from": "St. George, UT",
+   "to": "Torrey, UT",
+   "dist": "259 mi · 6 hr 11 min (about 10 hours actual)",
+   "prose": [
+    "Kolob Terrace Road out of Virgin was a spectacular start: paved as far as Cedar Canyon Campground, then dirt up to Highway 14. We met 800 sheep on the way!",
+    "Past Cedar Breaks National Monument, lunch in Panguitch, then the magnificent Sunset Point in Bryce Canyon National Park before Highway 12 through Grand Staircase–Escalante."
+   ],
+   "videos": [
+    [
+     "Day 1 ride",
+     "https://www.youtube.com/watch?v=DZ1xrgp5E5E"
+    ],
+    [
+     "Highway 12, Staircase–Escalante",
+     "https://www.youtube.com/watch?v=dsTXvANkgTA"
+    ]
+   ],
+   "lodging": {
+    "name": "Broken Spur Inn & Steakhouse, Torrey",
+    "url": "https://brokenspurinn.com/the-steakhouse/"
+   }
+  },
+  {
+   "label": "Day 2",
+   "date": "Mon, Oct 10",
+   "from": "Torrey, UT",
+   "to": "Moab, UT",
+   "dist": "269 mi · 6 hr 34 min (about 10 hours actual)",
+   "prose": [
+    "Another epic day. A leisurely ride down the scenic drive from the Capitol Reef visitor center, then a splendid road to Notom and over Bull Creek Pass to Hanksville and Moab.",
+    "Unpaved Bull Creek Pass was quite challenging and became the group’s favorite ride, though it tested anyone short on off-road skills: there were drops and spills, and a mid-way decision on whether to turn back. We pushed through, and it was the most adventurous and rewarding day.",
+    "A great Italian dinner at Il Posto Rosso, right next to the Red Stone Inn. The food was exceptional."
+   ],
+   "lodging": {
+    "name": "Red Stone Inn, Moab",
+    "url": "https://moabredstone.com/"
+   }
+  },
+  {
+   "label": "Day 3",
+   "date": "Tue, Oct 11",
+   "from": "Moab, UT",
+   "to": "Bluff, UT",
+   "dist": "194 mi",
+   "prose": [
+    "UT-128 is a beautiful road along the Colorado River, followed by the La Sal Loop Road. After a taco lunch in Moab, south to Bluff.",
+    "The entry into Bluff was grand, riding between two great boulders to the Bluff Dwellings Resort & Spa. A very good dinner at the Twin Rocks Cafe: Mexican-style food on fry bread."
+   ],
+   "lodging": {
+    "name": "Bluff Dwellings Resort & Spa",
+    "url": "https://bluffdwellings.com/"
+   }
+  },
+  {
+   "label": "Day 4",
+   "date": "Wed, Oct 12",
+   "from": "Bluff, UT",
+   "to": "Boulder, UT",
+   "dist": "~300 mi",
+   "prose": [
+    "Valley of the Gods and the Moki Dugway, then Ticaboo to fuel up for the Burr Trail. A section of the Burr Trail was impassable after recent rain washed it out, so we turned back north to Hanksville and took UT-24. It was a fortunate detour: UT-24 was beautiful, and UT-12 from Torrey to Boulder was spectacular.",
+    "Hell’s Backbone Grill was a great find, wonderful food at the edge of the wilderness. The next morning’s breakfast at Annie’s Place, oven-baked pancakes, was incredible."
+   ],
+   "videos": [
+    [
+     "Valley of the Gods",
+     "https://www.youtube.com/watch?v=QuRQq-ATDiA"
+    ],
+    [
+     "Route 95",
+     "https://www.youtube.com/watch?v=TKg7I6rL_Uk"
+    ],
+    [
+     "Burr Trail",
+     "https://www.youtube.com/watch?v=MQVvMn1tcds"
+    ]
+   ],
+   "lodging": {
+    "name": "Annie’s Place Bed & Breakfast, Boulder",
+    "url": "https://anniesplacebedandbreakfast.com/"
+   }
+  },
+  {
+   "label": "Day 5",
+   "date": "Thu, Oct 13",
+   "from": "Boulder, UT",
+   "to": "Grand Canyon North Rim",
+   "dist": "147 mi to Kanab · 81 mi Kanab to the North Rim",
+   "prose": [
+    "A treat to ride Grand Staircase–Escalante again. From Cannonville, Cottonwood Road past Kodachrome Basin to Kanab, then down to the Grand Canyon North Rim visitor center in the late afternoon."
+   ],
+   "lodging": {
+    "name": "Comfort Suites, Kanab",
+    "url": "https://www.choicehotels.com/utah/kanab/comfort-suites-hotels/ut106"
+   }
+  },
+  {
+   "label": "Day 6",
+   "date": "Fri, Oct 14",
+   "from": "Kanab, UT",
+   "to": "Las Vegas, NV",
+   "dist": "256 mi · 6 hr 9 min",
+   "prose": [
+    "Through Zion National Park, which was spectacular, more intimate and personal than the Grand Canyon. Then down to Las Vegas avoiding I-15 as much as possible; Valley of Fire State Park was a beautiful surprise at the end of the trip.",
+    "A feast at Milos, the Greek restaurant in the Venetian, to close out an intense six days."
+   ],
+   "lodging": {
+    "name": "Resorts World / The Palazzo at the Venetian, Las Vegas"
+   }
+  }
+ ],
+ "marks": [
+  "Grand Canyon North Rim",
+  "Bryce Canyon",
+  "Zion"
+ ]
+}
