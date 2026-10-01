@@ -124,7 +124,13 @@
     "japan"
    ],
    "days": 8,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/japan/2025-japan-central-alps/"
+    }
+   ],
+   "dates": "May 15–22, 2025"
   },
   {
    "year": 2024,
@@ -156,12 +162,20 @@
   },
   {
    "year": 2024,
-   "title": "Spain",
+   "title": "Spain to Portugal: Madrid to Lisbon",
    "countries": [
-    "spain"
+    "spain",
+    "portugal"
    ],
-   "days": 4,
-   "links": []
+   "days": 5,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/spain/2024-spain-portugal/"
+    }
+   ],
+   "dates": "Oct 1–6, 2024",
+   "miles": "~782"
   },
   {
    "year": 2024,

@@ -25,7 +25,7 @@ for (const f of process.argv.slice(2)){
   const ends=[]; for(const d of R.days){for(const n of [d.from,d.to]) if(!ends.includes(n)) ends.push(n);}
   let dots='',labels='',placed=[],rects=[];
   for(const n of ends){const p=R.points[n]; if(!p) continue; const [x,y]=proj(p).map(r);
-    if(placed.some(([a,b])=>Math.hypot(a-x,b-y)<22)) continue; placed.push([x,y]);
+    if(placed.some(([a,b])=>Math.hypot(a-x,b-y)<10)) continue; placed.push([x,y]);
     const lab=(R.maplabels&&R.maplabels[n])||n.replace(/^(Best Western|Hyatt Place|Hampton Inn & Suites|EagleRider|The Lodge at|Element|Balch Hotel,|The Williams Inn,|Redfish Riverside Inn,|Smoky Mountain Harley-Davidson,|Patriot Harley-Davidson,|Grizzly Harley-Davidson,|Big Sky Motorsports,|Sheridan \/ Big Horn Mountains KOA)\s*/,'').split(', ').filter(x=>x.length>2)[0]||n;
     let right=x<W*0.62; const w=lab.length*8.2+4;
     const box=rt=>rt?[x+8,y-9,x+8+w,y+7]:[x-8-w,y-9,x-8,y+7];
