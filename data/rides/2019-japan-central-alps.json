@@ -5313,6 +5313,10 @@
      "cap": "Picking up the bike at Rush Bikes"
     },
     {
+     "src": "photos/img-2289.jpg",
+     "cap": "Hotel Mifujien, Lake Kawaguchi"
+    },
+    {
      "src": "photos/img-2295.jpg",
      "cap": "Dinner at Hotel Mifujien"
     },
@@ -5342,16 +5346,16 @@
      "cap": "Breakfast at Hotel Mifujien"
     },
     {
-     "src": "photos/yunoshimakan.jpg",
-     "cap": "Arriving at Yunoshimakan, Gero Onsen"
-    },
-    {
      "src": "photos/img-2331.jpg",
      "cap": "My room at Yunoshimakan"
     },
     {
      "src": "photos/img-2332.jpg",
      "cap": "The view from the veranda at Yunoshimakan"
+    },
+    {
+     "src": "photos/yunoshimakan.jpg",
+     "cap": "Arriving at Yunoshimakan, Gero Onsen"
     },
     {
      "src": "photos/img-2346.jpg",
@@ -5423,6 +5427,10 @@
      "cap": "Breakfast at Ryokan Sugimoto"
     },
     {
+     "src": "photos/img-2417.jpg",
+     "cap": "Wasabi soft-serve in Azumino"
+    },
+    {
      "src": "photos/azumino-wasabi.jpg",
      "cap": "Azumino wasabi"
     },
@@ -5448,7 +5456,7 @@
     },
     {
      "src": "photos/soba-dinner.jpg",
-     "cap": "Soba and grilled river fish at dinner"
+     "cap": "Interesting dried fish chopstick holder"
     }
    ]
   },
@@ -5467,6 +5475,10 @@
     "url": "http://nozawa-naraya.com/"
    },
    "photos": [
+    {
+     "src": "photos/img-2478.jpg",
+     "cap": "Breakfast at Yakushi Onsen Hatago"
+    },
     {
      "src": "photos/img-2480.jpg",
      "cap": "The irori hearth at Yakushi Onsen Hatago"
@@ -5532,6 +5544,10 @@
      "cap": "A signed poster from the film Departures"
     },
     {
+     "src": "photos/img-2533.jpg",
+     "cap": "The handwritten dinner menu at Ikkyu Ryokan"
+    },
+    {
      "src": "photos/img-2534.jpg",
      "cap": "Sunset over the Sea of Japan at Yunohama"
     }
@@ -5558,10 +5574,6 @@
     {
      "src": "photos/beech-forest.jpg",
      "cap": "A quiet forest road on the way north"
-    },
-    {
-     "src": "photos/img-2548.jpg",
-     "cap": "Chokai Quasi-National Park"
     },
     {
      "src": "photos/snowshed.jpg",
@@ -5604,8 +5616,24 @@
    },
    "photos": [
     {
+     "src": "photos/img-2580.jpg",
+     "cap": "The 39th parallel marker"
+    },
+    {
+     "src": "photos/img-2581.jpg",
+     "cap": "A red bridge on the way to Naruko"
+    },
+    {
      "src": "photos/img-2592.jpg",
      "cap": "Hotel Yumoto Kissho, Naruko Onsen"
+    },
+    {
+     "src": "photos/img-2597.jpg",
+     "cap": "Looking down on Naruko Onsen"
+    },
+    {
+     "src": "photos/img-2600.jpg",
+     "cap": "The sake bar at Hotel Yumoto Kissho"
     }
    ]
   },
