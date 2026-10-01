@@ -41,7 +41,7 @@
      "url": "https://www.ninjatours.com/"
     }
    ],
-   "href": "https://classes-list.github.io/japan/"
+   "dir": "japan-logbook"
   },
   {
    "slug": "portugal",
@@ -142,11 +142,17 @@
   },
   {
    "year": 2024,
-   "title": "Sweden",
+   "title": "Sweden: Umeå & the High Coast",
    "countries": [
     "sweden"
    ],
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/sweden/2024-sweden/"
+    }
+   ],
+   "miles": "~291"
   },
   {
    "year": 2024,
@@ -164,7 +170,14 @@
     "canada"
    ],
    "days": 10,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/canada/2024-atlantic-canada/"
+    }
+   ],
+   "dates": "Jul 8–17, 2024",
+   "miles": "~2,000"
   },
   {
    "year": 2024,
@@ -178,7 +191,8 @@
      "kind": "page",
      "url": "/usa/2024-joshua-tree/"
     }
-   ]
+   ],
+   "miles": "~782"
   },
   {
    "year": 2024,
@@ -201,14 +215,15 @@
    "countries": [
     "usa"
    ],
-   "days": 6,
+   "days": 7,
    "links": [
     {
      "kind": "page",
      "url": "/usa/2024-noreaster/"
     }
    ],
-   "miles": "~1,075"
+   "miles": "~1,075",
+   "dates": "Jul 19–25, 2024"
   },
   {
    "year": 2024,
@@ -223,7 +238,8 @@
      "url": "/usa/2024-las-vegas-utah-arizona/"
     }
    ],
-   "dates": "Mar 22–25, 2024"
+   "dates": "Mar 22–25, 2024",
+   "miles": "~897"
   },
   {
    "year": 2023,
@@ -325,8 +341,14 @@
    "countries": [
     "japan"
    ],
-   "days": 10,
-   "links": []
+   "days": 11,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/japan/2019-japan-central-alps/"
+    }
+   ],
+   "dates": "Jun 18–28, 2019"
   },
   {
    "year": 2019,

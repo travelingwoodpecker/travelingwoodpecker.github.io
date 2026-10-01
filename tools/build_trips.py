@@ -103,7 +103,7 @@ def build(r, svg):
 for f in sorted(glob.glob(os.path.join(HOME, 'data', 'rides', '*.json'))):
     r = json.load(open(f, encoding='utf8'))
     svg = open(f[:-5] + '.map.svg', encoding='utf8').read()
-    out = os.path.join(ROOT, r['country'], r['slug'], 'index.html')
+    out = os.path.join(ROOT, C[r['country']].get('dir', r['country']), r['slug'], 'index.html')
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, 'w', encoding='utf8').write(build(r, svg))
     print('wrote', os.path.relpath(out, ROOT))

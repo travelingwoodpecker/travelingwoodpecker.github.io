@@ -199,7 +199,7 @@ for s in ORDER:
 </section>
 {res}
 </main>'''
-    outputs[os.path.join(ROOT, s, 'index.html')] = page(
+    outputs[os.path.join(ROOT, C[s].get('dir', s), 'index.html')] = page(
         f'{c["name"]} · Traveling Woodpecker', f'Motorcycle rides in {c["name"]}, {span}.', s, body)
 
 for path, txt in outputs.items():
