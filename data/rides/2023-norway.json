@@ -1,0 +1,451 @@
+{
+ "slug": "2023-norway",
+ "country": "norway",
+ "year": 2023,
+ "title": "Norway: Fjords & Scenic Routes",
+ "kicker": "July 9–19, 2023 · Ten-day motorcycle tour",
+ "dek": "A 1,150-mile loop from Stavanger through Western Norway’s fjord country, riding seven of the National Scenic Routes, from Ryfylke and Hardanger to Geiranger–Trollstigen and Sognefjellet, with a day off the bikes for the train and a hike at Finse.",
+ "stats": [
+  [
+   "1,150",
+   "miles"
+  ],
+  [
+   "9",
+   "riding days"
+  ],
+  [
+   "7",
+   "National Scenic Routes"
+  ]
+ ],
+ "route": [
+  "Stavanger",
+  "Tau",
+  "Hjelmeland",
+  "Allmannajuvet",
+  "Røldal",
+  "Jondal",
+  "Steinsdalsfossen",
+  "Bergen",
+  "Modalen",
+  "Myrkdalen",
+  "Vikafjellet",
+  "Balestrand",
+  "Gaularfjellet",
+  "Festøya",
+  "Ålesund",
+  "Åndalsnes",
+  "Trollstigen",
+  "Linge",
+  "Dalsnibba",
+  "Grotli",
+  "Lom",
+  "Sognefjellet",
+  "Aurlandsfjellet",
+  "Flåm",
+  "Voss",
+  "Vøringsfossen",
+  "Langfossen",
+  "Arsvågen",
+  "Stavanger"
+ ],
+ "overnights": [
+  "Stavanger",
+  "Jondal",
+  "Bergen",
+  "Balestrand",
+  "Ålesund",
+  "Grotli",
+  "Flåm",
+  "Voss"
+ ],
+ "marks": [
+  "Finse",
+  "Trollstigen",
+  "Sognefjellet"
+ ],
+ "facts": [
+  [
+   "National Scenic Routes",
+   "Ryfylke, Hardanger, Gaularfjellet, Geiranger–Trollstigen, Gamle Strynefjellsvegen, Sognefjellet, Aurlandsfjellet"
+  ],
+  [
+   "Road signs",
+   "E = European route · Rv = national road · Fv = county road · Kv = municipal road · Tv = tourist road"
+  ]
+ ],
+ "days": [
+  {
+   "label": "Arrive",
+   "date": "Sun, Jul 9",
+   "title": "Stavanger",
+   "prose": [
+    "From the airport, take a luggage cart and walk to the hotel, about 12 minutes. The Norwegian Petroleum Museum is worth a visit."
+   ],
+   "lodging": {
+    "name": "Clarion Hotel Air, Sola",
+    "url": "https://www.nordicchoicehotels.com/hotels/norway/sola/clarion-hotel-air/"
+   }
+  },
+  {
+   "label": "Day 1",
+   "date": "Mon, Jul 10",
+   "from": "Stavanger",
+   "to": "Jondal",
+   "dist": "174 mi · about 5 hr 40 min",
+   "legs": [
+    [
+     "Bike pickup → Hjelmeland ferry",
+     "1 hr 20"
+    ],
+    [
+     "→ Ostasteidn viewpoint",
+     "1 hr 3"
+    ],
+    [
+     "→ Allmannajuvet",
+     "47 min"
+    ],
+    [
+     "→ Horda",
+     "53 min"
+    ],
+    [
+     "→ Hardanger House",
+     "1 hr 33"
+    ]
+   ],
+   "prose": [
+    "Pick up the bikes at 9 am, then straight into Ryfast, the world’s longest and deepest undersea road tunnel, about 8 miles and 13 minutes to Tau. The Ryfylke Scenic Route carries on north; on the E134, turn onto Røldalsfjellet.",
+    "Hardanger House is a family-owned design hotel of just nine rooms, each with fjord views, between the Hardangerfjord and Folgefonna National Park. Dinner is a set three-course menu at 7 pm."
+   ],
+   "stops": [
+    [
+     "Ostasteidn viewpoint",
+     "https://www.nasjonaleturistveger.no/en/routes/ryfylke/ostasteidn/"
+    ],
+    [
+     "Ryfylke Scenic Route",
+     "https://www.nasjonaleturistveger.no/en/routes/ryfylke/"
+    ]
+   ],
+   "videos": [
+    [
+     "Through the Ryfast tunnel",
+     "https://www.youtube.com/watch?v=iIAl8nI3qbY"
+    ]
+   ],
+   "lodging": {
+    "name": "Hardanger House, Jondal",
+    "url": "https://www.hardangerhouse.no/en/home"
+   }
+  },
+  {
+   "label": "Day 2",
+   "date": "Tue, Jul 11",
+   "from": "Jondal",
+   "to": "Bergen",
+   "dist": "60 mi · about 2 hr 20 min",
+   "legs": [
+    [
+     "Ferry Jondal → Tørvikbygd",
+     "9:20 am, hourly"
+    ],
+    [
+     "→ Steinsdalsfossen",
+     "57 min"
+    ],
+    [
+     "→ Bergen",
+     "1 hr 30"
+    ]
+   ],
+   "prose": [
+    "Along the Hardanger Scenic Route to Steinsdalsfossen, the waterfall you can walk behind, then on to Bergen.",
+    "Dinner at Bryggeriet, the only restaurant in town with its own brewery."
+   ],
+   "stops": [
+    [
+     "Hardanger Scenic Route",
+     "https://www.nasjonaleturistveger.no/en/routes/hardanger/"
+    ],
+    [
+     "Bryggeriet",
+     "https://bryggeriet.biz/"
+    ]
+   ],
+   "lodging": {
+    "name": "Radisson Blu Royal Hotel, Bergen"
+   }
+  },
+  {
+   "label": "Day 3",
+   "date": "Wed, Jul 12",
+   "from": "Bergen",
+   "to": "Balestrand",
+   "dist": "153 mi · about 5 hr 40 min",
+   "legs": [
+    [
+     "→ Mo",
+     "1 hr 18"
+    ],
+    [
+     "→ Double Drop waterfall",
+     "1 hr 4"
+    ],
+    [
+     "→ Myrkdalen viewpoint",
+     "1 hr 11"
+    ],
+    [
+     "→ Vikafjellsvegen",
+     "1 hr 10"
+    ],
+    [
+     "→ Kviknes Hotel",
+     "1 hr 8"
+    ]
+   ],
+   "prose": [
+    "North over the mountains on the Vikafjell road to the Sognefjord.",
+    "Kviknes Hotel’s hospitality goes back to 1752, and the Kvikne family has run it since 1877: 190 rooms, a collection of art and antiques, and a guest list that includes Kaiser Wilhelm II, a frequent visitor to Balestrand."
+   ],
+   "lodging": {
+    "name": "Kviknes Hotel, Balestrand",
+    "url": "https://www.kviknes.com/"
+   }
+  },
+  {
+   "label": "Day 4",
+   "date": "Thu, Jul 13",
+   "from": "Balestrand",
+   "to": "Ålesund",
+   "dist": "204 mi · about 5 hr 45 min",
+   "legs": [
+    [
+     "→ Gaularfjellet Utsikten",
+     "40 min"
+    ],
+    [
+     "→ Bakkane viewpoint",
+     "2 hr"
+    ],
+    [
+     "→ Festøy ferry",
+     "2 hr 17"
+    ],
+    [
+     "→ Hotel Brosundet",
+     "54 min"
+    ]
+   ],
+   "prose": [
+    "Over the Gaularfjellet Scenic Route and its Utsikten viewpoint, then north to the coast and Ålesund.",
+    "Hotel Brosundet is an intimate, family-owned hotel in restored fishery warehouses whose walls meet the water of Brosundet, right in the center of town, with fresh local seafood at its restaurant."
+   ],
+   "stops": [
+    [
+     "Gaularfjellet Scenic Route",
+     "https://www.nasjonaleturistveger.no/en/routes/gaularfjellet/"
+    ],
+    [
+     "Apotekergata No. 5 (hotel restaurant)",
+     "https://www.apotekergata5.no/en/restaurant/"
+    ]
+   ],
+   "lodging": {
+    "name": "Hotel Brosundet, Ålesund",
+    "url": "https://www.brosundet.no/en/the-hotel"
+   }
+  },
+  {
+   "label": "Day 5",
+   "date": "Fri, Jul 14",
+   "from": "Ålesund",
+   "to": "Grotli",
+   "dist": "167 mi · about 5 hr 40 min",
+   "legs": [
+    [
+     "→ Åndalsnes",
+     "1 hr 35"
+    ],
+    [
+     "→ Linge ferry pier",
+     "1 hr 8"
+    ],
+    [
+     "→ Dalsnibba viewpoint",
+     "1 hr 17"
+    ],
+    [
+     "→ Grotli Høyfjellshotell",
+     "1 hr 41"
+    ]
+   ],
+   "prose": [
+    "The big one: Trollstigen and the Geiranger–Trollstigen Scenic Route, then up to the Dalsnibba Geiranger Skywalk."
+   ],
+   "road": [
+    "Gamle Strynefjellsvegen",
+    "The old road between East and West Norway is a museum piece in itself. Built by hand at the end of the 19th century, it is lined with meticulously cut stone walls and long rows of guard stones, and has been a protected road since 2009."
+   ],
+   "stops": [
+    [
+     "Geiranger–Trollstigen Scenic Route",
+     "https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/"
+    ],
+    [
+     "Dalsnibba Geiranger Skywalk",
+     "https://dalsnibba.no/en/geirangerskywalk/"
+    ],
+    [
+     "Gamle Strynefjellsvegen",
+     "https://www.nasjonaleturistveger.no/en/routes/gamle-strynefjellsvegen/"
+    ]
+   ],
+   "lodging": {
+    "name": "Grotli Høyfjellshotell"
+   }
+  },
+  {
+   "label": "Day 6",
+   "date": "Sat, Jul 15",
+   "from": "Grotli",
+   "to": "Flåm",
+   "dist": "160 mi · about 4 hr 45 min",
+   "legs": [
+    [
+     "→ Bakery in Lom",
+     "51 min"
+    ],
+    [
+     "→ Mefjell mountain picnic",
+     "51 min"
+    ],
+    [
+     "→ Vardahaugselvi waterfall",
+     "2 hr 4"
+    ],
+    [
+     "→ Fretheim Hotel",
+     "1 hr"
+    ]
+   ],
+   "prose": [
+    "Breakfast stop at the bakery in Lom, often called Norway’s best, then over the Sognefjellet Scenic Route, Northern Europe’s highest mountain pass, down to the Sognefjord and Flåm."
+   ],
+   "stops": [
+    [
+     "The Bakery in Lom",
+     "https://www.visitnorway.com/listings/the-bakery-in-lom-%7C-caf%C3%A9/205033/"
+    ],
+    [
+     "Sognefjellet Scenic Route",
+     "https://www.nasjonaleturistveger.no/en/routes/sognefjellet/"
+    ]
+   ],
+   "lodging": {
+    "name": "Fretheim Hotel, Flåm"
+   }
+  },
+  {
+   "label": "Day 7",
+   "date": "Sun, Jul 16",
+   "title": "Finse — a day off the bikes",
+   "prose": [
+    "Leave the bikes at the hotel, check the bags, pack lunch boxes and take the 8:22 am Flåm Railway up to Myrdal, then change to the Bergen Railway for Finse.",
+    "The hike: an easy hour and a half from Finse to Appelsinhytta, then about two hours up through Danskeskaret to the summit. It is steep for the first ten minutes or so, then crosses old snowfields (not glacier) with a close look at the Blue Ice."
+   ],
+   "stops": [
+    [
+     "Flåm Railway",
+     "https://www.norwaytrains.com/flamsbana-train.html"
+    ],
+    [
+     "Vy (Bergen Railway)",
+     "https://www.vy.no/en/"
+    ]
+   ],
+   "videos": [
+    [
+     "Rallarvegen by bike, Finse to Flåm",
+     "https://www.youtube.com/watch?v=nAJbnHMFe_Y"
+    ]
+   ],
+   "lodging": {
+    "name": "Hotel Finse 1222"
+   }
+  },
+  {
+   "label": "Day 8",
+   "date": "Mon, Jul 17",
+   "from": "Flåm",
+   "to": "Voss",
+   "dist": "40 mi · about 1 hr",
+   "prose": [
+    "Bicycle down the Rallarvegen to Flåm in the morning, then a short ride to Voss.",
+    "Store Ringheim is a farm hotel: old farm buildings around a courtyard, in the same family since 1778, with six rooms (the most historic in a building over 300 years old) and a restaurant cooking from scratch with local ingredients."
+   ],
+   "stops": [
+    [
+     "Store Ringheim restaurant",
+     "https://storeringheim.no/en/restaurant/"
+    ]
+   ],
+   "lodging": {
+    "name": "Store Ringheim Hotell, Voss"
+   }
+  },
+  {
+   "label": "Day 9",
+   "date": "Tue, Jul 18",
+   "from": "Voss",
+   "to": "Stavanger",
+   "dist": "178 mi · about 6 hr 20 min",
+   "legs": [
+    [
+     "→ Vøringsfossen viewpoint",
+     "1 hr 15"
+    ],
+    [
+     "→ Langfossen",
+     "2 hr 6"
+    ],
+    [
+     "→ Arsvågen ferry",
+     "1 hr 42"
+    ],
+    [
+     "→ Eilert Smith Hotel",
+     "1 hr 16"
+    ]
+   ],
+   "prose": [
+    "Back along the Hardanger Scenic Route past Vøringsfossen and Langfossen, and south to Stavanger.",
+    "The Eilert Smith Hotel is a late-1930s functionalist landmark among Stavanger’s old wooden houses. RE-NAA, on the ground floor, holds a Michelin star."
+   ],
+   "stops": [
+    [
+     "Hardanger Scenic Route",
+     "https://www.nasjonaleturistveger.no/en/routes/hardanger/"
+    ]
+   ],
+   "lodging": {
+    "name": "Eilert Smith Hotel, Stavanger",
+    "url": "https://www.eilertsmith.no/en/"
+   }
+  },
+  {
+   "label": "Day 10",
+   "date": "Wed, Jul 19",
+   "title": "Return the bikes, on to Oslo",
+   "prose": [
+    "A 7-mile ride to return the bikes at AllSupermoto, then on to Oslo."
+   ],
+   "lodging": {
+    "name": "Comfort Hotel Grand Central, Oslo"
+   }
+  }
+ ]
+}

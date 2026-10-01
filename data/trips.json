@@ -227,12 +227,19 @@
   },
   {
    "year": 2023,
-   "title": "Norway",
+   "title": "Norway: Fjords & Scenic Routes",
    "countries": [
     "norway"
    ],
    "days": 10,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/norway/2023-norway/"
+    }
+   ],
+   "dates": "Jul 9–19, 2023",
+   "miles": "1,150"
   },
   {
    "year": 2023,
@@ -288,7 +295,13 @@
     "usa"
    ],
    "days": 6,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2022-las-vegas-napa/"
+    }
+   ],
+   "miles": "~1,060"
   },
   {
    "year": 2021,
@@ -346,7 +359,13 @@
     "sweden"
    ],
    "days": 15,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/norway/2018-norway-sweden/"
+    }
+   ],
+   "miles": "~2,260"
   },
   {
    "year": 2018,
@@ -369,7 +388,13 @@
     "norway"
    ],
    "days": 6,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/norway/2017-norway/"
+    }
+   ],
+   "miles": "~1,204"
   }
  ],
  "future": [
