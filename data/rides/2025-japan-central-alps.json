@@ -3392,10 +3392,6 @@
      "cap": "Ueno, Tokyo, two nights before the ride (May 13)"
     },
     {
-     "src": "photos/img-2387.jpg",
-     "cap": "Mitsui Garden Hotel, Ueno (May 13)"
-    },
-    {
      "src": "photos/img-9747.jpg",
      "cap": "Trip orientation at Rush Bikes (May 14)"
     },
@@ -3496,6 +3492,10 @@
     {
      "src": "photos/img-0029.jpg",
      "cap": "Grilled beef and vegetables at Isagoya, Yunohama"
+    },
+    {
+     "src": "photos/img-2610.jpg",
+     "cap": "Yusuitei Isagoya, Yunohama Onsen"
     }
    ]
   },
@@ -3506,10 +3506,6 @@
    "to": "Lake Tazawa",
    "dist": "~222 km",
    "photos": [
-    {
-     "src": "photos/img-2610.jpg",
-     "cap": "Yusuitei Isagoya, Yunohama Onsen"
-    },
     {
      "src": "photos/p-c58e85e7.jpg",
      "cap": "A coffee and sandwich stop"
@@ -3604,10 +3600,6 @@
    "dist": "~299 km",
    "photos": [
     {
-     "src": "photos/img-0269.jpg",
-     "cap": "Breakfast at Hotel Yumoto Kissho"
-    },
-    {
      "src": "photos/img-2721.jpg",
      "cap": "A rainy stop by a mountain tunnel"
     },
@@ -3628,10 +3620,6 @@
    "to": "Minamiuonuma",
    "dist": "~246 km",
    "photos": [
-    {
-     "src": "photos/img-0400.jpg",
-     "cap": "Breakfast in Inawashiro"
-    },
     {
      "src": "photos/img-2760.jpg",
      "cap": "Leaving the inn in Inawashiro"
