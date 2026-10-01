@@ -366,12 +366,18 @@
   },
   {
    "year": 2019,
-   "title": "Sydney",
+   "title": "Sydney: Blue Mountains, Putty Road & the Hunter Valley",
    "countries": [
     "australia"
    ],
    "days": 3,
-   "links": []
+   "links": [
+    {
+     "kind": "page",
+     "url": "/australia/2019-sydney/"
+    }
+   ],
+   "miles": "~324"
   },
   {
    "year": 2019,

@@ -1,0 +1,78 @@
+{
+ "slug": "2019-sydney",
+ "country": "australia",
+ "year": 2019,
+ "title": "Sydney: Blue Mountains, Putty Road & the Hunter Valley",
+ "kicker": "2019 · Three-day motorcycle ride",
+ "dek": "A loop from western Sydney up into the Blue Mountains at Katoomba, Blackheath and Mount Victoria, across Bells Line of Road to Richmond, north on the Putty Road through Wollemi and Yengo country, into the Hunter Valley wine region at Broke and Cessnock, and home down the Central Coast.",
+ "stats": [
+  [
+   "~324",
+   "miles"
+  ],
+  [
+   "3",
+   "days"
+  ]
+ ],
+ "route": [
+  "Sydney (Blacktown)",
+  "Penrith",
+  "Glenbrook",
+  "Springwood",
+  "Katoomba",
+  "Blackheath",
+  "Mount Victoria",
+  "Bell",
+  "Mount Tomah",
+  "Kurrajong Heights",
+  "North Richmond",
+  "Wilberforce",
+  "Colo Heights",
+  "Mellong",
+  "Putty",
+  "Milbrodale",
+  "Broke",
+  "Pokolbin",
+  "Cessnock",
+  "Morisset",
+  "Wyong",
+  "Gosford",
+  "Hornsby",
+  "Sydney (Blacktown)"
+ ],
+ "overnights": [
+  "Sydney (Blacktown)"
+ ],
+ "marks": [
+  "Katoomba",
+  "Mount Victoria",
+  "North Richmond",
+  "Putty",
+  "Broke",
+  "Cessnock",
+  "Gosford"
+ ],
+ "days": [
+  {
+   "label": "The loop",
+   "date": "",
+   "title": "Sydney loop",
+   "via": [
+    "Penrith",
+    "Katoomba",
+    "Blackheath",
+    "Mount Victoria",
+    "Bells Line of Road",
+    "North Richmond",
+    "Putty Road (Mellong, Putty)",
+    "Broke",
+    "Cessnock",
+    "Morisset",
+    "Wyong",
+    "Gosford",
+    "Hornsby"
+   ]
+  }
+ ]
+}
