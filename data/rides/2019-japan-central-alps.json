@@ -5305,6 +5305,18 @@
    },
    "photos": [
     {
+     "src": "photos/img-1784.jpg",
+     "cap": "The Moto Guzzi waiting at Rush Bikes in Tokyo (photo from May 2019)"
+    },
+    {
+     "src": "photos/img-2278.jpg",
+     "cap": "Picking up the bike at Rush Bikes"
+    },
+    {
+     "src": "photos/img-2295.jpg",
+     "cap": "Dinner at Hotel Mifujien"
+    },
+    {
      "src": "photos/fuji-from-the-room.jpg",
      "cap": "Mt. Fuji from the tatami room at Hotel Mifujien"
     }
@@ -5326,8 +5338,28 @@
    },
    "photos": [
     {
+     "src": "photos/img-2322.jpg",
+     "cap": "Breakfast at Hotel Mifujien"
+    },
+    {
      "src": "photos/yunoshimakan.jpg",
      "cap": "Arriving at Yunoshimakan, Gero Onsen"
+    },
+    {
+     "src": "photos/img-2331.jpg",
+     "cap": "My room at Yunoshimakan"
+    },
+    {
+     "src": "photos/img-2332.jpg",
+     "cap": "The view from the veranda at Yunoshimakan"
+    },
+    {
+     "src": "photos/img-2346.jpg",
+     "cap": "Dinner at Yunoshimakan"
+    },
+    {
+     "src": "photos/img-2359.jpg",
+     "cap": "The bath house at Yunoshimakan at night"
     }
    ]
   },
@@ -5351,6 +5383,18 @@
      "cap": "Ryokan Sugimoto, Matsumoto"
     },
     {
+     "src": "photos/img-2372.jpg",
+     "cap": "My room at Ryokan Sugimoto"
+    },
+    {
+     "src": "photos/img-2377.jpg",
+     "cap": "Room nameplate at Ryokan Sugimoto"
+    },
+    {
+     "src": "photos/img-2393.jpg",
+     "cap": "Drinks on ice in the garden lounge"
+    },
+    {
      "src": "photos/sugimoto-garden.jpg",
      "cap": "The garden at Ryokan Sugimoto"
     }
@@ -5371,6 +5415,14 @@
    },
    "photos": [
     {
+     "src": "photos/img-2409.jpg",
+     "cap": "The breakfast room at Ryokan Sugimoto"
+    },
+    {
+     "src": "photos/img-2411.jpg",
+     "cap": "Breakfast at Ryokan Sugimoto"
+    },
+    {
      "src": "photos/azumino-wasabi.jpg",
      "cap": "Azumino wasabi"
     },
@@ -5379,8 +5431,20 @@
      "cap": "Thatched roofs at Yakushi Onsen Hatago"
     },
     {
+     "src": "photos/img-2450.jpg",
+     "cap": "A tatami hall at Yakushi Onsen Hatago"
+    },
+    {
+     "src": "photos/img-2458.jpg",
+     "cap": "The lantern-lit way to the baths"
+    },
+    {
      "src": "photos/hatago-river.jpg",
      "cap": "The river deck at Yakushi Onsen Hatago"
+    },
+    {
+     "src": "photos/img-2465.jpg",
+     "cap": "Dinner at Yakushi Onsen Hatago"
     },
     {
      "src": "photos/soba-dinner.jpg",
@@ -5404,6 +5468,10 @@
    },
    "photos": [
     {
+     "src": "photos/img-2480.jpg",
+     "cap": "The irori hearth at Yakushi Onsen Hatago"
+    },
+    {
      "src": "photos/naraya.jpg",
      "cap": "Bike parking at Naraya Ryokan, Nozawa Onsen"
     },
@@ -5414,6 +5482,10 @@
     {
      "src": "photos/naraya-hall.jpg",
      "cap": "Inside Naraya Ryokan"
+    },
+    {
+     "src": "photos/img-2501.jpg",
+     "cap": "Local sake at Naraya"
     }
    ]
   },
@@ -5432,8 +5504,36 @@
    },
    "photos": [
     {
+     "src": "photos/img-2505.jpg",
+     "cap": "Morning in Nozawa Onsen"
+    },
+    {
+     "src": "photos/img-2510.jpg",
+     "cap": "Onsen eggs for sale in Nozawa"
+    },
+    {
+     "src": "photos/img-2516.jpg",
+     "cap": "Locals at the hot-spring source in the early morning"
+    },
+    {
+     "src": "photos/img-2517.jpg",
+     "cap": "Carved figures at Naraya"
+    },
+    {
      "src": "photos/seat-buddy.jpg",
      "cap": "A seat-cushion companion for the coast ride"
+    },
+    {
+     "src": "photos/img-2523.jpg",
+     "cap": "Ikkyu Ryokan, Yunohama"
+    },
+    {
+     "src": "photos/img-2530.jpg",
+     "cap": "A signed poster from the film Departures"
+    },
+    {
+     "src": "photos/img-2534.jpg",
+     "cap": "Sunset over the Sea of Japan at Yunohama"
     }
    ]
   },
@@ -5452,8 +5552,16 @@
    },
    "photos": [
     {
+     "src": "photos/img-2536.jpg",
+     "cap": "Fog on the way north"
+    },
+    {
      "src": "photos/beech-forest.jpg",
      "cap": "A quiet forest road on the way north"
+    },
+    {
+     "src": "photos/img-2548.jpg",
+     "cap": "Chokai Quasi-National Park"
     },
     {
      "src": "photos/snowshed.jpg",
@@ -5462,6 +5570,22 @@
     {
      "src": "photos/hachimantai-road.jpg",
      "cap": "Climbing toward Hachimantai"
+    },
+    {
+     "src": "photos/img-2566.jpg",
+     "cap": "Hachimantai Mountain Hotel & Spa"
+    },
+    {
+     "src": "photos/img-2569.jpg",
+     "cap": "The lobby fireplace"
+    },
+    {
+     "src": "photos/img-2575.jpg",
+     "cap": "Dinner at the Hachimantai Mountain Hotel"
+    },
+    {
+     "src": "photos/img-2577.jpg",
+     "cap": "Local red wines with dinner"
     }
    ]
   },
@@ -5477,7 +5601,13 @@
    "lodging": {
     "name": "Hotel Yumoto Kissho, Naruko Onsen",
     "url": "https://www.hotespa.net/hotels/kissho"
-   }
+   },
+   "photos": [
+    {
+     "src": "photos/img-2592.jpg",
+     "cap": "Hotel Yumoto Kissho, Naruko Onsen"
+    }
+   ]
   },
   {
    "label": "Day 9",
@@ -5491,7 +5621,21 @@
    "lodging": {
     "name": "Tokiwasure, Inawashiro",
     "url": "http://www.tokiwasure.com/"
-   }
+   },
+   "photos": [
+    {
+     "src": "photos/img-2612.jpg",
+     "cap": "Breakfast at Hotel Yumoto Kissho"
+    },
+    {
+     "src": "photos/img-2626.jpg",
+     "cap": "Tokiwasure, Inawashiro"
+    },
+    {
+     "src": "photos/img-2628.jpg",
+     "cap": "Tokiwasure, an Urabandai hot-spring inn"
+    }
+   ]
   },
   {
    "label": "Day 10",
@@ -5512,6 +5656,10 @@
      "cap": "Mountain views on the way to Nikko"
     },
     {
+     "src": "photos/img-2634.jpg",
+     "cap": "Arriving in Okunikko"
+    },
+    {
      "src": "photos/shikisai.jpg",
      "cap": "Arriving at Okunikko Hotel Shikisai"
     }
@@ -5525,14 +5673,24 @@
    "dist": "186 km",
    "prose": [
     "One final bit of twisty riding, then the highway back into Tokyo to return the bike."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-2641.jpg",
+     "cap": "Back in Tokyo, near Rush Bikes"
+    },
+    {
+     "src": "photos/img-4116.jpg",
+     "cap": "Inside Rush Bikes (October 2019)"
+    },
+    {
+     "src": "photos/img-4779.jpg",
+     "cap": "Planning the next ride at Rush Bikes (December 2019)"
+    }
    ]
   }
  ],
  "states": [
   "Japan"
- ],
- "cover": {
-  "src": "photos/fuji-from-the-room.jpg",
-  "cap": "Mt. Fuji from the tatami room at Hotel Mifujien"
- }
+ ]
 }
