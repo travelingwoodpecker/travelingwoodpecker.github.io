@@ -1,0 +1,42 @@
+{
+ "country": "portugal",
+ "slug": "2024-portugal",
+ "year": 2024,
+ "title": "Portugal",
+ "kicker": "Oct 7–15, 2024 · Motorcycle tour",
+ "dek": "A loop from Lisbon: Sintra and the Atlantic coast up through Nazaré to Porto, north to Monção on the Spanish border, into the Douro Valley at Pinhão, then south through Viseu to Marvão and Évora and back to Lisbon.",
+ "stats": [
+  [
+   "~944",
+   "miles"
+  ],
+  [
+   "9",
+   "days"
+  ],
+  [
+   "1",
+   "country"
+  ]
+ ],
+ "map_img": "photos/route-map.jpg",
+ "map_cap": "The full loop, about 1,519 km.",
+ "days": [
+  {
+   "label": "The loop",
+   "title": "Lisbon around Portugal and back",
+   "via": [
+    "Lisbon",
+    "Sintra",
+    "Nazaré",
+    "Porto",
+    "Monção",
+    "Pinhão (Douro Valley)",
+    "Viseu",
+    "Marvão",
+    "Évora",
+    "Lisbon"
+   ]
+  }
+ ]
+}

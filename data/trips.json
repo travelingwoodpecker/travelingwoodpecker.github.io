@@ -157,11 +157,16 @@
    "days": 9,
    "links": [
     {
+     "kind": "page",
+     "url": "/portugal/2024-portugal/"
+    },
+    {
      "kind": "pdf",
      "url": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:802417a8-d099-4c4d-85f0-cedbb38bf4dc"
     }
    ],
-   "dates": "Oct 7–15, 2024"
+   "dates": "Oct 7–15, 2024",
+   "miles": "~944"
   },
   {
    "year": 2024,
@@ -177,7 +182,7 @@
      "url": "/spain/2024-spain-portugal/"
     }
    ],
-   "dates": "Oct 1–6, 2024",
+   "dates": "Oct 1–5, 2024",
    "miles": "~782"
   },
   {
