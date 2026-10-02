@@ -93,6 +93,10 @@ def build(r, svg):
     if r.get('facts'):
         facts = '<section class="facts">' + ''.join(
             f'<div><p class="side-k">{e(k)}</p><p>{e(v)}</p></div>' for k, v in r['facts']) + '</section>'
+    if r.get('callout'):
+        co = r['callout']
+        facts += (f'<aside class="road callout"><p class="road-tag">{e(co.get("tag", "Ridden with"))}</p>'
+                  f'<h3><a href="{e(co["url"])}"{EXT}>{e(co["name"])}</a></h3><p>{e(co["text"])}</p></aside>')
     body = f'''<main class="wrap trip">
 <p class="crumbs"><a href="/{c["slug"]}/">{e(c["name"])}</a> / {r["year"]}</p>
 <section class="hero hero-split trip-hero">
