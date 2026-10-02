@@ -179,22 +179,6 @@
   },
   {
    "year": 2024,
-   "title": "Atlantic Canada",
-   "countries": [
-    "canada"
-   ],
-   "days": 10,
-   "links": [
-    {
-     "kind": "page",
-     "url": "/canada/2024-atlantic-canada/"
-    }
-   ],
-   "dates": "Jul 8–17, 2024",
-   "miles": "~2,000"
-  },
-  {
-   "year": 2024,
    "title": "Las Vegas to Joshua Tree",
    "countries": [
     "usa"
@@ -238,6 +222,23 @@
    ],
    "miles": "~1,075",
    "dates": "Jul 19–25, 2024"
+  },
+  {
+   "year": 2024,
+   "title": "Atlantic Canada",
+   "countries": [
+    "canada",
+    "usa"
+   ],
+   "days": 10,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/canada/2024-atlantic-canada/"
+    }
+   ],
+   "dates": "Jul 8–17, 2024",
+   "miles": "~2,000"
   },
   {
    "year": 2024,
