@@ -7,7 +7,7 @@
  "dek": "A ~1,100-mile loop from the Golden Gate up the redwood coast, across southern Oregon, down past Mount Shasta and Lassen, and home through Napa and Sonoma wine country.",
  "stats": [
   [
-   "~1,100",
+   "~1,072",
    "miles"
   ],
   [
@@ -531,6 +531,10 @@
     {
      "src": "photos/img-4148.jpg",
      "cap": "A green among the vines"
+    },
+    {
+     "src": "photos/torc.jpg",
+     "cap": "Dinner at TORC, Napa"
     }
    ]
   },
@@ -547,8 +551,26 @@
     {
      "src": "photos/img-4150.jpg",
      "cap": "The bike back in San Francisco"
+    },
+    {
+     "src": "photos/onehotel.jpg",
+     "cap": "1 Hotel San Francisco"
+    },
+    {
+     "src": "photos/onehotel-room.jpg",
+     "cap": "The room at 1 Hotel"
+    },
+    {
+     "src": "photos/epic-steak.jpg",
+     "cap": "EPIC Steak, San Francisco"
+    },
+    {
+     "src": "photos/epic-dining.jpg",
+     "cap": "The dining room at EPIC Steak"
     }
    ]
   }
- ]
+ ],
+ "map_img": "photos/route-map.jpg",
+ "map_cap": "The full loop as ridden, about 1,072 miles."
 }
