@@ -83,6 +83,10 @@ def build(r, svg):
     chips = ''.join(f'<a href="#day{i}">{e(d["label"])}</a>' for i, d in enumerate(r['days']))
     cap = ('Route traced from the original ride plan.' if r.get('tracks')
            else 'Overnight stops; lines show the order, not the exact roads.')
+    if r.get('map_img'):
+        svg = (f'<a href="{e(r["map_img"])}" target="_blank" rel="noopener"><img class="routemap" '
+               f'src="{e(r["map_img"])}" alt="Route map of the ride"></a>')
+        cap = r.get('map_cap', 'The route as ridden.')
     if r.get('states_line') and not r.get('facts'):
         r['facts'] = [['States', r['states_line']]]
     facts = ''

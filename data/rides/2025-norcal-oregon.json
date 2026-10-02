@@ -247,6 +247,16 @@
      "400 Front St · ~1 mi",
      "Alternative: pizzas and beers."
     ]
+   ],
+   "photos": [
+    {
+     "src": "photos/img-4040.jpg",
+     "cap": "Riding through the redwoods"
+    },
+    {
+     "src": "photos/img-4050.jpg",
+     "cap": "Lighthouse Inn, Crescent City"
+    }
    ]
   },
   {
@@ -316,6 +326,12 @@
      "610 Main St · ~2 mi",
      "Alternative: burgers, tacos, beers."
     ]
+   ],
+   "photos": [
+    {
+     "src": "photos/img-2088.jpg",
+     "cap": "Battery Point Lighthouse, Crescent City"
+    }
    ]
   },
   {
@@ -398,6 +414,24 @@
      "708 Washington St · ~1 mi",
      "Alternative: Mexican tacos."
     ]
+   ],
+   "photos": [
+    {
+     "src": "photos/img-4074.jpg",
+     "cap": "Mount Shasta from the US-97 vista point"
+    },
+    {
+     "src": "photos/img-1200.jpg",
+     "cap": "At the Mount Shasta vista"
+    },
+    {
+     "src": "photos/img-4079.jpg",
+     "cap": "A stop in the town of Mount Shasta"
+    },
+    {
+     "src": "photos/img-2097.jpg",
+     "cap": "Lake Helen and Lassen Peak, Lassen Volcanic National Park"
+    }
    ]
   },
   {
@@ -455,6 +489,20 @@
    "golf": [
     "Eagle Vines Golf Club",
     "3:00 PM tee time"
+   ],
+   "photos": [
+    {
+     "src": "photos/img-4103.jpg",
+     "cap": "Packed up and leaving Red Bluff"
+    },
+    {
+     "src": "photos/img-4111.jpg",
+     "cap": "Dinner at the girl & the fig, Sonoma"
+    },
+    {
+     "src": "photos/img-4113.jpg",
+     "cap": "Sonoma Hotel at dusk"
+    }
    ]
   },
   {
@@ -470,6 +518,20 @@
    "golf": [
     "Chardonnay Golf Club",
     "1:39 PM tee time"
+   ],
+   "photos": [
+    {
+     "src": "photos/img-4127.jpg",
+     "cap": "Vineyards at Chardonnay Golf Club"
+    },
+    {
+     "src": "photos/img-4130.jpg",
+     "cap": "The #8 tee at Chardonnay"
+    },
+    {
+     "src": "photos/img-4148.jpg",
+     "cap": "A green among the vines"
+    }
    ]
   },
   {
@@ -480,7 +542,13 @@
    "dist": "Bike return",
    "lodging": {
     "name": "1 Hotel San Francisco"
-   }
+   },
+   "photos": [
+    {
+     "src": "photos/img-4150.jpg",
+     "cap": "The bike back in San Francisco"
+    }
+   ]
   }
  ]
 }

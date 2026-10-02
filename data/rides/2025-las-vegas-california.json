@@ -48,7 +48,21 @@
    "to": "Victorville, CA",
    "lodging": {
     "name": "Holiday Inn, Victorville"
-   }
+   },
+   "photos": [
+    {
+     "src": "photos/img-1887.jpg",
+     "cap": "The Harley on CA-190 heading into Death Valley"
+    },
+    {
+     "src": "photos/img-1894.jpg",
+     "cap": "In-N-Out in Victorville"
+    },
+    {
+     "src": "photos/img-1895.jpg",
+     "cap": "Holiday Inn, Victorville"
+    }
+   ]
   },
   {
    "label": "Day 2",
@@ -57,7 +71,21 @@
    "to": "San Luis Obispo, CA",
    "lodging": {
     "name": "Avenue Inn, San Luis Obispo"
-   }
+   },
+   "photos": [
+    {
+     "src": "photos/img-1905.jpg",
+     "cap": "A stop in Highland Park, Los Angeles"
+    },
+    {
+     "src": "photos/img-1917.jpg",
+     "cap": "Avenue Inn, San Luis Obispo"
+    },
+    {
+     "src": "photos/img-1919.jpg",
+     "cap": "Dinner at Coya, San Luis Obispo"
+    }
+   ]
   },
   {
    "label": "Day 3",
@@ -66,7 +94,21 @@
    "to": "Big Pine, CA",
    "lodging": {
     "name": "Bristlecone Motel, Big Pine"
-   }
+   },
+   "photos": [
+    {
+     "src": "photos/img-9086.jpg",
+     "cap": "The Eastern Sierra from the road"
+    },
+    {
+     "src": "photos/img-9104.jpg",
+     "cap": "Copper Top BBQ, Big Pine"
+    },
+    {
+     "src": "photos/img-2002.jpg",
+     "cap": "Mammoth Brewing IPA 395 to end the day"
+    }
+   ]
   },
   {
    "label": "Day 4",
@@ -78,5 +120,7 @@
    }
   }
  ],
- "marks": []
+ "marks": [],
+ "map_img": "photos/route-map.jpg",
+ "map_cap": "The full loop as ridden, about 1,232 miles."
 }
