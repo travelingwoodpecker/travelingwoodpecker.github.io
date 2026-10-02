@@ -1496,5 +1496,7 @@
   "Nevada",
   "California",
   "Arizona"
- ]
+ ],
+ "map_img": "photos/route-map.jpg",
+ "map_cap": "The loop as ridden, about 782 miles."
 }
