@@ -96,7 +96,49 @@
     "name": "The Williams Inn, Williamstown"
    },
    "from_t": "Bethlehem, NH",
-   "to_t": "Williamstown, MA"
+   "to_t": "Williamstown, MA",
+   "photos": [
+    {
+     "src": "photos/img-3017.jpg",
+     "cap": "Harman's Cheese & Country Store, Sugar Hill"
+    },
+    {
+     "src": "photos/img-3018.jpg",
+     "cap": "Fresh milk from Hatchland Farm"
+    },
+    {
+     "src": "photos/img-3019.jpg",
+     "cap": "The Brick Store in Bath, America’s oldest general store"
+    },
+    {
+     "src": "photos/img-3020.jpg",
+     "cap": "Crossing into New York"
+    },
+    {
+     "src": "photos/img-3023.jpg",
+     "cap": "Arriving at The Williams Inn"
+    },
+    {
+     "src": "photos/img-3029.jpg",
+     "cap": "The Williams Inn, Williamstown"
+    },
+    {
+     "src": "photos/img-3028.jpg",
+     "cap": "Coffee in a Mad River Coffee House mug"
+    },
+    {
+     "src": "photos/img-3032.jpg",
+     "cap": "Williams College"
+    },
+    {
+     "src": "photos/img-3046.jpg",
+     "cap": "Images Cinema, Williamstown"
+    },
+    {
+     "src": "photos/img-3047.jpg",
+     "cap": "Now showing: The Bikeriders"
+    }
+   ]
   },
   {
    "label": "Day 5",
@@ -118,7 +160,25 @@
     "name": "Hyatt Place Fort Lee"
    },
    "from_t": "Williamstown, MA",
-   "to_t": "Fort Lee, NJ"
+   "to_t": "Fort Lee, NJ",
+   "photos": [
+    {
+     "src": "photos/img-3053.jpg",
+     "cap": "Bulls Bridge, Kent, Connecticut"
+    },
+    {
+     "src": "photos/img-3055.jpg",
+     "cap": "Arriving in Fort Lee"
+    },
+    {
+     "src": "photos/img-3061.jpg",
+     "cap": "Hyatt Place Fort Lee"
+    },
+    {
+     "src": "photos/img-3063.jpg",
+     "cap": "Steak dinner in Weehawken"
+    }
+   ]
   },
   {
    "label": "Day 6",
@@ -134,7 +194,13 @@
     "name": "Best Western, Lake George"
    },
    "from_t": "Fort Lee, NJ",
-   "to_t": "Lake George, NY"
+   "to_t": "Lake George, NY",
+   "photos": [
+    {
+     "src": "photos/img-3070-edit.jpg",
+     "cap": "A diner stop in the Catskills"
+    }
+   ]
   },
   {
    "label": "Day 7",
@@ -156,7 +222,139 @@
     "name": "Adair Country Inn & Restaurant, Bethlehem"
    },
    "from_t": "Lake George, NY",
-   "to_t": "Bethlehem, NH"
+   "to_t": "Bethlehem, NH",
+   "photos": [
+    {
+     "src": "photos/img-3072.jpg",
+     "cap": "A general store in Rochester, Vermont"
+    },
+    {
+     "src": "photos/img-3073.jpg",
+     "cap": "St. Matthew's Chapel, Sugar Hill"
+    },
+    {
+     "src": "photos/img-3074.jpg",
+     "cap": "Breakfast at Polly's Pancake Parlor"
+    },
+    {
+     "src": "photos/img-3086.jpg",
+     "cap": "Adair Country Inn, Bethlehem"
+    },
+    {
+     "src": "photos/img-3088.jpg",
+     "cap": "The bike at Adair"
+    },
+    {
+     "src": "photos/img-3090.jpg",
+     "cap": "Select Registry at Adair"
+    },
+    {
+     "src": "photos/img-3079.jpg",
+     "cap": "The dining room at Adair"
+    },
+    {
+     "src": "photos/img-3081.jpg",
+     "cap": "A glass of red at Adair"
+    },
+    {
+     "src": "photos/img-3085.jpg",
+     "cap": "The bar at Adair"
+    }
+   ]
+  },
+  {
+   "label": "After the ride",
+   "date": "Jul 26–31",
+   "title": "Bethlehem and Boston",
+   "photos": [
+    {
+     "src": "photos/img-3093.jpg",
+     "cap": "Breakfast room at Adair (Jul 26)"
+    },
+    {
+     "src": "photos/img-3110.jpg",
+     "cap": "Maplewood Golf Club, Bethlehem (Jul 27)"
+    },
+    {
+     "src": "photos/img-3114.jpg",
+     "cap": "The Maplewood scorecard"
+    },
+    {
+     "src": "photos/img-3115.jpg",
+     "cap": "Handmade earrings from Bethlehem"
+    },
+    {
+     "src": "photos/img-3118.jpg",
+     "cap": "Dinner with friends in Bethlehem"
+    },
+    {
+     "src": "photos/img-3121.jpg",
+     "cap": "Rek-lis Brewing Company, Bethlehem"
+    },
+    {
+     "src": "photos/img-3163.jpg",
+     "cap": "A round of golf near Boston"
+    },
+    {
+     "src": "photos/img-3164.jpg",
+     "cap": "The 9th at Newton Commonwealth"
+    },
+    {
+     "src": "photos/img-3142.jpg",
+     "cap": "Northeastern University"
+    },
+    {
+     "src": "photos/img-3150.jpg",
+     "cap": "Dinner in Boston (Jul 29)"
+    },
+    {
+     "src": "photos/img-3159.jpg",
+     "cap": "The Bostonian Hotel"
+    },
+    {
+     "src": "photos/img-3167.jpg",
+     "cap": "Mussels in the North End"
+    },
+    {
+     "src": "photos/img-3168.jpg",
+     "cap": "Giacomo's, North End"
+    },
+    {
+     "src": "photos/img-3171.jpg",
+     "cap": "Hanover Street in the North End"
+    },
+    {
+     "src": "photos/img-3172.jpg",
+     "cap": "A walk through Boston"
+    },
+    {
+     "src": "photos/img-3174.jpg",
+     "cap": "Union Oyster House"
+    },
+    {
+     "src": "photos/img-3179.jpg",
+     "cap": "Oysters at Union Oyster House"
+    },
+    {
+     "src": "photos/img-3192.jpg",
+     "cap": "An Irish pub near Faneuil Hall"
+    },
+    {
+     "src": "photos/img-3194.jpg",
+     "cap": "The Chinatown gate"
+    },
+    {
+     "src": "photos/img-3195.jpg",
+     "cap": "The Charles River"
+    },
+    {
+     "src": "photos/img-3204.jpg",
+     "cap": "A farewell dinner"
+    }
+   ],
+   "prose": [
+    "Off the bike: a round at Maplewood in Bethlehem, then a few days in Boston."
+   ]
   }
  ],
  "tracks": [
@@ -2748,5 +2946,7 @@
   "Balch Hotel, Dufur, OR": "Dufur",
   "Element Bend, OR": "Bend",
   "Best Western Garden Villa Inn, Roseburg, OR": "Roseburg"
- }
+ },
+ "map_img": "photos/route-map.jpg",
+ "map_cap": "The loop as ridden, about 1,075 miles."
 }
