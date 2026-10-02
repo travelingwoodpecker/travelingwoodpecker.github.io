@@ -103,6 +103,21 @@
   },
   {
    "year": 2025,
+   "title": "Japan Central Alps",
+   "countries": [
+    "japan"
+   ],
+   "days": 8,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/japan/2025-japan-central-alps/"
+    }
+   ],
+   "dates": "May 15–22, 2025"
+  },
+  {
+   "year": 2025,
    "title": "Las Vegas to California",
    "countries": [
     "usa"
@@ -118,19 +133,20 @@
    "miles": "~1,232"
   },
   {
-   "year": 2025,
-   "title": "Japan Central Alps",
+   "year": 2024,
+   "title": "Las Vegas to Joshua Tree",
    "countries": [
-    "japan"
+    "usa"
    ],
-   "days": 8,
+   "days": 3,
    "links": [
     {
      "kind": "page",
-     "url": "/japan/2025-japan-central-alps/"
+     "url": "/usa/2024-joshua-tree/"
     }
    ],
-   "dates": "May 15–22, 2025"
+   "miles": "~782",
+   "dates": "Dec 28–30, 2024"
   },
   {
    "year": 2024,
@@ -144,21 +160,8 @@
      "kind": "pdf",
      "url": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:802417a8-d099-4c4d-85f0-cedbb38bf4dc"
     }
-   ]
-  },
-  {
-   "year": 2024,
-   "title": "Sweden: Umeå & the High Coast",
-   "countries": [
-    "sweden"
    ],
-   "links": [
-    {
-     "kind": "page",
-     "url": "/sweden/2024-sweden/"
-    }
-   ],
-   "miles": "~291"
+   "dates": "Oct 7–15, 2024"
   },
   {
    "year": 2024,
@@ -179,21 +182,6 @@
   },
   {
    "year": 2024,
-   "title": "Las Vegas to Joshua Tree",
-   "countries": [
-    "usa"
-   ],
-   "days": 3,
-   "links": [
-    {
-     "kind": "page",
-     "url": "/usa/2024-joshua-tree/"
-    }
-   ],
-   "miles": "~782"
-  },
-  {
-   "year": 2024,
    "title": "Oregon",
    "countries": [
     "usa"
@@ -205,7 +193,8 @@
      "url": "/usa/2024-oregon/"
     }
    ],
-   "miles": "~1,079"
+   "miles": "~1,079",
+   "dates": "Aug 8–12, 2024"
   },
   {
    "year": 2024,
@@ -227,8 +216,7 @@
    "year": 2024,
    "title": "Atlantic Canada",
    "countries": [
-    "canada",
-    "usa"
+    "canada"
    ],
    "days": 10,
    "links": [
@@ -239,6 +227,20 @@
    ],
    "dates": "Jul 8–17, 2024",
    "miles": "~2,000"
+  },
+  {
+   "year": 2024,
+   "title": "Sweden: Umeå & the High Coast",
+   "countries": [
+    "sweden"
+   ],
+   "links": [
+    {
+     "kind": "page",
+     "url": "/sweden/2024-sweden/"
+    }
+   ],
+   "miles": "~291"
   },
   {
    "year": 2024,
@@ -258,22 +260,6 @@
   },
   {
    "year": 2023,
-   "title": "Norway: Fjords & Scenic Routes",
-   "countries": [
-    "norway"
-   ],
-   "days": 10,
-   "links": [
-    {
-     "kind": "page",
-     "url": "/norway/2023-norway/"
-    }
-   ],
-   "dates": "Jul 9–19, 2023",
-   "miles": "1,150"
-  },
-  {
-   "year": 2023,
    "title": "Las Vegas to Phoenix, Arizona",
    "countries": [
     "usa"
@@ -287,6 +273,22 @@
    ],
    "dates": "Dec 26–31, 2023",
    "miles": "1,615"
+  },
+  {
+   "year": 2023,
+   "title": "Norway: Fjords & Scenic Routes",
+   "countries": [
+    "norway"
+   ],
+   "days": 10,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/norway/2023-norway/"
+    }
+   ],
+   "dates": "Jul 9–19, 2023",
+   "miles": "1,150"
   },
   {
    "year": 2022,
