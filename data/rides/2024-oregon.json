@@ -21,7 +21,37 @@
     "name": "Best Western Newberg Inn"
    },
    "from_t": "Eugene, OR",
-   "to_t": "Newberg, OR"
+   "to_t": "Newberg, OR",
+   "photos": [
+    {
+     "src": "photos/img-3299.jpg",
+     "cap": "The bikes ready in Eugene the night before (Aug 7)"
+    },
+    {
+     "src": "photos/img-3306.jpg",
+     "cap": "A close look at the exhaust"
+    },
+    {
+     "src": "photos/img-3310.jpg",
+     "cap": "A break in the Coast Range"
+    },
+    {
+     "src": "photos/img-3311.jpg",
+     "cap": "Fog on the coast north of Florence"
+    },
+    {
+     "src": "photos/img-6928.jpg",
+     "cap": "Both bikes at a coastal overlook"
+    },
+    {
+     "src": "photos/img-3328.jpg",
+     "cap": "The view from Cape Perpetua"
+    },
+    {
+     "src": "photos/img-3331.jpg",
+     "cap": "Eola Hills wine in Newberg"
+    }
+   ]
   },
   {
    "label": "Leg 2",
@@ -40,7 +70,49 @@
     "name": "Balch Hotel, Dufur"
    },
    "from_t": "Newberg, OR",
-   "to_t": "Dufur, OR"
+   "to_t": "Dufur, OR",
+   "photos": [
+    {
+     "src": "photos/img-3338.jpg",
+     "cap": "Vista House at Crown Point"
+    },
+    {
+     "src": "photos/img-3340.jpg",
+     "cap": "Multnomah Falls"
+    },
+    {
+     "src": "photos/img-3343.jpg",
+     "cap": "Bridge of the Gods over the Columbia"
+    },
+    {
+     "src": "photos/img-3344.jpg",
+     "cap": "A stop on the Washington side of the Gorge"
+    },
+    {
+     "src": "photos/img-3347.jpg",
+     "cap": "The Columbia River from Rowena Crest"
+    },
+    {
+     "src": "photos/img-3348.jpg",
+     "cap": "The Rowena Loops"
+    },
+    {
+     "src": "photos/img-3349.jpg",
+     "cap": "Balch Hotel, Dufur"
+    },
+    {
+     "src": "photos/img-7028.jpg",
+     "cap": "A wine tasting in Dufur"
+    },
+    {
+     "src": "photos/img-7030.jpg",
+     "cap": "On the steps of the Balch Hotel"
+    },
+    {
+     "src": "photos/img-3357.jpg",
+     "cap": "Shadowbuck pinot noir for the evening"
+    }
+   ]
   },
   {
    "label": "Leg 3",
@@ -56,7 +128,25 @@
     "name": "Element Bend"
    },
    "from_t": "Dufur, OR",
-   "to_t": "Bend, OR"
+   "to_t": "Bend, OR",
+   "photos": [
+    {
+     "src": "photos/img-3405.jpg",
+     "cap": "Mount Hood from the road"
+    },
+    {
+     "src": "photos/img-3418.jpg",
+     "cap": "A stop in Detroit"
+    },
+    {
+     "src": "photos/img-3422.jpg",
+     "cap": "Element Bend"
+    },
+    {
+     "src": "photos/img-7123.jpg",
+     "cap": "Dinner in Bend"
+    }
+   ]
   },
   {
    "label": "Leg 4",
@@ -75,7 +165,17 @@
     "name": "Best Western Garden Villa Inn, Roseburg"
    },
    "from_t": "Bend, OR",
-   "to_t": "Roseburg, OR"
+   "to_t": "Roseburg, OR",
+   "photos": [
+    {
+     "src": "photos/img-7152.jpg",
+     "cap": "A stop near Crater Lake"
+    },
+    {
+     "src": "photos/img-7183.jpg",
+     "cap": "A glass of wine in Roseburg"
+    }
+   ]
   },
   {
    "label": "Leg 5",
@@ -91,7 +191,37 @@
     "Fox Hollow, Eugene, OR"
    ],
    "from_t": "Roseburg, OR",
-   "to_t": "Eugene, OR"
+   "to_t": "Eugene, OR",
+   "photos": [
+    {
+     "src": "photos/img-7208.jpg",
+     "cap": "A coffee stop"
+    },
+    {
+     "src": "photos/img-3510.jpg",
+     "cap": "A fish corkscrew souvenir"
+    },
+    {
+     "src": "photos/img-3511.jpg",
+     "cap": "Main street in Reedsport"
+    },
+    {
+     "src": "photos/img-7215.jpg",
+     "cap": "Best of Show at Brandborg Vineyard, Elkton"
+    },
+    {
+     "src": "photos/img-7218.jpg",
+     "cap": "Tasting at Brandborg"
+    },
+    {
+     "src": "photos/img-3522.jpg",
+     "cap": "King Estate Winery, Lorane"
+    },
+    {
+     "src": "photos/img-7238.jpg",
+     "cap": "Back in Eugene with the bikes"
+    }
+   ]
   }
  ],
  "tracks": [
