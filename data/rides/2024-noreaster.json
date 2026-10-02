@@ -8,6 +8,28 @@
  "days": [
   {
    "label": "Day 1",
+   "date": "Thu, Jul 18",
+   "title": "A White Mountains loop from Bethlehem",
+   "prose": [
+    "A warm-up day ride out of Bethlehem through the White Mountains, with lunch at Big Day Brewing."
+   ],
+   "photos": [
+    {
+     "src": "photos/map-0718.jpg",
+     "cap": "The Jul 18 loop through the White Mountains"
+    },
+    {
+     "src": "photos/img-2974.jpg",
+     "cap": "Ready for the day ride out of Bethlehem"
+    },
+    {
+     "src": "photos/img-2975.jpg",
+     "cap": "Lunch at Big Day Brewing"
+    }
+   ]
+  },
+  {
+   "label": "Day 2",
    "date": "Fri, Jul 19",
    "from": "Bethlehem, NH",
    "to": "Edson Hill, Stowe, VT",
@@ -20,7 +42,7 @@
    "to_t": "Stowe, VT"
   },
   {
-   "label": "Day 2",
+   "label": "Day 3",
    "date": "Sat, Jul 20",
    "from": "Edson Hill, Stowe, VT",
    "to": "Round Hearth Cafe, Stowe, VT",
@@ -60,7 +82,7 @@
    ]
   },
   {
-   "label": "Day 3",
+   "label": "Day 4",
    "date": "Sun, Jul 21",
    "from": "Edson Hill, Stowe, VT",
    "to": "Bethlehem, NH",
@@ -79,7 +101,7 @@
    "to_t": "Bethlehem, NH"
   },
   {
-   "label": "Day 4",
+   "label": "Day 5",
    "date": "Mon, Jul 22",
    "from": "Bethlehem, NH",
    "to": "The Williams Inn, Williamstown, MA",
@@ -141,7 +163,7 @@
    ]
   },
   {
-   "label": "Day 5",
+   "label": "Day 6",
    "date": "Tue, Jul 23",
    "from": "The Williams Inn, Williamstown, MA",
    "to": "Hyatt Place Fort Lee, NJ",
@@ -181,7 +203,7 @@
    ]
   },
   {
-   "label": "Day 6",
+   "label": "Day 7",
    "date": "Wed, Jul 24",
    "from": "Hyatt Place Fort Lee, NJ",
    "to": "Best Western Lake George, NY",
@@ -203,7 +225,7 @@
    ]
   },
   {
-   "label": "Day 7",
+   "label": "Day 8",
    "date": "Thu, Jul 25",
    "from": "Best Western Lake George, NY",
    "to": "Bethlehem, NH",
@@ -2914,7 +2936,7 @@
    "miles planned"
   ],
   [
-   "7",
+   "8",
    "riding days"
   ],
   [
