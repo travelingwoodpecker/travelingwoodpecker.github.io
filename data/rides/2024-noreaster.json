@@ -69,11 +69,15 @@
     },
     {
      "src": "photos/img-3003.jpg",
-     "cap": "A stop near Stowe"
+     "cap": "Ryder Brook Golf Club"
     },
     {
      "src": "photos/img-3004.jpg",
-     "cap": "Fairways near Stowe"
+     "cap": "The course at Ryder Brook Golf Club"
+    },
+    {
+     "src": "photos/ryder-brook-rider.jpg",
+     "cap": "Riding partner at Ryder Brook Golf Club"
     },
     {
      "src": "photos/img-3009.jpg",
@@ -94,9 +98,6 @@
     "Woodsville, NH",
     "Sugar Hill, NH"
    ],
-   "lodging": {
-    "name": "Bear Mountain Lodge, Bethlehem"
-   },
    "from_t": "Stowe, VT",
    "to_t": "Bethlehem, NH"
   },
