@@ -97,6 +97,10 @@
    },
    "photos": [
     {
+     "src": "photos/img-9063.jpg",
+     "cap": "Green hills on the way inland"
+    },
+    {
      "src": "photos/img-9086.jpg",
      "cap": "The Eastern Sierra from the road"
     },
@@ -117,7 +121,37 @@
    "to": "Las Vegas, NV",
    "lodging": {
     "name": "Tru by Hilton, Las Vegas Airport"
-   }
+   },
+   "photos": [
+    {
+     "src": "photos/img-9135.jpg",
+     "cap": "An empty desert road out of Big Pine"
+    },
+    {
+     "src": "photos/img-9146.jpg",
+     "cap": "Stagecoach Hotel & Casino, Beatty"
+    },
+    {
+     "src": "photos/img-9149.jpg",
+     "cap": "The 55+ menu at Denny's"
+    },
+    {
+     "src": "photos/img-2016.jpg",
+     "cap": "Breakfast at Denny's, Beatty"
+    },
+    {
+     "src": "photos/img-2018.jpg",
+     "cap": "Returning the Harley in Las Vegas"
+    },
+    {
+     "src": "photos/img-9176.jpg",
+     "cap": "Master Kim's Korean BBQ, Las Vegas"
+    },
+    {
+     "src": "photos/img-9172.jpg",
+     "cap": "A beer to finish the ride at Master Kim's"
+    }
+   ]
   }
  ],
  "marks": [],
