@@ -254,10 +254,6 @@
      "cap": "At the Sanctuary of Peneda"
     },
     {
-     "src": "photos/img-0943.jpg",
-     "cap": "Dessert: Pyjamas"
-    },
-    {
      "src": "photos/img-0655.jpg",
      "cap": "Braga"
     },
@@ -272,6 +268,10 @@
     {
      "src": "photos/img-0672.jpg",
      "cap": "Dinner in Braga"
+    },
+    {
+     "src": "photos/img-0943.jpg",
+     "cap": "Dessert: Pyjamas"
     }
    ]
   },
