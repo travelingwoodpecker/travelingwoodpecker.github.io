@@ -166,10 +166,6 @@
     {
      "src": "photos/img-0793.jpg",
      "cap": "Porto Messias"
-    },
-    {
-     "src": "photos/img-1029.jpg",
-     "cap": "A rest on the riverbank"
     }
    ]
   },
@@ -263,7 +259,7 @@
    "date": "Sun, Oct 13",
    "title": "South through the mountains",
    "prose": [
-    "South through the mountains and gorges of the interior to a manor house in the hills for the night."
+    "South through the mountains and gorges of the interior to Quinta Lusitania, a manor house near Santa Comba Dão, for the night."
    ],
    "photos": [
     {
@@ -272,7 +268,7 @@
     },
     {
      "src": "photos/img-0693.jpg",
-     "cap": "The manor house"
+     "cap": "Quinta Lusitania, Santa Comba Dão"
     },
     {
      "src": "photos/img-0685.jpg",
@@ -280,13 +276,17 @@
     },
     {
      "src": "photos/img-0716.jpg",
-     "cap": "Dinner at the manor"
+     "cap": "Dinner at Quinta Lusitania"
     },
     {
      "src": "photos/img-0721.jpg",
-     "cap": "The chapel at the manor"
+     "cap": "The chapel at Quinta Lusitania"
     }
-   ]
+   ],
+   "lodging": {
+    "name": "Quinta Lusitania",
+    "addr": "Santa Comba Dão, Portugal"
+   }
   },
   {
    "label": "Day 8",
@@ -315,6 +315,10 @@
     {
      "src": "photos/img-0913.jpg",
      "cap": "A fuel stop"
+    },
+    {
+     "src": "photos/img-1029.jpg",
+     "cap": "A rest on the riverbank"
     },
     {
      "src": "photos/img-7597.jpg",
@@ -370,12 +374,19 @@
     },
     {
      "src": "photos/img-3688.jpg",
-     "cap": "Farewell dinner in Lisbon"
+     "cap": "Farewell dinner at Zazah, Lisbon"
     },
     {
      "src": "photos/img-0769.jpg",
-     "cap": "The last toast"
+     "cap": "The last toast at Zazah"
     }
+   ],
+   "dining": [
+    [
+     "Zazah",
+     "R. de São Marçal, 111, 1200-420 Lisboa",
+     "The farewell dinner with the group."
+    ]
    ]
   }
  ],
@@ -383,6 +394,7 @@
   "tag": "Ridden with",
   "name": "Portugal Motorcycle Tours — North Tour",
   "url": "https://portugalmotorcycletours.com/north-tour/",
-  "text": "This loop was the guided North Tour from Lisbon: the Atlantic coast, a food tour in Porto, the Douro Valley, Trás-os-Montes, Peneda-Gerês and the N2 back south. Highly recommended if you want to ride Portugal with people who know every back road."
+  "text": "This loop was the guided North Tour from Lisbon: the Atlantic coast, a food tour in Porto, the Douro Valley, Trás-os-Montes, Peneda-Gerês and the N2 back south. Highly recommended if you want to ride Portugal with people who know every back road.",
+  "pdf": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:802417a8-d099-4c4d-85f0-cedbb38bf4dc"
  }
 }

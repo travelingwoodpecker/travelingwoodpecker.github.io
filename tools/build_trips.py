@@ -96,7 +96,8 @@ def build(r, svg):
     if r.get('callout'):
         co = r['callout']
         facts += (f'<aside class="road callout"><p class="road-tag">{e(co.get("tag", "Ridden with"))}</p>'
-                  f'<h3><a href="{e(co["url"])}"{EXT}>{e(co["name"])}</a></h3><p>{e(co["text"])}</p></aside>')
+                  f'<h3><a href="{e(co["url"])}"{EXT}>{e(co["name"])}</a></h3><p>{e(co["text"])}</p>'
+                  + (f'<p style="margin-top:14px"><a class="lk" href="{e(co["pdf"])}"{EXT}><svg viewBox="0 0 24 24"><path d="M14 3H6v18h12V7z"/><path d="M14 3v4h4"/></svg>Itinerary (PDF)</a></p>' if co.get('pdf') else '') + '</aside>')
     body = f'''<main class="wrap trip">
 <p class="crumbs"><a href="/{c["slug"]}/">{e(c["name"])}</a> / {r["year"]}</p>
 <section class="hero hero-split trip-hero">
