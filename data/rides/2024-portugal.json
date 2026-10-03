@@ -4,7 +4,7 @@
  "year": 2024,
  "title": "Portugal",
  "kicker": "Oct 7–15, 2024 · Motorcycle tour",
- "dek": "A loop from Lisbon: Sintra and the Atlantic coast up through Nazaré to Porto, north to Monção on the Spanish border, into the Douro Valley at Pinhão, then south through Viseu to Marvão and Évora and back to Lisbon.",
+ "dek": "A nine-day guided loop from Lisbon with Portugal Motorcycle Tours: up the Atlantic coast to Porto, north to the Minho and Peneda-Gerês, through the Douro Valley, south on the N2, and home across the Alentejo by Marvão and Évora.",
  "stats": [
   [
    "~944",
@@ -23,19 +23,72 @@
  "map_cap": "The full loop, about 1,519 km.",
  "days": [
   {
-   "label": "The loop",
-   "title": "Lisbon around Portugal and back",
+   "label": "Stage 1",
+   "title": "Lisbon up the Atlantic coast",
    "via": [
     "Lisbon",
     "Sintra",
     "Nazaré",
-    "Porto",
+    "Aveiro"
+   ],
+   "prose": [
+    "Out of Lisbon by Sintra and onto the back roads of the west coast: fishing and surfing villages, fruit orchards, and the Atlantic road with the ocean alongside most of the way north."
+   ]
+  },
+  {
+   "label": "Stage 2",
+   "title": "Porto",
+   "via": [
+    "Porto"
+   ],
+   "prose": [
+    "A short coastal run into Porto, then a day off the bike for a food tour through the city’s small eateries and tascas."
+   ]
+  },
+  {
+   "label": "Stage 3",
+   "title": "The Minho and Peneda-Gerês",
+   "via": [
+    "Braga",
     "Monção",
-    "Pinhão (Douro Valley)",
+    "Peneda-Gerês National Park"
+   ],
+   "prose": [
+    "North through the green-wine country of the Minho to Monção on the Spanish border, then into Peneda-Gerês, Portugal’s only national park: granite ridges, oak and pine forest, stone villages and mountain lagoons."
+   ]
+  },
+  {
+   "label": "Stage 4",
+   "title": "The Douro Valley",
+   "via": [
+    "Vila Real",
+    "Pinhão"
+   ],
+   "prose": [
+    "East into the Douro, the world’s oldest demarcated wine region, following the river through terraced vineyards to Pinhão. One of the best riding days of the trip."
+   ]
+  },
+  {
+   "label": "Stage 5",
+   "title": "South on the N2",
+   "via": [
     "Viseu",
+    "Serra da Estrela foothills"
+   ],
+   "prose": [
+    "South through Viseu on the N2, Portugal’s longest road and its answer to Route 66, through the hill country of the interior."
+   ]
+  },
+  {
+   "label": "Stage 6",
+   "title": "The Alentejo and back to Lisbon",
+   "via": [
     "Marvão",
     "Évora",
     "Lisbon"
+   ],
+   "prose": [
+    "Down to the hilltop fortress of Marvão on the Spanish border, across the cork-oak plains of the Alentejo to Évora, and back to Lisbon to close the loop."
    ]
   }
  ],
