@@ -51,7 +51,7 @@ def day_html(i, d):
     if d.get('photos'):
         out.append(f'<div class="photos" style="--n:{min(len(d["photos"]), 4)}">' + ''.join(
             f'<figure><a href="{e(ph["src"])}" target="_blank" rel="noopener"><img src="{e(ph["src"])}" alt="{e(ph["cap"])}" loading="lazy"></a>'
-            f'<figcaption>{e(ph["cap"])}</figcaption></figure>' for ph in d['photos']) + '</div>')
+            f'<figcaption>{e(ph["cap"])}' + (f' <a href="{e(ph["link"])}"{EXT}>{e(ph.get("link_text", ph["link"]))}</a>' if ph.get('link') else '') + '</figcaption></figure>' for ph in d['photos']) + '</div>')
     if not any(d.get(x) for x in ('prose', 'legs', 'road', 'highlights', 'via', 'sights', 'tips', 'golf', 'photos')):
         out.append('<p class="prose quiet">Notes for this day are still to come.</p>')
     out.append('</div><div class="tday-side">')
