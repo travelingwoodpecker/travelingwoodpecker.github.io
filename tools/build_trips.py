@@ -109,7 +109,7 @@ def build(r, svg):
 <section class="hero hero-split trip-hero">
 <div><p class="kicker">{e(r["kicker"])}</p><h1>{e(r["title"])}</h1><p class="dek">{e(r["dek"])}</p>
 <dl class="stats">{stats}</dl></div>
-<figure class="rm-fig">{svg}<figcaption>{cap}</figcaption></figure>
+{f'<figure class="rm-fig">{svg}<figcaption>{cap}</figcaption></figure>' if svg.strip() else ""}
 </section>
 {facts}
 <nav class="daychips" aria-label="Days">{chips}</nav>
