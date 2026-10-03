@@ -302,6 +302,10 @@
     {
      "src": "photos/img-0721.jpg",
      "cap": "The chapel at Quinta Lusitania"
+    },
+    {
+     "src": "photos/img-0991.jpg",
+     "cap": "A church lit up at night"
     }
    ],
    "lodging": {
@@ -335,7 +339,7 @@
     },
     {
      "src": "photos/img-0913.jpg",
-     "cap": "A fuel stop"
+     "cap": "Diesel was a wrong fuel choice! 🤦"
     },
     {
      "src": "photos/img-1029.jpg",
@@ -348,10 +352,6 @@
     {
      "src": "photos/img-1042.jpg",
      "cap": "Marvão castle"
-    },
-    {
-     "src": "photos/img-0991.jpg",
-     "cap": "A church lit up at night"
     }
    ]
   },
