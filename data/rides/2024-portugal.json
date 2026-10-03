@@ -3,7 +3,7 @@
  "slug": "2024-portugal",
  "year": 2024,
  "title": "Portugal",
- "kicker": "Oct 7–15, 2024 · Motorcycle tour",
+ "kicker": "October 7–15, 2024 · Guided motorcycle tour",
  "dek": "A nine-day guided loop from Lisbon with Portugal Motorcycle Tours: up the Atlantic coast to Porto, north to the Minho and Peneda-Gerês, through the Douro Valley, south on the N2, and home across the Alentejo by Marvão and Évora.",
  "stats": [
   [
@@ -23,72 +23,359 @@
  "map_cap": "The full loop, about 1,519 km.",
  "days": [
   {
-   "label": "Stage 1",
+   "label": "Day 1",
+   "date": "Mon, Oct 7",
    "title": "Lisbon up the Atlantic coast",
    "via": [
     "Lisbon",
-    "Sintra",
+    "Praia da Física",
     "Nazaré",
-    "Aveiro"
+    "São Pedro de Moel"
    ],
    "prose": [
-    "Out of Lisbon by Sintra and onto the back roads of the west coast: fishing and surfing villages, fruit orchards, and the Atlantic road with the ocean alongside most of the way north."
+    "Out of Lisbon and onto the back roads of the west coast: fishing and surfing villages, orchards, and the ocean alongside most of the way north to Nazaré and São Pedro de Moel."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0498.jpg",
+     "cap": "Bikes lined up in Lisbon on the first morning"
+    },
+    {
+     "src": "photos/img-0499.jpg",
+     "cap": "Ready to roll"
+    },
+    {
+     "src": "photos/img-0503.jpg",
+     "cap": "First stop on the coast"
+    },
+    {
+     "src": "photos/img-0505.jpg",
+     "cap": "Praia da Física"
+    },
+    {
+     "src": "photos/img-0520.jpg",
+     "cap": "Nazaré from the cliffs"
+    },
+    {
+     "src": "photos/img-0521.jpg",
+     "cap": "The bandstand in Nazaré"
+    },
+    {
+     "src": "photos/img-0529.jpg",
+     "cap": "Sunset over the Atlantic at São Pedro de Moel"
+    },
+    {
+     "src": "photos/img-0531.jpg",
+     "cap": "The bikes at the hotel, São Pedro de Moel"
+    },
+    {
+     "src": "photos/img-0535.jpg",
+     "cap": "The group at dinner"
+    }
    ]
   },
   {
-   "label": "Stage 2",
+   "label": "Day 2",
+   "date": "Tue, Oct 8",
    "title": "Porto",
    "via": [
     "Porto"
    ],
    "prose": [
-    "A short coastal run into Porto, then a day off the bike for a food tour through the city’s small eateries and tascas."
+    "A short coastal run into Porto and a food tour through the city’s small eateries."
    ]
   },
   {
-   "label": "Stage 3",
-   "title": "The Minho and Peneda-Gerês",
+   "label": "Day 3",
+   "date": "Wed, Oct 9",
+   "title": "Into the Douro Valley",
    "via": [
-    "Braga",
-    "Monção",
-    "Peneda-Gerês National Park"
-   ],
-   "prose": [
-    "North through the green-wine country of the Minho to Monção on the Spanish border, then into Peneda-Gerês, Portugal’s only national park: granite ridges, oak and pine forest, stone villages and mountain lagoons."
-   ]
-  },
-  {
-   "label": "Stage 4",
-   "title": "The Douro Valley",
-   "via": [
-    "Vila Real",
+    "Douro Valley",
     "Pinhão"
    ],
    "prose": [
-    "East into the Douro, the world’s oldest demarcated wine region, following the river through terraced vineyards to Pinhão. One of the best riding days of the trip."
+    "East into the Douro, the world’s oldest demarcated wine region, following the river through terraced vineyards to Quinta de la Rosa above Pinhão, in the middle of the harvest."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0542.jpg",
+     "cap": "Lunch at Quinta de la Rosa"
+    },
+    {
+     "src": "photos/img-0543.jpg",
+     "cap": "Quinta de la Rosa wines"
+    },
+    {
+     "src": "photos/img-0544.jpg",
+     "cap": "Stretching after the ride in"
+    },
+    {
+     "src": "photos/img-0551.jpg",
+     "cap": "Harvest grapes fresh off the vines"
+    },
+    {
+     "src": "photos/img-0552.jpg",
+     "cap": "Pressed grape skins from the harvest"
+    },
+    {
+     "src": "photos/img-0564.jpg",
+     "cap": "The pool above the Douro"
+    },
+    {
+     "src": "photos/img-0576.jpg",
+     "cap": "Quinta de la Rosa"
+    }
    ]
   },
   {
-   "label": "Stage 5",
-   "title": "South on the N2",
+   "label": "Day 4",
+   "date": "Thu, Oct 10",
+   "title": "A day on the Douro",
    "via": [
-    "Viseu",
-    "Serra da Estrela foothills"
+    "Pinhão",
+    "Douro River"
    ],
    "prose": [
-    "South through Viseu on the N2, Portugal’s longest road and its answer to Route 66, through the hill country of the interior."
+    "Off the bikes: out on the river by boat, along the Douro by train, and into the port lodges."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0596.jpg",
+     "cap": "Out on the Douro by boat"
+    },
+    {
+     "src": "photos/p-f048bbc4.jpg",
+     "cap": "A glass of wine on the river"
+    },
+    {
+     "src": "photos/img-0836.jpg",
+     "cap": "A toast on the boat"
+    },
+    {
+     "src": "photos/img-0907.jpg",
+     "cap": "The Douro by train"
+    },
+    {
+     "src": "photos/img-0789.jpg",
+     "cap": "Port ageing in the cellar"
+    },
+    {
+     "src": "photos/img-0629.jpg",
+     "cap": "In the port lodge"
+    },
+    {
+     "src": "photos/img-0793.jpg",
+     "cap": "Porto Messias"
+    },
+    {
+     "src": "photos/img-1029.jpg",
+     "cap": "A rest on the riverbank"
+    }
    ]
   },
   {
-   "label": "Stage 6",
+   "label": "Day 5",
+   "date": "Fri, Oct 11",
+   "title": "North into the Minho",
+   "via": [
+    "Fafe",
+    "Casa do Penedo"
+   ],
+   "prose": [
+    "North out of the Douro through green-wine country toward the mountains of the Minho, by way of Casa do Penedo, the little house built into the boulders near Fafe."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0601.jpg",
+     "cap": "Casa do Penedo, the house in the rocks"
+    },
+    {
+     "src": "photos/gopr0332.jpg",
+     "cap": "Forest roads in the Minho"
+    },
+    {
+     "src": "photos/20241011_165607.jpg",
+     "cap": "A stop in the hills"
+    },
+    {
+     "src": "photos/img-2825.jpg",
+     "cap": "Dinner and a toast"
+    },
+    {
+     "src": "photos/img-0611.jpg",
+     "cap": "A game of pool after dinner"
+    }
+   ]
+  },
+  {
+   "label": "Day 6",
+   "date": "Sat, Oct 12",
+   "title": "Peneda-Gerês to Braga",
+   "via": [
+    "Soajo",
+    "Peneda",
+    "Braga"
+   ],
+   "prose": [
+    "Through Peneda-Gerês, Portugal’s only national park: granite ridges, oak and pine forest and stone villages, then down to Braga for the night."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0630.jpg",
+     "cap": "Morning mist over the valley"
+    },
+    {
+     "src": "photos/img-0642.jpg",
+     "cap": "A coffee stop in the mountains"
+    },
+    {
+     "src": "photos/img-0644.jpg",
+     "cap": "Coffee in a stone café"
+    },
+    {
+     "src": "photos/20241012_121331.jpg",
+     "cap": "Granite granaries (espigueiros)"
+    },
+    {
+     "src": "photos/img-0653.jpg",
+     "cap": "At the Sanctuary of Peneda"
+    },
+    {
+     "src": "photos/img-0655.jpg",
+     "cap": "Braga"
+    },
+    {
+     "src": "photos/img-0662.jpg",
+     "cap": "Braga"
+    },
+    {
+     "src": "photos/img-0665.jpg",
+     "cap": "The Arco da Porta Nova, Braga"
+    },
+    {
+     "src": "photos/img-0672.jpg",
+     "cap": "Dinner in Braga"
+    }
+   ]
+  },
+  {
+   "label": "Day 7",
+   "date": "Sun, Oct 13",
+   "title": "South through the mountains",
+   "prose": [
+    "South through the mountains and gorges of the interior to a manor house in the hills for the night."
+   ],
+   "photos": [
+    {
+     "src": "photos/20241013_145356.jpg",
+     "cap": "Mountain gorges on the way south"
+    },
+    {
+     "src": "photos/img-0693.jpg",
+     "cap": "The manor house"
+    },
+    {
+     "src": "photos/img-0685.jpg",
+     "cap": "The dining room"
+    },
+    {
+     "src": "photos/img-0716.jpg",
+     "cap": "Dinner at the manor"
+    },
+    {
+     "src": "photos/img-0721.jpg",
+     "cap": "The chapel at the manor"
+    }
+   ]
+  },
+  {
+   "label": "Day 8",
+   "date": "Mon, Oct 14",
+   "title": "Down the N2 to Marvão",
+   "via": [
+    "N2",
+    "Marvão"
+   ],
+   "prose": [
+    "South on the N2, Portugal’s longest road and its answer to Route 66, and on to the hilltop fortress of Marvão on the Spanish border."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0774.jpg",
+     "cap": "A misty morning start"
+    },
+    {
+     "src": "photos/img-0748.jpg",
+     "cap": "A tree-lined road"
+    },
+    {
+     "src": "photos/img-0711.jpg",
+     "cap": "Goats on the road"
+    },
+    {
+     "src": "photos/img-0913.jpg",
+     "cap": "A fuel stop"
+    },
+    {
+     "src": "photos/img-7597.jpg",
+     "cap": "Cobbled streets"
+    },
+    {
+     "src": "photos/img-1042.jpg",
+     "cap": "Marvão castle"
+    },
+    {
+     "src": "photos/img-0943.jpg",
+     "cap": "Dessert"
+    },
+    {
+     "src": "photos/img-0991.jpg",
+     "cap": "A church lit up at night"
+    }
+   ]
+  },
+  {
+   "label": "Day 9",
+   "date": "Tue, Oct 15",
    "title": "The Alentejo and back to Lisbon",
    "via": [
     "Marvão",
+    "Elvas",
     "Évora",
     "Lisbon"
    ],
    "prose": [
-    "Down to the hilltop fortress of Marvão on the Spanish border, across the cork-oak plains of the Alentejo to Évora, and back to Lisbon to close the loop."
+    "Out of Marvão across the cork-oak plains of the Alentejo by Elvas and Évora, and back to Lisbon to close the loop."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0746.jpg",
+     "cap": "Dom Dinis, Marvão"
+    },
+    {
+     "src": "photos/img-0756.jpg",
+     "cap": "Elvas"
+    },
+    {
+     "src": "photos/img-0759.jpg",
+     "cap": "The Roman Temple of Diana, Évora"
+    },
+    {
+     "src": "photos/img-0761.jpg",
+     "cap": "Returning the bike in Lisbon"
+    },
+    {
+     "src": "photos/img-0765.jpg",
+     "cap": "The group back in Lisbon"
+    },
+    {
+     "src": "photos/img-3688.jpg",
+     "cap": "Farewell dinner in Lisbon"
+    },
+    {
+     "src": "photos/img-0769.jpg",
+     "cap": "The last toast"
+    }
    ]
   }
  ],
