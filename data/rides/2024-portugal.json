@@ -83,6 +83,23 @@
    ],
    "prose": [
     "A short coastal run into Porto and a food tour through the city’s small eateries."
+   ],
+   "photos": [
+    {
+     "src": "photos/img-0537.jpg",
+     "cap": "Largo de São Domingos at night"
+    },
+    {
+     "src": "photos/img-0538.jpg",
+     "cap": "Dinner at Traça, Porto"
+    }
+   ],
+   "dining": [
+    [
+     "Traça",
+     "Largo de São Domingos, 88, Porto",
+     "Dinner on the square in the old town."
+    ]
    ]
   },
   {
