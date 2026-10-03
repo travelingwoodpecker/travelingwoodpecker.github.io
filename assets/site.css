@@ -178,3 +178,8 @@ footer a{color:var(--muted)}
 .photos a:hover img{transform:scale(1.03)}
 .photos figcaption{font-family:var(--ui);font-size:13px;line-height:1.4;color:var(--muted);margin-top:6px}
 @media (max-width:620px){.photos{grid-template-columns:repeat(min(var(--n,2),2),minmax(0,1fr));gap:8px}}
+
+.motto{margin:14px 0 18px;padding:2px 0 2px 16px;border-left:3px solid var(--ochre)}
+.motto-h{font-family:var(--display);font-size:22px;letter-spacing:.12em;color:var(--ink);margin:0 0 4px}
+.motto-e{font-family:var(--display);font-style:italic;font-size:17px;line-height:1.45;color:var(--ink);margin:0 0 4px}
+.motto cite{display:block;font-family:var(--ui);font-size:13px;font-style:normal;letter-spacing:.04em;color:var(--muted)}
