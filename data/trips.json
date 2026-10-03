@@ -344,14 +344,15 @@
    "countries": [
     "usa"
    ],
-   "days": 6,
+   "days": 7,
    "links": [
     {
      "kind": "page",
      "url": "/usa/2022-las-vegas-napa/"
     }
    ],
-   "miles": "~1,060"
+   "miles": "~1,060",
+   "dates": "Mar 12–19, 2022"
   },
   {
    "year": 2021,
