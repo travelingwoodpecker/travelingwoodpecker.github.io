@@ -87,6 +87,12 @@ def build(r, svg):
         svg = (f'<a href="{e(r["map_img"])}" target="_blank" rel="noopener"><img class="routemap" '
                f'src="{e(r["map_img"])}" alt="Route map of the ride"></a>')
         cap = r.get('map_cap', 'The route as ridden.')
+    if r.get('map_imgs'):
+        svg = ''.join(
+            f'<a href="{e(src)}" target="_blank" rel="noopener"><img class="routemap" src="{e(src)}" alt="{e(c2)}"></a>'
+            f'<p style="font-family:var(--ui);font-size:13px;color:var(--muted);margin:6px 0 18px">{e(c2)}</p>'
+            for src, c2 in r['map_imgs'])
+        cap = r.get('map_cap', 'The routes as ridden.')
     if r.get('states_line') and not r.get('facts'):
         r['facts'] = [['States', r['states_line']]]
     facts = ''

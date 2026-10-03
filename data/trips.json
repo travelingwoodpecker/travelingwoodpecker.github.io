@@ -277,6 +277,21 @@
   },
   {
    "year": 2023,
+   "title": "New Hampshire",
+   "countries": [
+    "usa"
+   ],
+   "days": 4,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/usa/2023-new-hampshire/"
+    }
+   ],
+   "dates": "Jul 22–29, 2023"
+  },
+  {
+   "year": 2023,
    "title": "Norway: Fjords & Scenic Routes",
    "countries": [
     "norway"
