@@ -148,7 +148,7 @@ home_body = f'''<main class="wrap">
 <section class="hero hero-split home-hero">
 <div><p class="kicker">Motorcycle logbook · {min(years)}–{max(t["year"] for t in trips)}</p>
 <h1>Traveling Woodpecker</h1>
-<blockquote class="motto"><p class="motto-h" lang="ko">必生卽死 必死卽生</p><p class="motto-k" lang="ko">필생즉사 필사즉생</p><p class="motto-e">Cling to life and you will die; be ready to die and you will live.</p><cite>Admiral Yi Sun-sin, 1597</cite></blockquote>
+<blockquote class="motto"><p class="motto-h" lang="ko"><span>必生卽死 必死卽生</span><span class="motto-sep">·</span><span>필생즉사 필사즉생</span></p><p class="motto-e">Cling to life and you will die; be ready to die and you will live.</p><cite>Admiral Yi Sun-sin, 1597</cite></blockquote>
 <p class="dek">Every ride, country by country: the routes, the roads and the places in between.</p>
 <dl class="stats">{stat("Countries", len(ORDER))}{stat("Rides", len(done))}{stat("Days on the road", f"{known_days(done)}+")}{stat("Years", len(set(years)))}</dl></div>
 <img class="home-logo" src="/assets/logo-520.png" alt="Traveling Woodpecker logo: a woodpecker riding a dirt bike" width="520" height="511">
