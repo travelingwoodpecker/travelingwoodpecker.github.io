@@ -23,8 +23,6 @@
    "countries"
   ]
  ],
- "map_img": "photos/map-day3.jpg",
- "map_cap": "Day 3: Schlanders over Stelvio, Bernina and Flüela to Chur.",
  "facts": [
   [
    "Countries",
@@ -79,12 +77,6 @@
    "prose": [
     "A short ride from Erding to Allround Motorcycle Renting near the airport to collect the bikes, then a shakedown day. Munich, about 40 minutes away, has every moto gear shop for last-minute items."
    ],
-   "photos": [
-    {
-     "src": "photos/map-prep.jpg",
-     "cap": "Erding to the rental shop, about 15 minutes"
-    }
-   ],
    "lodging": {
     "name": "Hotel zum Erdinger Weißbräu",
     "addr": "Erding, Germany"
@@ -108,10 +100,6 @@
     "Heiligenblut"
    ],
    "photos": [
-    {
-     "src": "photos/map-day1.jpg",
-     "cap": "Munich to Lienz over the Grossglockner"
-    },
     {
      "src": "photos/zell-am-see.jpg",
      "cap": "Zell am See"
@@ -146,10 +134,6 @@
    ],
    "photos": [
     {
-     "src": "photos/map-day2.jpg",
-     "cap": "Lienz to Schlanders through the Dolomites"
-    },
-    {
      "src": "photos/hotel-engel.jpg",
      "cap": "Hotel Engel"
     }
@@ -183,10 +167,6 @@
     ]
    ],
    "photos": [
-    {
-     "src": "photos/map-day3.jpg",
-     "cap": "Schlanders to Chur over Stelvio, Bernina and Flüela"
-    },
     {
      "src": "photos/hotel-chur.jpg",
      "cap": "Hotel Chur"
@@ -287,12 +267,6 @@
     "Inn Valley",
     "Möserer Pass",
     "Garmisch-Partenkirchen"
-   ],
-   "photos": [
-    {
-     "src": "photos/map-day7.jpg",
-     "cap": "Bolzano to Munich over the Timmelsjoch"
-    }
    ],
    "lodging": {
     "name": "Holiday Inn Express Munich Airport",
