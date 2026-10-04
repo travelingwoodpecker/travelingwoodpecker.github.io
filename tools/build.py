@@ -41,6 +41,9 @@ ICON = {
 LABEL = {'page': 'Trip page', 'pdf': 'Itinerary (PDF)'}
 
 
+CSSV = __import__('hashlib').md5(open(os.path.join(HOME, 'assets', 'site.css'), 'rb').read()).hexdigest()[:8]
+
+
 def page(title, desc, current, body):
     nav = ''.join(
         f'<a href="{href(s)}"{" aria-current=page" if s == current else ""}>{e(C[s]["short"])}</a>' for s in ORDER)
@@ -54,7 +57,7 @@ def page(title, desc, current, body):
 <meta name="theme-color" content="#2F5D4E">
 <link rel="icon" type="image/png" href="/assets/favicon.png">
 {FONTS}
-<link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/site.css?v={CSSV}">
 </head>
 <body>
 <header class="topbar"><div class="topbar-in"><a class="brand" href="/">{LOGO}<span>Traveling Woodpecker</span></a><nav class="nav" aria-label="Countries">{nav}</nav></div></header>
