@@ -215,3 +215,6 @@ section[aria-labelledby="map-h"],section[aria-labelledby="c-h"]{padding:30px 0}
 .lb-nx{right:16px;top:50%;transform:translateY(-50%)}
 .lb-x{top:16px;right:16px;font-size:34px!important;width:46px!important;height:46px!important}
 @media (max-width:620px){.lb button{width:44px;height:44px;font-size:32px}.lb-p{left:6px}.lb-nx{right:6px}}
+.res a b::after{content:" \2197";font-size:.8em;color:var(--ochre);margin-left:2px;transition:transform .15s;display:inline-block}
+.res a:hover b{text-decoration:underline;text-underline-offset:3px}
+.res a:hover b::after{transform:translate(2px,-2px)}
