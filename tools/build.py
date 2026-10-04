@@ -59,7 +59,7 @@ def page(title, desc, current, body):
 <body>
 <header class="topbar"><div class="topbar-in"><a class="brand" href="/">{LOGO}<span>Traveling Woodpecker</span></a><nav class="nav" aria-label="Countries">{nav}</nav></div></header>
 {body}
-<footer><div class="wrap">© {max(t["year"] for t in trips)} Traveling Woodpecker · Motorcycle rides, country by country.</div></footer>
+<footer><div class="wrap">© {__import__("datetime").date.today().year} Traveling Woodpecker · Motorcycle rides, country by country.</div></footer>
 </body>
 </html>
 '''

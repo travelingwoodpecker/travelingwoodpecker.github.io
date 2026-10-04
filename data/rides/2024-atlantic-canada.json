@@ -55,10 +55,6 @@
     {
      "src": "photos/img-2771.jpg",
      "cap": "An evening walk in Camden"
-    },
-    {
-     "src": "photos/country-inn-camden.jpg",
-     "cap": "The Country Inn at Camden Rockport"
     }
    ]
   },
@@ -106,10 +102,6 @@
     {
      "src": "photos/img-2784.jpg",
      "cap": "The red wine list"
-    },
-    {
-     "src": "photos/tru-yarmouth.jpg",
-     "cap": "Tru by Hilton, Yarmouth"
     }
    ]
   },
@@ -209,10 +201,6 @@
     {
      "src": "photos/img-2835.jpg",
      "cap": "The dining room at the Cove"
-    },
-    {
-     "src": "photos/cove-motel.jpg",
-     "cap": "The Cove Motel & Restaurant, Port Hawkesbury"
     }
    ]
   },
@@ -250,16 +238,8 @@
      "cap": "The Fortress of Louisbourg"
     },
     {
-     "src": "photos/img-2840.jpg",
-     "cap": "The menu at Spoondrift, Louisbourg"
-    },
-    {
      "src": "photos/img-2862.jpg",
      "cap": "Governors Pub & Eatery, Sydney"
-    },
-    {
-     "src": "photos/hampton-sydney.jpg",
-     "cap": "Hampton Inn, Sydney"
     }
    ]
   },
@@ -306,10 +286,6 @@
     {
      "src": "photos/lobster-roll.jpg",
      "cap": "A lobster roll on the Cabot Trail"
-    },
-    {
-     "src": "photos/panorama.jpg",
-     "cap": "Panorama restaurant at Cabot Cape Breton"
     }
    ]
   },
@@ -339,10 +315,6 @@
     {
      "src": "photos/img-2920.jpg",
      "cap": "Oysters after the round"
-    },
-    {
-     "src": "photos/cabot-cliffs.jpg",
-     "cap": "Cabot Cliffs from the air"
     }
    ]
   },
@@ -385,14 +357,6 @@
     {
      "src": "photos/img-2937.jpg",
      "cap": "Wine service at the Cape Cliff Dining Room"
-    },
-    {
-     "src": "photos/fox-harbr.jpg",
-     "cap": "Fox Harb’r Resort"
-    },
-    {
-     "src": "photos/fox-harbr-golf.jpg",
-     "cap": "The Graham Cooke course at Fox Harb’r"
     }
    ]
   },
@@ -443,8 +407,7 @@
    "to_t": "Bethlehem, NH",
    "lodging": {
     "name": "Bear Mountain Lodge, Bethlehem"
-   },
-   "photos": []
+   }
   }
  ],
  "tracks": [
