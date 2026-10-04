@@ -59,12 +59,6 @@
    "prose": [
     "Fly into Munich and settle in Erding, home of the Erdinger wheat-beer brewery. Therme Erding, the largest thermal spa in the world, is a short ride away for jet-lagged legs. Evening: review the Day 1 route and check that the Grossglockner road is open."
    ],
-   "photos": [
-    {
-     "src": "photos/erding-hotel.jpg",
-     "cap": "Hotel zum Erdinger Weißbräu, Erding"
-    }
-   ],
    "lodging": {
     "name": "Hotel zum Erdinger Weißbräu",
     "addr": "Erding, Germany"
@@ -99,16 +93,6 @@
     "Edelweißspitze",
     "Heiligenblut"
    ],
-   "photos": [
-    {
-     "src": "photos/zell-am-see.jpg",
-     "cap": "Zell am See"
-    },
-    {
-     "src": "photos/grandhotel-lienz.jpg",
-     "cap": "Grandhotel Lienz"
-    }
-   ],
    "lodging": {
     "name": "Grandhotel Lienz",
     "addr": "Lienz, Austria"
@@ -131,12 +115,6 @@
     "Passo Sella",
     "Val Gardena",
     "Venosta Valley"
-   ],
-   "photos": [
-    {
-     "src": "photos/hotel-engel.jpg",
-     "cap": "Hotel Engel"
-    }
    ],
    "lodging": {
     "name": "Hotel Engel",
@@ -165,12 +143,6 @@
      "The Smallest Whisky Bar on Earth",
      "Santa Maria Val Müstair. Five stools and hundreds of whiskies, with a whisky museum next door."
     ]
-   ],
-   "photos": [
-    {
-     "src": "photos/hotel-chur.jpg",
-     "cap": "Hotel Chur"
-    }
    ],
    "lodging": {
     "name": "Hotel Chur",
@@ -239,12 +211,6 @@
     "Bormio",
     "Stelvio Pass",
     "Merano"
-   ],
-   "photos": [
-    {
-     "src": "photos/parkhotel-laurin.jpg",
-     "cap": "Parkhotel Laurin"
-    }
    ],
    "lodging": {
     "name": "Parkhotel Laurin",
