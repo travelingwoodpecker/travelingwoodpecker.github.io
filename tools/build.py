@@ -141,9 +141,10 @@ for s in ORDER:
     cards.append(f'<a class="ccard" href="{href(s)}">{silhouette(s, "")}<h3>{e(C[s]["name"])}</h3>'
                  f'<p>{n} ride{"s" if n != 1 else ""} · {span}</p></a>')
 
-fut = ''.join(f'<div class="future"><p class="kicker">Future plan</p><h3>{e(x["title"])}</h3><p>{e(x["note"])}</p>'
-              + (f'<p style="margin-top:16px"><a class="lk" style="background:#fff;color:var(--pine)" href="{e(x["url"])}" target="_blank" rel="noopener">See the day-by-day plan (PDF)</a></p>' if x.get('url') else '') + '</div>'
-              for x in data.get('future', []))
+fut = ''.join(f'<div class="future"><p class="kicker">Plan {i}</p><h3>{e(x["title"])}</h3>'
+              + (f'<p>{e(x["note"])}</p>' if x.get('note') else '')
+              + (f'<p style="margin-top:14px"><a class="lk" style="background:#fff;color:var(--pine)" href="{e(x["url"])}" target="_blank" rel="noopener">Day-by-day plan (PDF)</a></p>' if x.get('url') else '') + '</div>'
+              for i, x in enumerate(data.get('future', []), 1))
 
 home_body = f'''<main class="wrap">
 <section class="hero hero-split home-hero">
@@ -166,7 +167,7 @@ home_body = f'''<main class="wrap">
 <div class="section-head"><h2 id="t-h">Every ride</h2><p class="section-note">Newest first</p></div>
 {ride_list(trips)}
 </section>
-<section class="section">{fut}</section>
+<section class="section" aria-label="Future plans"><div class="futures">{fut}</div></section>
 </main>'''
 
 outputs = {os.path.join(HOME, 'index.html'): page(
