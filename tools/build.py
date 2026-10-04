@@ -170,7 +170,7 @@ home_body = f'''<main class="wrap">
 <div class="section-head"><h2 id="t-h">Every ride</h2><p class="section-note">Newest first</p></div>
 {ride_list(trips)}
 </section>
-<section class="section" aria-label="Future plans"><div class="futures">{fut}</div></section>
+<section class="section" aria-labelledby="f-h"><div class="section-head"><h2 id="f-h">Future Plans</h2></div><div class="futures">{fut}</div></section>
 </main>'''
 
 outputs = {os.path.join(HOME, 'index.html'): page(
