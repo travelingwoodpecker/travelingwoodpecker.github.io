@@ -3,7 +3,7 @@
  "plan": true,
  "year": 2027,
  "title": "European Alps: Grossglockner, Dolomites, Stelvio & the Swiss Passes",
- "kicker": "June 13–23, 2027 · Future ride plan",
+ "kicker": "June 12–22, 2027 · Future ride plan",
  "dek": "A seven-day loop from Munich: over the Grossglockner into Austria, through the Dolomites, up Stelvio twice, across the great Swiss passes and down to Lake Como, then home over the Timmelsjoch.",
  "stats": [
   [
@@ -54,7 +54,7 @@
  "days": [
   {
    "label": "Arrive",
-   "date": "Sun, Jun 13",
+   "date": "Sat, Jun 12",
    "title": "Munich Airport to Erding",
    "prose": [
     "Fly into Munich and settle in Erding, home of the Erdinger wheat-beer brewery. Therme Erding, the largest thermal spa in the world, is a short ride away for jet-lagged legs. Evening: review the Day 1 route and check that the Grossglockner road is open."
@@ -72,7 +72,7 @@
   },
   {
    "label": "Prep",
-   "date": "Mon, Jun 14",
+   "date": "Sun, Jun 13",
    "title": "Bike pickup",
    "prose": [
     "A short ride from Erding to Allround Motorcycle Renting near the airport to collect the bikes, then a shakedown day. Munich, about 40 minutes away, has every moto gear shop for last-minute items."
@@ -84,7 +84,7 @@
   },
   {
    "label": "Day 1",
-   "date": "Tue, Jun 15",
+   "date": "Mon, Jun 14",
    "from": "Munich",
    "to": "Lienz",
    "dist": "266 km · 165 mi · about 6 hours riding",
@@ -116,7 +116,7 @@
   },
   {
    "label": "Day 2",
-   "date": "Wed, Jun 16",
+   "date": "Tue, Jun 15",
    "from": "Lienz",
    "to": "Schlanders",
    "dist": "265 km · about 5.5 hours",
@@ -145,7 +145,7 @@
   },
   {
    "label": "Day 3",
-   "date": "Thu, Jun 17",
+   "date": "Wed, Jun 16",
    "from": "Schlanders",
    "to": "Chur",
    "dist": "255 km · about 5 hours",
@@ -180,7 +180,7 @@
   },
   {
    "label": "Day 4",
-   "date": "Fri, Jun 18",
+   "date": "Thu, Jun 17",
    "from": "Chur",
    "to": "Andermatt",
    "dist": "About 215–230 km",
@@ -203,7 +203,7 @@
   },
   {
    "label": "Day 5",
-   "date": "Sat, Jun 19",
+   "date": "Fri, Jun 18",
    "from": "Andermatt",
    "to": "Menaggio",
    "dist": "About 220–250 km",
@@ -225,7 +225,7 @@
   },
   {
    "label": "Day 6",
-   "date": "Sun, Jun 20",
+   "date": "Sat, Jun 19",
    "from": "Menaggio",
    "to": "Bolzano",
    "dist": "About 240–260 km",
@@ -253,7 +253,7 @@
   },
   {
    "label": "Day 7",
-   "date": "Mon, Jun 21",
+   "date": "Sun, Jun 20",
    "from": "Bolzano",
    "to": "Munich",
    "dist": "360 km · about 6.5 hours",
@@ -275,7 +275,7 @@
   },
   {
    "label": "Depart",
-   "date": "Wed, Jun 23",
+   "date": "Tue, Jun 22",
    "title": "Fly home from Munich"
   }
  ]
