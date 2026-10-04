@@ -1,0 +1,308 @@
+{
+ "slug": "2027-european-alps",
+ "plan": true,
+ "year": 2027,
+ "title": "European Alps: Grossglockner, Dolomites, Stelvio & the Swiss Passes",
+ "kicker": "June 13–23, 2027 · Future ride plan",
+ "dek": "A seven-day loop from Munich: over the Grossglockner into Austria, through the Dolomites, up Stelvio twice, across the great Swiss passes and down to Lake Como, then home over the Timmelsjoch.",
+ "stats": [
+  [
+   "~2,400",
+   "km"
+  ],
+  [
+   "~1,500",
+   "miles"
+  ],
+  [
+   "7",
+   "riding days"
+  ],
+  [
+   "4",
+   "countries"
+  ]
+ ],
+ "map_img": "photos/map-day3.jpg",
+ "map_cap": "Day 3: Schlanders over Stelvio, Bernina and Flüela to Chur.",
+ "facts": [
+  [
+   "Countries",
+   "Germany · Austria · Italy · Switzerland"
+  ],
+  [
+   "Motorcycle",
+   "Allround Motorcycle Renting, near Munich Airport"
+  ],
+  [
+   "Austria",
+   "10-day vignette about €4.90; Grossglockner day toll about €36.50"
+  ],
+  [
+   "Switzerland",
+   "Annual vignette CHF 40, covers every Swiss road"
+  ],
+  [
+   "Italy",
+   "Autostrada about €0.09/km; some tunnels and passes charge a flat fee"
+  ]
+ ],
+ "callout": {
+  "tag": "Bike rental",
+  "name": "Allround Motorcycle Renting",
+  "url": "https://www.motorradvermietung.de/muenchen/en/",
+  "text": "Recommended rental near Munich Airport. They also recommended the hotel in Erding for the first night."
+ },
+ "days": [
+  {
+   "label": "Arrive",
+   "date": "Sun, Jun 13",
+   "title": "Munich Airport to Erding",
+   "prose": [
+    "Fly into Munich and settle in Erding, home of the Erdinger wheat-beer brewery. Therme Erding, the largest thermal spa in the world, is a short ride away for jet-lagged legs. Evening: review the Day 1 route and check that the Grossglockner road is open."
+   ],
+   "photos": [
+    {
+     "src": "photos/erding-hotel.jpg",
+     "cap": "Hotel zum Erdinger Weißbräu, Erding"
+    }
+   ],
+   "lodging": {
+    "name": "Hotel zum Erdinger Weißbräu",
+    "addr": "Erding, Germany"
+   }
+  },
+  {
+   "label": "Prep",
+   "date": "Mon, Jun 14",
+   "title": "Bike pickup",
+   "prose": [
+    "A short ride from Erding to Allround Motorcycle Renting near the airport to collect the bikes, then a shakedown day. Munich, about 40 minutes away, has every moto gear shop for last-minute items."
+   ],
+   "photos": [
+    {
+     "src": "photos/map-prep.jpg",
+     "cap": "Erding to the rental shop, about 15 minutes"
+    }
+   ],
+   "lodging": {
+    "name": "Hotel zum Erdinger Weißbräu",
+    "addr": "Erding, Germany"
+   }
+  },
+  {
+   "label": "Day 1",
+   "date": "Tue, Jun 15",
+   "from": "Munich",
+   "to": "Lienz",
+   "dist": "266 km · 165 mi · about 6 hours riding",
+   "prose": [
+    "South on the A8 to Chiemsee, the “Bavarian Sea”, then into Austria past Kufstein Fortress and on to Zell am See. The day’s highlight is the Grossglockner High Alpine Road: 36 hairpins, glaciers and the short side road up to Edelweißspitze at 2,571 m. Down through Heiligenblut and the Mölltal to Lienz, under the Lienz Dolomites."
+   ],
+   "via": [
+    "Chiemsee",
+    "Kufstein",
+    "Zell am See",
+    "Grossglockner High Alpine Road",
+    "Edelweißspitze",
+    "Heiligenblut"
+   ],
+   "photos": [
+    {
+     "src": "photos/map-day1.jpg",
+     "cap": "Munich to Lienz over the Grossglockner"
+    },
+    {
+     "src": "photos/zell-am-see.jpg",
+     "cap": "Zell am See"
+    },
+    {
+     "src": "photos/grandhotel-lienz.jpg",
+     "cap": "Grandhotel Lienz"
+    }
+   ],
+   "lodging": {
+    "name": "Grandhotel Lienz",
+    "addr": "Lienz, Austria"
+   }
+  },
+  {
+   "label": "Day 2",
+   "date": "Wed, Jun 16",
+   "from": "Lienz",
+   "to": "Schlanders",
+   "dist": "265 km · about 5.5 hours",
+   "prose": [
+    "Into Italy through the Puster Valley and down the old Alemagna road to Cortina d’Ampezzo. Then the Dolomites in a row: Passo Giau, Pordoi and Sella, before Val Gardena and the long run west through the apple orchards of the Venosta valley."
+   ],
+   "via": [
+    "Toblach",
+    "Cortina d’Ampezzo",
+    "Passo Giau",
+    "Passo Pordoi",
+    "Passo Sella",
+    "Val Gardena",
+    "Venosta Valley"
+   ],
+   "photos": [
+    {
+     "src": "photos/map-day2.jpg",
+     "cap": "Lienz to Schlanders through the Dolomites"
+    },
+    {
+     "src": "photos/hotel-engel.jpg",
+     "cap": "Hotel Engel"
+    }
+   ],
+   "lodging": {
+    "name": "Hotel Engel",
+    "addr": "Schluderns, Vinschgau, Italy"
+   }
+  },
+  {
+   "label": "Day 3",
+   "date": "Thu, Jun 17",
+   "from": "Schlanders",
+   "to": "Chur",
+   "dist": "255 km · about 5 hours",
+   "prose": [
+    "Up the 48 hairpins of the Stelvio Pass (2,757 m), then down the quieter Umbrail Pass into Switzerland and Val Müstair. Through the Munt la Schera tunnel to duty-free Livigno, over the Bernina Pass and the Flüela Pass, and down to Chur, Switzerland’s oldest town."
+   ],
+   "via": [
+    "Stelvio Pass",
+    "Umbrail Pass",
+    "Santa Maria Val Müstair",
+    "Livigno",
+    "Bernina Pass",
+    "Flüela Pass"
+   ],
+   "sights": [
+    [
+     "The Smallest Whisky Bar on Earth",
+     "Santa Maria Val Müstair. Five stools and hundreds of whiskies, with a whisky museum next door."
+    ]
+   ],
+   "photos": [
+    {
+     "src": "photos/map-day3.jpg",
+     "cap": "Schlanders to Chur over Stelvio, Bernina and Flüela"
+    },
+    {
+     "src": "photos/hotel-chur.jpg",
+     "cap": "Hotel Chur"
+    }
+   ],
+   "lodging": {
+    "name": "Hotel Chur",
+    "addr": "Chur, Switzerland",
+    "url": "https://www.hotelchur.ch/"
+   }
+  },
+  {
+   "label": "Day 4",
+   "date": "Fri, Jun 18",
+   "from": "Chur",
+   "to": "Andermatt",
+   "dist": "About 215–230 km",
+   "prose": [
+    "West up the Rhine valley and over the Oberalp Pass to Andermatt. Then the Swiss “holy trinity” as a loop: the Furka Pass past the old Hotel Belvédère and the Rhône Glacier, the Grimsel Pass and its reservoirs, and the Susten Pass. Back to Andermatt through the Schöllenen Gorge and past the Devil’s Bridge."
+   ],
+   "via": [
+    "Oberalp Pass",
+    "Furka Pass",
+    "Gletsch",
+    "Grimsel Pass",
+    "Innertkirchen",
+    "Susten Pass",
+    "Schöllenen Gorge"
+   ],
+   "lodging": {
+    "name": "Hotel 3 Könige & Post",
+    "addr": "Andermatt, Switzerland"
+   }
+  },
+  {
+   "label": "Day 5",
+   "date": "Sat, Jun 19",
+   "from": "Andermatt",
+   "to": "Menaggio",
+   "dist": "About 220–250 km",
+   "prose": [
+    "South over the Gotthard (the old pass road if the weather is good) into Ticino and down to Lake Maggiore. Along the western shore through Cannobio and Verbania, then east to Lake Como and its twisting lakeside road. An easier day, with time for lunch and gelato by the water."
+   ],
+   "via": [
+    "Gotthard Pass",
+    "Airolo",
+    "Locarno",
+    "Lake Maggiore",
+    "Cannobio",
+    "Lake Como"
+   ],
+   "lodging": {
+    "name": "Lakeside hotel",
+    "addr": "Menaggio or Varenna, Lake Como, Italy"
+   }
+  },
+  {
+   "label": "Day 6",
+   "date": "Sun, Jun 20",
+   "from": "Menaggio",
+   "to": "Bolzano",
+   "dist": "About 240–260 km",
+   "prose": [
+    "North along Lake Como into the Valtellina wine valley to Bormio, then Stelvio again, this time from the east side. Down through the Venosta valley and the spa town of Merano to Bolzano, with the Dolomites ahead."
+   ],
+   "via": [
+    "Colico",
+    "Valtellina",
+    "Sondrio",
+    "Bormio",
+    "Stelvio Pass",
+    "Merano"
+   ],
+   "photos": [
+    {
+     "src": "photos/parkhotel-laurin.jpg",
+     "cap": "Parkhotel Laurin"
+    }
+   ],
+   "lodging": {
+    "name": "Parkhotel Laurin",
+    "addr": "Bolzano, Italy"
+   }
+  },
+  {
+   "label": "Day 7",
+   "date": "Mon, Jun 21",
+   "from": "Bolzano",
+   "to": "Munich",
+   "dist": "360 km · about 6.5 hours",
+   "prose": [
+    "Up the Passeier valley and over the Timmelsjoch High Alpine Road into Austria’s Ötztal, along the Inn valley and over the Möserer Pass into Bavaria. Back past Garmisch to Munich to return the bikes."
+   ],
+   "via": [
+    "Passeier Valley",
+    "Timmelsjoch",
+    "Ötztal",
+    "Inn Valley",
+    "Möserer Pass",
+    "Garmisch-Partenkirchen"
+   ],
+   "photos": [
+    {
+     "src": "photos/map-day7.jpg",
+     "cap": "Bolzano to Munich over the Timmelsjoch"
+    }
+   ],
+   "lodging": {
+    "name": "Holiday Inn Express Munich Airport",
+    "addr": "Munich, Germany"
+   }
+  },
+  {
+   "label": "Depart",
+   "date": "Wed, Jun 23",
+   "title": "Fly home from Munich"
+  }
+ ]
+}

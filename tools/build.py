@@ -141,7 +141,8 @@ for s in ORDER:
     cards.append(f'<a class="ccard" href="{href(s)}">{silhouette(s, "")}<h3>{e(C[s]["name"])}</h3>'
                  f'<p>{n} ride{"s" if n != 1 else ""} · {span}</p></a>')
 
-fut = ''.join(f'<div class="future"><p class="kicker">Future plan</p><h3>{e(x["title"])}</h3><p>{e(x["note"])}</p></div>'
+fut = ''.join(f'<div class="future"><p class="kicker">Future plan</p><h3>{e(x["title"])}</h3><p>{e(x["note"])}</p>'
+              + (f'<p style="margin-top:16px"><a class="lk" style="background:#fff;color:var(--pine)" href="{e(x["url"])}">See the day-by-day plan</a></p>' if x.get('url') else '') + '</div>'
               for x in data.get('future', []))
 
 home_body = f'''<main class="wrap">

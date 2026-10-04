@@ -78,7 +78,7 @@ def day_html(i, d):
 
 
 def build(r, svg):
-    c = C[r['country']]
+    c = C[r['country']] if r.get('country') else {'slug': '', 'name': 'Home'}
     stats = ''.join(f'<div class="stat"><dt>{e(b)}</dt><dd>{e(a)}</dd></div>' for a, b in r['stats'])
     chips = ''.join(f'<a href="#day{i}">{e(d["label"])}</a>' for i, d in enumerate(r['days']))
     cap = ('Route traced from the original ride plan.' if r.get('tracks')
@@ -105,7 +105,7 @@ def build(r, svg):
                   f'<h3><a href="{e(co["url"])}"{EXT}>{e(co["name"])}</a></h3><p>{e(co["text"])}</p>'
                   + (f'<p style="margin-top:14px"><a class="lk" href="{e(co["pdf"])}"{EXT}><svg viewBox="0 0 24 24"><path d="M14 3H6v18h12V7z"/><path d="M14 3v4h4"/></svg>Itinerary (PDF)</a></p>' if co.get('pdf') else '') + '</aside>')
     body = f'''<main class="wrap trip">
-<p class="crumbs"><a href="/{c["slug"]}/">{e(c["name"])}</a> / {r["year"]}</p>
+<p class="crumbs">{'<a href="/">Home</a> / Future plan' if r.get('plan') else f'<a href="/{c["slug"]}/">{e(c["name"])}</a> / {r["year"]}'}</p>
 <section class="hero hero-split trip-hero">
 <div><p class="kicker">{e(r["kicker"])}</p><h1>{e(r["title"])}</h1><p class="dek">{e(r["dek"])}</p>
 <dl class="stats">{stats}</dl></div>
@@ -114,7 +114,7 @@ def build(r, svg):
 {facts}
 <nav class="daychips" aria-label="Days">{chips}</nav>
 {"".join(day_html(i, d) for i, d in enumerate(r["days"]))}
-<p class="backlink"><a href="/{c["slug"]}/">← All {e(c["name"])} rides</a></p>
+<p class="backlink">{'<a href="/">← Back to the logbook</a>' if r.get('plan') else f'<a href="/{c["slug"]}/">← All {e(c["name"])} rides</a>'}</p>
 </main>
 <script src="/assets/lightbox.js" defer></script>'''
     return page(f'{r["title"]} ({r["year"]}) · Traveling Woodpecker', r['dek'][:155], c['slug'], body)
@@ -123,7 +123,10 @@ def build(r, svg):
 for f in sorted(glob.glob(os.path.join(HOME, 'data', 'rides', '*.json'))):
     r = json.load(open(f, encoding='utf8'))
     svg = open(f[:-5] + '.map.svg', encoding='utf8').read()
-    out = os.path.join(ROOT, C[r['country']].get('dir', r['country']), r['slug'], 'index.html')
+    if r.get('plan'):
+        out = os.path.join(HOME, 'plans', r['slug'], 'index.html')
+    else:
+        out = os.path.join(ROOT, C[r['country']].get('dir', r['country']), r['slug'], 'index.html')
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, 'w', encoding='utf8').write(build(r, svg))
     print('wrote', os.path.relpath(out, ROOT))
