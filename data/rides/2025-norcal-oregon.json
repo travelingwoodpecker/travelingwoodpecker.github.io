@@ -122,28 +122,6 @@
     ]
    ],
    "tips": "Early morning or late afternoon for golden light and less fog. CA-1 is tight and thrilling but watch for fog and wind; US-101 is faster and straighter. Plan one or two stops (Stinson Beach, Bodega Bay, Kendall-Jackson) on the ~3 hr 53 min ride. Fuel at Bodega — stations are sparse on CA-1.",
-   "dangers": [
-    [
-     "Coastal fog on CA-1",
-     "Dense morning fog near Stinson Beach and Point Reyes reduces visibility; use low beams and fog lights and slow down. Avoid a pre-9 AM start if foggy (check Caltrans QuickMap)."
-    ],
-    [
-     "Tight curves, wet pavement",
-     "CA-1’s sharp turns (e.g. near Bodega) get slick from fog and drizzle; stay focused and avoid gravel shoulders. US-101 is straighter but watch the vineyard winds."
-    ],
-    [
-     "Construction",
-     "Northbound US-101 reduced to one lane ~2–3 mi north of SR-271 (Mendocino Co.) around the clock — expect delays. One-way traffic control near Arnold possible 7 AM–5 PM."
-    ],
-    [
-     "Wildlife",
-     "Deer are active in Marin and Sonoma at dawn and dusk (e.g. Hendy Woods); slow down in forested areas."
-    ],
-    [
-     "Fuel",
-     "Sparse stations on CA-1; fill up in SF or Sausalito."
-    ]
-   ],
    "lodging": {
     "name": "Hampton Inn Ukiah",
     "addr": "1160 Airport Park Blvd, Ukiah, CA 95482",
@@ -229,16 +207,6 @@
     ]
    ],
    "tips": "4–5 hours without stops; plan 6–8 with sights. Tight curves in the redwoods and along the coast; fog and wet roads are common in the morning. Fuel in Ukiah, Willits or Eureka (scarce in the redwoods). Watch for elk and deer.",
-   "dangers": [
-    [
-     "Fog and rain in the redwoods",
-     "Morning fog and drizzle on US-101 near Eureka and Del Norte; use fog lights and consider delaying the start to 10 AM. Fallen leaves and needles make curves slick."
-    ],
-    [
-     "Fuel",
-     "Limited between Garberville and Eureka — fill early. Check for debris in the redwoods."
-    ]
-   ],
    "lodging": {
     "name": "Lighthouse Inn",
     "addr": "681 Hwy 101 S, Crescent City, CA 95531",
@@ -324,16 +292,6 @@
     ]
    ],
    "tips": "3.5–4 hours base; 5–7 with detours. Curvy and twisty on US-199 and OR-46; low traffic on OR-238. Fuel in Grants Pass or Medford. Bring layers for the coastal chill and inland warmth.",
-   "dangers": [
-    [
-     "Fog and wet roads",
-     "Morning fog on US-199 (Jedediah Smith); careful on curves and in the tunnel. OR-46 (Caves detour) is narrow and slick when wet — skip it if raining."
-    ],
-    [
-     "Twisty sections, wildlife",
-     "Tight turns on US-199 and OR-46 — watch for gravel and debris. Deer and elk around Applegate and Lake of the Woods at dawn and dusk. OR-140 width-restricted to 14 ft near Klamath Falls for construction."
-    ]
-   ],
    "lodging": {
     "name": "Holiday Inn Express & Suites Klamath Falls",
     "addr": "2430 S 6th St, Klamath Falls, OR 97601",
@@ -411,20 +369,6 @@
     ]
    ],
    "tips": "6–8 hours with stops. Thrilling CA-89 switchbacks; bring layers for the elevation swings. Fuel in Klamath Falls, Weed, Burney or Redding.",
-   "dangers": [
-    [
-     "Elevation weather",
-     "Sudden changes in Lassen (CA-89); light rain or snow possible at the peaks — check NPS road status (usually open in October, but early snow can close it)."
-    ],
-    [
-     "Wildlife and curves",
-     "Deer and bears around Lassen and Burney; slow down in forests. CA-89 and CA-44 descents are tight; watch gravel shoulders at dawn and dusk."
-    ],
-    [
-     "Heat",
-     "85°F+ in Red Bluff — hydrate. I-5 is straightforward but crosswinds are possible."
-    ]
-   ],
    "lodging": {
     "name": "Hampton Inn & Suites Red Bluff",
     "addr": "520 Adobe Rd, Red Bluff, CA 96080",
@@ -498,20 +442,6 @@
     ]
    ],
    "tips": "Balances straight I-5 cruising with CA-20 and CA-12 curves. Go early for fewer tourists. Watch for winery traffic and cyclists on CA-29 and CA-12.",
-   "dangers": [
-    [
-     "Crosswinds and traffic",
-     "Open I-5 stretches are gusty (15–20 mph) — lean in. Heavy tourist traffic on CA-29 and CA-12 (winery pullouts, cyclists), especially afternoons."
-    ],
-    [
-     "Curves and roadwork",
-     "Moderate twists on CA-20 and CA-12 near Clear Lake and Sonoma; gravel possible if damp. Utility work on CA-20 at Clearlake Oaks and night paving on CA-29 west of Lower Lake."
-    ],
-    [
-     "Wildlife",
-     "Deer on CA-20 and CA-12 at dawn and dusk."
-    ]
-   ],
    "lodging": {
     "name": "Sonoma Hotel",
     "addr": "Sonoma, CA",
