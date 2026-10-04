@@ -152,8 +152,8 @@ home_body = f'''<main class="wrap">
 <dl class="stats">{stat("Countries", len(ORDER))}{stat("Rides", len(done))}{stat("Days on the road", f"{known_days(done)}+")}{stat("Years", len(set(years)))}</dl></div>
 <img class="home-logo" src="/assets/logo-520.png" alt="Traveling Woodpecker logo: a woodpecker riding a dirt bike" width="520" height="511">
 </section>
-<section class="section" aria-labelledby="map-h">
-<div class="section-head"><h2 id="map-h">The world is a large playground</h2><p class="section-note">Click a country to see its rides.</p></div>
+<section class="section" aria-label="World map" id="map-h">
+<p class="section-note" style="margin:0 0 10px;text-align:center">Click a country to see its rides.</p>
 <svg class="worldmap" viewBox="0 0 960 470" role="img" aria-label="World map with the countries ridden highlighted">{"".join(world)}</svg>
 <p class="map-legend"><span class="v">Ridden</span><span>Not yet</span></p>
 </section>
