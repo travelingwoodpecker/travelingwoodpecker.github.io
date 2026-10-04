@@ -115,7 +115,8 @@ def build(r, svg):
 <nav class="daychips" aria-label="Days">{chips}</nav>
 {"".join(day_html(i, d) for i, d in enumerate(r["days"]))}
 <p class="backlink"><a href="/{c["slug"]}/">← All {e(c["name"])} rides</a></p>
-</main>'''
+</main>
+<script src="/assets/lightbox.js" defer></script>'''
     return page(f'{r["title"]} ({r["year"]}) · Traveling Woodpecker', r['dek'][:155], c['slug'], body)
 
 
