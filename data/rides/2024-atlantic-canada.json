@@ -7,12 +7,12 @@
  "year": 2024,
  "title": "Atlantic Canada",
  "kicker": "July 8–17, 2024 · Ten-day motorcycle tour",
- "dek": "From the White Mountains across Maine to Acadia and the CAT ferry to Nova Scotia, along the Lighthouse Route to Lunenburg, around Cape Breton Island and the Cabot Trail, two rounds of golf at Cabot Links and Fox Harb’r, and back through Maine to New Hampshire.",
+ "dek": "From the White Mountains across Maine to Acadia and the CAT ferry to Nova Scotia, along the Lighthouse Route to Lunenburg, around Cape Breton Island and the Cabot Trail, three rounds of golf including Cabot Links and Fox Harb’r, and back through Maine to New Hampshire.",
  "days": [
   {
    "label": "Day 1",
    "date": "Mon, Jul 8",
-   "from": "Bethlehem, NH",
+   "from": "Littleton, NH",
    "to": "The Country Inn at Camden Rockport",
    "dist": "182 mi",
    "via": [
@@ -390,16 +390,13 @@
    "label": "Day 10",
    "date": "Wed, Jul 17",
    "from": "Lockwood Hotel",
-   "to": "Bethlehem, NH",
+   "to": "Littleton, NH",
    "dist": "137 mi",
    "via": [
     "Augusta"
    ],
    "from_t": "Waterville, ME",
-   "to_t": "Bethlehem, NH",
-   "lodging": {
-    "name": "Bear Mountain Lodge, Bethlehem"
-   }
+   "to_t": "Littleton, NH"
   }
  ],
  "tracks": [
@@ -4104,9 +4101,9 @@
  ],
  "total_miles": 1999,
  "points": {
-  "Bethlehem, NH": [
-   -71.69,
-   44.28
+  "Littleton, NH": [
+   -71.77,
+   44.31
   ],
   "Intervale": [
    -71.14,
@@ -4328,7 +4325,7 @@
   "The Country Inn at Camden Rockport": "Camden",
   "Camden, ME": "Camden",
   "Yarmouth, NS, Canada": "Yarmouth",
-  "Bethlehem": "Bethlehem"
+  "Littleton": "Littleton"
  },
  "states": [
   "United States of America",
