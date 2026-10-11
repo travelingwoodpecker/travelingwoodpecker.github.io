@@ -196,10 +196,6 @@
     {
      "src": "photos/img-3061.jpg",
      "cap": "Hyatt Place Fort Lee"
-    },
-    {
-     "src": "photos/img-3063.jpg",
-     "cap": "Steak dinner in Weehawken"
     }
    ]
   },
@@ -242,7 +238,8 @@
     "Sugar Hill, NH"
    ],
    "lodging": {
-    "name": "Adair Country Inn & Restaurant, Bethlehem"
+    "name": "Adair Country Inn & Restaurant, Bethlehem",
+    "note": "Sold in 2/2026; currently closed for business as of fall 2026."
    },
    "from_t": "Lake George, NY",
    "to_t": "Bethlehem, NH",
