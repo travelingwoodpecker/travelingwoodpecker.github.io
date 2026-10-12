@@ -43,13 +43,7 @@
     "name": "Tru by Hilton Las Vegas Airport",
     "addr": "6862 Gilespie Street, Las Vegas, NV 89119",
     "note": "~$180/room"
-   },
-   "photos": [
-    {
-     "src": "photos/img-8305.jpg",
-     "cap": "Arrival night in Las Vegas"
-    }
-   ]
+   }
   },
   {
    "label": "Day 1",
@@ -202,10 +196,6 @@
     {
      "src": "photos/img-8486.jpg",
      "cap": "Cool Springs Station on Route 66"
-    },
-    {
-     "src": "photos/img-8491.jpg",
-     "cap": "Ready to ride at Cool Springs"
     },
     {
      "src": "photos/img-8503.jpg",
