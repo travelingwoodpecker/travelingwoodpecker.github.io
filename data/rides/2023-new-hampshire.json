@@ -40,16 +40,6 @@
    "title": "Boston",
    "prose": [
     "In from Oslo for a night in Boston before heading north."
-   ],
-   "photos": [
-    {
-     "src": "photos/img-5399.jpg",
-     "cap": "The Bostonian, Boston"
-    },
-    {
-     "src": "photos/img-5400.jpg",
-     "cap": "Northeastern University"
-    }
    ]
   },
   {
@@ -65,10 +55,6 @@
      "cap": "An early morning in the North End"
     },
     {
-     "src": "photos/img-5408.jpg",
-     "cap": "Ready in the garage"
-    },
-    {
      "src": "photos/img-5416.jpg",
      "cap": "The bikes loaded in the van"
     }
@@ -82,10 +68,6 @@
     "Through the Honeymoon Covered Bridge in Jackson and up to the summit of Mount Washington, then north along the Connecticut River."
    ],
    "photos": [
-    {
-     "src": "photos/img-4246.jpg",
-     "cap": "The Honeymoon Covered Bridge, Jackson"
-    },
     {
      "src": "photos/img-5444.jpg",
      "cap": "The Mount Washington Cog Railway at the summit"
@@ -111,10 +93,6 @@
     {
      "src": "photos/img-5459.jpg",
      "cap": "Omni Mount Washington Hotel, Bretton Woods"
-    },
-    {
-     "src": "photos/img-5474.jpg",
-     "cap": "Golf at the Mount Washington Resort"
     }
    ]
   },
@@ -143,10 +121,6 @@
      "cap": "Inside the Bath Covered Bridge"
     },
     {
-     "src": "photos/img-5497.jpg",
-     "cap": "A coffee stop in Woodsville"
-    },
-    {
      "src": "photos/img-5501.jpg",
      "cap": "The inn in Bethlehem"
     }
@@ -171,10 +145,6 @@
     {
      "src": "photos/img-5525.jpg",
      "cap": "The North End, Boston"
-    },
-    {
-     "src": "photos/img-5537.jpg",
-     "cap": "Back at the Bostonian"
     },
     {
      "src": "photos/img-5550.jpg",

@@ -124,18 +124,6 @@
     {
      "src": "photos/img-0494.jpg",
      "cap": "Riding through Joshua Tree National Park"
-    },
-    {
-     "src": "photos/img-0498.jpg",
-     "cap": "El Mexicali Cafe II, Indio"
-    },
-    {
-     "src": "photos/img-0496.jpg",
-     "cap": "Four generations of homestyle cooking"
-    },
-    {
-     "src": "photos/img-0497.jpg",
-     "cap": "A margarita at El Mexicali Cafe II"
     }
    ]
   },
@@ -177,14 +165,6 @@
     {
      "src": "photos/img-0504.jpg",
      "cap": "Village Chophouse, Sedona"
-    },
-    {
-     "src": "photos/img-0507.jpg",
-     "cap": "Steak with asparagus at Village Chophouse"
-    },
-    {
-     "src": "photos/img-0509.jpg",
-     "cap": "Pasta at Village Chophouse"
     }
    ],
    "dining": [
@@ -268,10 +248,6 @@
     {
      "src": "photos/img-0558.jpg",
      "cap": "Slide Rock State Park, Oak Creek Canyon"
-    },
-    {
-     "src": "photos/img-3095.jpg",
-     "cap": "On the road to the Valley"
     }
    ]
   }

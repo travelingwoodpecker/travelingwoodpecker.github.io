@@ -76,10 +76,6 @@
      "cap": "A margarita to start"
     },
     {
-     "src": "photos/img-1002.jpg",
-     "cap": "Dinner at El Mexicali Cafe II"
-    },
-    {
      "src": "photos/img-1003.jpg",
      "cap": "El Mexicali Cafe II"
     }
@@ -116,10 +112,6 @@
     {
      "src": "photos/img-1027.jpg",
      "cap": "Carruth Cellars, Carlsbad"
-    },
-    {
-     "src": "photos/img-1029.jpg",
-     "cap": "A glass at Carruth Cellars"
     }
    ]
   },
@@ -156,10 +148,6 @@
      "cap": "Valley of Fire"
     },
     {
-     "src": "photos/img-4018.jpg",
-     "cap": "Red rock in Valley of Fire"
-    },
-    {
      "src": "photos/img-1075.jpg",
      "cap": "Eureka Casino Resort, Mesquite"
     }
@@ -188,24 +176,12 @@
      "cap": "Checkerboard Mesa, Zion"
     },
     {
-     "src": "photos/img-1122.jpg",
-     "cap": "Zion National Park"
-    },
-    {
      "src": "photos/img-1125.jpg",
      "cap": "Glen Canyon Dam Bridge, Page"
     },
     {
      "src": "photos/img-1131.jpg",
      "cap": "Horseshoe Bend"
-    },
-    {
-     "src": "photos/img-4126.jpg",
-     "cap": "A stop on the way to Sedona"
-    },
-    {
-     "src": "photos/img-4159.jpg",
-     "cap": "Dinner in Sedona"
     }
    ]
   },
@@ -222,10 +198,6 @@
     {
      "src": "photos/img-1149.jpg",
      "cap": "Orchards Inn, Sedona"
-    },
-    {
-     "src": "photos/img-4166.jpg",
-     "cap": "A wet morning in Sedona"
     },
     {
      "src": "photos/img-1154.jpg",

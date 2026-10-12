@@ -101,18 +101,6 @@
      "cap": "Clarion Hotel Air, Sola"
     },
     {
-     "src": "photos/img-4912.jpg",
-     "cap": "Dinner at the Clarion"
-    },
-    {
-     "src": "photos/img-4915.jpg",
-     "cap": "The delayed bags have arrived!"
-    },
-    {
-     "src": "photos/img-4917.jpg",
-     "cap": "Breakfast at the hotel"
-    },
-    {
      "src": "photos/img-4919.jpg",
      "cap": "Stavanger Airport, Sola"
     },
@@ -410,10 +398,6 @@
     {
      "src": "photos/img-5052.jpg",
      "cap": "The atrium at Hotel Brosundet"
-    },
-    {
-     "src": "photos/img-5082.jpg",
-     "cap": "Oysters from Normandie, France"
     }
    ]
   },
@@ -501,10 +485,6 @@
     {
      "src": "photos/img-5139.jpg",
      "cap": "Grotli Høyfjellshotell"
-    },
-    {
-     "src": "photos/img-5143.jpg",
-     "cap": "The lounge at Grotli"
     }
    ]
   },
@@ -568,10 +548,6 @@
     {
      "src": "photos/img-5188.jpg",
      "cap": "A rest stop on the scenic route"
-    },
-    {
-     "src": "photos/img-5196.jpg",
-     "cap": "The back of an architect-designed restroom"
     },
     {
      "src": "photos/img-5197.jpg",
@@ -753,13 +729,7 @@
    ],
    "lodging": {
     "name": "Comfort Hotel Grand Central, Oslo"
-   },
-   "photos": [
-    {
-     "src": "photos/img-5359.jpg",
-     "cap": "Breakfast at the Eilert Smith"
-    }
-   ]
+   }
   },
   {
    "label": "After the ride",

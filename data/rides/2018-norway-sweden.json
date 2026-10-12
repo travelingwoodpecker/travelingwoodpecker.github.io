@@ -163,10 +163,6 @@
      "cap": "Lake Torneträsk"
     },
     {
-     "src": "photos/img-1701.jpg",
-     "cap": "Fika on the road"
-    },
-    {
      "src": "photos/img-1704.jpg",
      "cap": "A beer in Kiruna"
     },
@@ -216,10 +212,6 @@
    "to_t": "Oslo",
    "photos": [
     {
-     "src": "photos/img-1904.jpg",
-     "cap": "Back on the road"
-    },
-    {
      "src": "photos/img-1907.jpg",
      "cap": "A reindeer on the road"
     },
@@ -246,10 +238,6 @@
     {
      "src": "photos/img-1946.jpg",
      "cap": "The giant moose sculpture"
-    },
-    {
-     "src": "photos/img-1957.jpg",
-     "cap": "Lunch on the way back to Oslo"
     }
    ]
   },
