@@ -55,10 +55,6 @@
      "cap": "The Harley on CA-190 heading into Death Valley"
     },
     {
-     "src": "photos/img-1894.jpg",
-     "cap": "In-N-Out in Victorville"
-    },
-    {
      "src": "photos/img-1895.jpg",
      "cap": "Holiday Inn, Victorville"
     }
@@ -73,10 +69,6 @@
     "name": "Avenue Inn, San Luis Obispo"
    },
    "photos": [
-    {
-     "src": "photos/img-1905.jpg",
-     "cap": "A stop in Highland Park, Los Angeles"
-    },
     {
      "src": "photos/img-1917.jpg",
      "cap": "Avenue Inn, San Luis Obispo"
@@ -99,10 +91,6 @@
     {
      "src": "photos/img-9063.jpg",
      "cap": "Green hills on the way inland"
-    },
-    {
-     "src": "photos/img-9086.jpg",
-     "cap": "The Eastern Sierra from the road"
     },
     {
      "src": "photos/img-9104.jpg",
@@ -136,20 +124,12 @@
      "cap": "The 55+ menu at Denny's"
     },
     {
-     "src": "photos/img-2016.jpg",
-     "cap": "Breakfast at Denny's, Beatty"
-    },
-    {
      "src": "photos/img-2018.jpg",
      "cap": "Returning the Harley in Las Vegas"
     },
     {
      "src": "photos/img-9176.jpg",
      "cap": "Master Kim's Korean BBQ, Las Vegas"
-    },
-    {
-     "src": "photos/img-9172.jpg",
-     "cap": "A beer to finish the ride at Master Kim's"
     }
    ]
   }

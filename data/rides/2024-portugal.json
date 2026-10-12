@@ -49,10 +49,6 @@
      "cap": "First stop on the coast"
     },
     {
-     "src": "photos/img-0505.jpg",
-     "cap": "Praia da Física"
-    },
-    {
      "src": "photos/img-0520.jpg",
      "cap": "Nazaré from the cliffs"
     },
@@ -67,10 +63,6 @@
     {
      "src": "photos/img-0531.jpg",
      "cap": "The bikes at the hotel, São Pedro de Moel"
-    },
-    {
-     "src": "photos/img-0535.jpg",
-     "cap": "The group at dinner"
     }
    ]
   },
@@ -88,10 +80,6 @@
     {
      "src": "photos/img-0537.jpg",
      "cap": "Largo de São Domingos at night"
-    },
-    {
-     "src": "photos/img-0538.jpg",
-     "cap": "Dinner at Traça, Porto"
     }
    ],
    "dining": [
@@ -114,10 +102,6 @@
     "East into the Douro, the world’s oldest demarcated wine region, following the river through terraced vineyards to Quinta de la Rosa above Pinhão, in the middle of the harvest."
    ],
    "photos": [
-    {
-     "src": "photos/img-0542.jpg",
-     "cap": "Lunch at Quinta de la Rosa"
-    },
     {
      "src": "photos/img-0543.jpg",
      "cap": "Quinta de la Rosa wines"
@@ -157,28 +141,8 @@
    ],
    "photos": [
     {
-     "src": "photos/img-0596.jpg",
-     "cap": "Out on the Douro by boat"
-    },
-    {
-     "src": "photos/p-f048bbc4.jpg",
-     "cap": "A glass of wine on the river"
-    },
-    {
-     "src": "photos/img-0836.jpg",
-     "cap": "A toast on the boat"
-    },
-    {
-     "src": "photos/img-0907.jpg",
-     "cap": "The Douro by train"
-    },
-    {
      "src": "photos/img-0789.jpg",
      "cap": "Port ageing in the cellar"
-    },
-    {
-     "src": "photos/img-0629.jpg",
-     "cap": "In the port lodge"
     },
     {
      "src": "photos/img-0793.jpg",
@@ -211,10 +175,6 @@
      "cap": "A stop in the hills"
     },
     {
-     "src": "photos/img-2825.jpg",
-     "cap": "Dinner and a toast"
-    },
-    {
      "src": "photos/img-0611.jpg",
      "cap": "A game of pool after dinner"
     }
@@ -242,10 +202,6 @@
      "cap": "A coffee stop in the mountains"
     },
     {
-     "src": "photos/img-0644.jpg",
-     "cap": "Coffee in a stone café"
-    },
-    {
      "src": "photos/20241012_121331.jpg",
      "cap": "Granite granaries (espigueiros)"
     },
@@ -264,14 +220,6 @@
     {
      "src": "photos/img-0665.jpg",
      "cap": "The Arco da Porta Nova, Braga"
-    },
-    {
-     "src": "photos/img-0672.jpg",
-     "cap": "Dinner in Braga"
-    },
-    {
-     "src": "photos/img-0943.jpg",
-     "cap": "Dessert: Pyjamas"
     }
    ]
   },
@@ -294,14 +242,6 @@
     {
      "src": "photos/img-0685.jpg",
      "cap": "The dining room"
-    },
-    {
-     "src": "photos/img-0716.jpg",
-     "cap": "Dinner at Quinta Lusitania"
-    },
-    {
-     "src": "photos/img-0721.jpg",
-     "cap": "The chapel at Quinta Lusitania"
     },
     {
      "src": "photos/img-0991.jpg",
@@ -380,22 +320,6 @@
     {
      "src": "photos/img-0759.jpg",
      "cap": "The Roman Temple of Diana, Évora"
-    },
-    {
-     "src": "photos/img-0761.jpg",
-     "cap": "Returning the bike in Lisbon"
-    },
-    {
-     "src": "photos/img-0765.jpg",
-     "cap": "The group back in Lisbon"
-    },
-    {
-     "src": "photos/img-3688.jpg",
-     "cap": "Farewell dinner at Zazah, Lisbon"
-    },
-    {
-     "src": "photos/img-0769.jpg",
-     "cap": "The last toast at Zazah"
     }
    ],
    "dining": [

@@ -310,10 +310,6 @@
     {
      "src": "photos/devitt.jpg",
      "cap": "Devitt Winery, Applegate, Oregon"
-    },
-    {
-     "src": "photos/img-4064.jpg",
-     "cap": "Tasting at Devitt Winery"
     }
    ]
   },
@@ -389,20 +385,12 @@
      "cap": "Mount Shasta from the US-97 vista point"
     },
     {
-     "src": "photos/img-1200.jpg",
-     "cap": "At the Mount Shasta vista"
-    },
-    {
      "src": "photos/img-4079.jpg",
      "cap": "A stop in the town of Mount Shasta"
     },
     {
      "src": "photos/img-2097.jpg",
      "cap": "Lake Helen and Lassen Peak, Lassen Volcanic National Park"
-    },
-    {
-     "src": "photos/img-4082.jpg",
-     "cap": "Dinner in Red Bluff"
     }
    ]
   },
@@ -481,10 +469,6 @@
     "1:39 PM tee time"
    ],
    "photos": [
-    {
-     "src": "photos/img-4124.jpg",
-     "cap": "Ready to tee off at Chardonnay"
-    },
     {
      "src": "photos/img-4127.jpg",
      "cap": "Vineyards at Chardonnay Golf Club"

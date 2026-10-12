@@ -188,16 +188,8 @@
    },
    "photos": [
     {
-     "src": "photos/img-4932.jpg",
-     "cap": "Picking up the bikes"
-    },
-    {
      "src": "photos/img-4936.jpg",
      "cap": "AllSupermoto, Stavanger"
-    },
-    {
-     "src": "photos/img-4937.jpg",
-     "cap": "On the Hjelmeland ferry"
     },
     {
      "src": "photos/img-4938.jpg",
@@ -276,16 +268,6 @@
      "cap": "Bergen from above"
     },
     {
-     "src": "photos/img-4970.jpg",
-     "cap": "Meeting up with Norwegian YouTuber Thomas Hansen",
-     "link": "https://www.youtube.com/@tshansen",
-     "link_text": "youtube.com/@tshansen"
-    },
-    {
-     "src": "photos/img-4973.jpg",
-     "cap": "Dinner at Bryggeriet on the harbor"
-    },
-    {
      "src": "photos/img-4978.jpg",
      "cap": "Mussels and a house-brewed beer at Bryggeriet"
     }
@@ -343,10 +325,6 @@
     {
      "src": "photos/img-5006.jpg",
      "cap": "An old stone bridge"
-    },
-    {
-     "src": "photos/img-3824.jpg",
-     "cap": "A stop on the way"
     },
     {
      "src": "photos/img-5007.jpg",
@@ -436,10 +414,6 @@
     {
      "src": "photos/img-5052.jpg",
      "cap": "The atrium at Hotel Brosundet"
-    },
-    {
-     "src": "photos/img-5076.jpg",
-     "cap": "A drink in Ålesund"
     },
     {
      "src": "photos/img-5082.jpg",
@@ -584,10 +558,6 @@
      "cap": "Pastries at Bakeriet i Lom"
     },
     {
-     "src": "photos/img-5178.jpg",
-     "cap": "Breakfast at the bakery in Lom"
-    },
-    {
      "src": "photos/img-5179.jpg",
      "cap": "Bakeriet i Lom"
     },
@@ -662,18 +632,6 @@
      "cap": "A waterfall from the Flåm Railway"
     },
     {
-     "src": "photos/img-5217.jpg",
-     "cap": "Snow on the hike"
-    },
-    {
-     "src": "photos/img-5222.jpg",
-     "cap": "Crossing the river"
-    },
-    {
-     "src": "photos/img-5321.jpg",
-     "cap": "On the hike with a local guide"
-    },
-    {
      "src": "photos/img-5234.jpg",
      "cap": "Finse"
     },
@@ -720,10 +678,6 @@
    },
    "photos": [
     {
-     "src": "photos/img-4068.jpg",
-     "cap": "Ready to ride the Rallarvegen by bicycle"
-    },
-    {
      "src": "photos/img-4114.jpg",
      "cap": "The Rallarvegen route on the bike"
     },
@@ -738,10 +692,6 @@
     {
      "src": "photos/img-5294.jpg",
      "cap": "The bikes at Store Ringheim"
-    },
-    {
-     "src": "photos/img-5306.jpg",
-     "cap": "Dinner at Store Ringheim"
     }
    ]
   },
@@ -789,10 +739,6 @@
      "cap": "Another architect-designed restroom"
     },
     {
-     "src": "photos/img-4165.jpg",
-     "cap": "On the ferry to Arsvågen"
-    },
-    {
      "src": "photos/img-5350.jpg",
      "cap": "Eilert Smith Hotel, Stavanger"
     },
@@ -816,10 +762,6 @@
     {
      "src": "photos/img-5359.jpg",
      "cap": "Breakfast at the Eilert Smith"
-    },
-    {
-     "src": "photos/img-5366.jpg",
-     "cap": "Returning the bikes at AllSupermoto"
     }
    ]
   },
@@ -829,16 +771,8 @@
    "title": "Oslo",
    "photos": [
     {
-     "src": "photos/img-5373.jpg",
-     "cap": "Dinner with friends"
-    },
-    {
      "src": "photos/img-5380.jpg",
      "cap": "Oslo"
-    },
-    {
-     "src": "photos/img-5382.jpg",
-     "cap": "Vigeland Park, Oslo"
     },
     {
      "src": "photos/img-5391.jpg",

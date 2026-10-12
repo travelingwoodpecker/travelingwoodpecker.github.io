@@ -32,10 +32,6 @@
      "cap": "A close look at the exhaust"
     },
     {
-     "src": "photos/img-3310.jpg",
-     "cap": "A break in the Coast Range"
-    },
-    {
      "src": "photos/img-3311.jpg",
      "cap": "Fog on the coast north of Florence"
     },
@@ -46,10 +42,6 @@
     {
      "src": "photos/img-3328.jpg",
      "cap": "The view from Cape Perpetua"
-    },
-    {
-     "src": "photos/img-3331.jpg",
-     "cap": "Eola Hills wine in Newberg"
     }
    ]
   },
@@ -101,10 +93,6 @@
      "cap": "Balch Hotel, Dufur"
     },
     {
-     "src": "photos/img-7028.jpg",
-     "cap": "A wine tasting in Dufur"
-    },
-    {
      "src": "photos/img-7030.jpg",
      "cap": "On the steps of the Balch Hotel"
     },
@@ -135,16 +123,8 @@
      "cap": "Mount Hood from the road"
     },
     {
-     "src": "photos/img-3418.jpg",
-     "cap": "A stop in Detroit"
-    },
-    {
      "src": "photos/img-3422.jpg",
      "cap": "Element Bend"
-    },
-    {
-     "src": "photos/img-7123.jpg",
-     "cap": "A Cuban dinner in Bend"
     }
    ]
   },
@@ -174,14 +154,6 @@
     {
      "src": "photos/img-7176.jpg",
      "cap": "At the Crater Lake National Park north entrance"
-    },
-    {
-     "src": "photos/img-7178.jpg",
-     "cap": "A break on the way to Roseburg"
-    },
-    {
-     "src": "photos/img-7183.jpg",
-     "cap": "A glass of wine in Roseburg"
     }
    ]
   },
@@ -202,10 +174,6 @@
    "to_t": "Eugene, OR",
    "photos": [
     {
-     "src": "photos/img-7208.jpg",
-     "cap": "A coffee stop"
-    },
-    {
      "src": "photos/img-3510.jpg",
      "cap": "A fish corkscrew souvenir"
     },
@@ -218,16 +186,8 @@
      "cap": "Best of Show at Brandborg Vineyard, Elkton"
     },
     {
-     "src": "photos/img-7218.jpg",
-     "cap": "Tasting at Brandborg"
-    },
-    {
      "src": "photos/img-3522.jpg",
      "cap": "King Estate Winery, Lorane"
-    },
-    {
-     "src": "photos/img-7238.jpg",
-     "cap": "Back in Eugene with the bikes"
     }
    ]
   }
