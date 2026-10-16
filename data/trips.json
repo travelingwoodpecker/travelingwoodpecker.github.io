@@ -70,6 +70,21 @@
  ],
  "trips": [
   {
+   "year": 2026,
+   "title": "Japan Central Alps",
+   "countries": [
+    "japan"
+   ],
+   "days": 12,
+   "links": [
+    {
+     "kind": "page",
+     "url": "/japan/2026-japan-central-alps/"
+    }
+   ],
+   "dates": "Oct 4–15, 2026"
+  },
+  {
    "year": 2025,
    "title": "Northern California & Southern Oregon",
    "countries": [
